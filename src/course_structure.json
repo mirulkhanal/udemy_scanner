@@ -1,5 +1,5 @@
 {
-  "name": "The Complete React Native + Hooks Course [Stephen Grider, 2023]",
+  "name": "[FreeCourseSite.com] Udemy - Beginning C++ Programming - From Beginner to Beyond",
   "children": [
     {
       "name": "0. Websites you may like",
@@ -19,3975 +19,2971 @@
       ]
     },
     {
-      "name": "1 - Getting Started",
+      "name": "01 - Introduction",
       "children": [
         {
-          "name": "1 - How to Get Help English.srt",
+          "name": "001 About the Course.mp4",
           "children": []
         },
         {
-          "name": "1 - How to Get Help.mp4",
+          "name": "001 About the Course_en.srt",
           "children": []
         },
         {
-          "name": "10 - Using iOS and Android Simulators.html",
+          "name": "002 IEEE-Index.url",
           "children": []
         },
         {
-          "name": "2 - Course Resources.html",
+          "name": "002 PYPL-Index.url",
           "children": []
         },
         {
-          "name": "2 - diagrams.zip",
+          "name": "002 RedMonk-Rankings.url",
           "children": []
         },
         {
-          "name": "3 - Join Our Community.html",
+          "name": "002 Tiobe-Index.url",
           "children": []
         },
         {
-          "name": "4 - Course Overview English.srt",
+          "name": "002 Why Learn C++.mp4",
           "children": []
         },
         {
-          "name": "4 - Course Overview.mp4",
+          "name": "002 Why Learn C++_en.srt",
           "children": []
         },
         {
-          "name": "5 - Installing Nodejs and Prerequisite Info.html",
+          "name": "002 ZDNET.url",
           "children": []
         },
         {
-          "name": "6 - Boilerplate Download and Startup.html",
+          "name": "003 Modern C++ and the  C++ Standard.mp4",
           "children": []
         },
         {
-          "name": "6 - rn-starter.zip",
+          "name": "003 Modern C++ and the  C++ Standard_en.srt",
           "children": []
         },
         {
-          "name": "7 - App Setup English.srt",
+          "name": "004 How does all this work.mp4",
           "children": []
         },
         {
-          "name": "7 - App Setup.mp4",
+          "name": "004 How does all this work_en.srt",
           "children": []
         },
         {
-          "name": "8 - Making Changes English.srt",
+          "name": "005 CPP-FAQ.pdf",
           "children": []
         },
         {
-          "name": "8 - Making Changes.mp4",
+          "name": "005 FAQ -- Please Read!.html",
           "children": []
         },
         {
-          "name": "9 - Expo for Web Browser Do Not Skip.html",
+          "name": "external-links.txt",
           "children": []
         }
       ]
     },
     {
-      "name": "10 - Making Hooks Reusable",
+      "name": "02 - Installation and Setup",
       "children": [
         {
-          "name": "102 - Incorrect Hook Name in Slide.html",
+          "name": "001 Installation and Setup Overview.mp4",
           "children": []
         },
         {
-          "name": "103 - 103-useEffect.zip",
+          "name": "001 Installation and Setup Overview_en.srt",
           "children": []
         },
         {
-          "name": "103 - The UseEffect Hook English.srt",
+          "name": "001 Ubuntu-Version-Updated-to-22.04.pdf",
           "children": []
         },
         {
-          "name": "103 - The UseEffect Hook.mp4",
+          "name": "002 Installing the C++ Compiler on Windows.mp4",
           "children": []
         },
         {
-          "name": "104 - 104-extracting.zip",
+          "name": "002 Installing the C++ Compiler on Windows_en.srt",
           "children": []
         },
         {
-          "name": "104 - Extracting Hook Logic English.srt",
+          "name": "002 Setting-Path-Pre-Windows10-MinGW64.pdf",
           "children": []
         },
         {
-          "name": "104 - Extracting Hook Logic.mp4",
+          "name": "002 WinLibs-standalone-build-of-GCC-and-MinGW-w64-for-Windows.url",
           "children": []
         },
         {
-          "name": "105 - 105-showing.zip",
+          "name": "003 AntiVirus-Interference.pdf",
           "children": []
         },
         {
-          "name": "105 - Showing Search Results English.srt",
+          "name": "003 CodeLite-IDE-Homepage.url",
           "children": []
         },
         {
-          "name": "105 - Showing Search Results.mp4",
+          "name": "003 Installing CodeLite on Windows.mp4",
           "children": []
         },
         {
-          "name": "106 - 106-grouping.zip",
+          "name": "003 Installing CodeLite on Windows_en.srt",
           "children": []
         },
         {
-          "name": "106 - Grouping Results English.srt",
+          "name": "004 CodeLite-Configuration-Updates.pdf",
           "children": []
         },
         {
-          "name": "106 - Grouping Results.mp4",
+          "name": "004 Codelite-13.0.1-Configuration-Updates.pdf",
           "children": []
         },
         {
-          "name": "107 - 107-flatlist.zip",
+          "name": "004 Codelite-13.0.2-Configuration-Updates.pdf",
           "children": []
         },
         {
-          "name": "107 - FlatList Rendering English.srt",
+          "name": "004 Codelite-14.0.0-ConfigurationUpdates.pdf",
           "children": []
         },
         {
-          "name": "107 - FlatList Rendering.mp4",
+          "name": "004 Configuring CodeLite on Windows.mp4",
+          "children": []
+        },
+        {
+          "name": "004 Configuring CodeLite on Windows_en.srt",
+          "children": []
+        },
+        {
+          "name": "004 Manually-Adding-MinGW64-CodeLite.pdf",
+          "children": []
+        },
+        {
+          "name": "004 Updates-to-MinGW-Dec-2018.pdf",
+          "children": []
+        },
+        {
+          "name": "005 Installing the C++ Compiler on Mac OSX.mp4",
+          "children": []
+        },
+        {
+          "name": "005 Installing the C++ Compiler on Mac OSX_en.srt",
+          "children": []
+        },
+        {
+          "name": "006 CodeLite-IDE-Homepage.url",
+          "children": []
+        },
+        {
+          "name": "006 Installing CodeLite on Mac OSX.mp4",
+          "children": []
+        },
+        {
+          "name": "006 Installing CodeLite on Mac OSX_en.srt",
+          "children": []
+        },
+        {
+          "name": "007 CodeLite-Configuration-Updates.pdf",
+          "children": []
+        },
+        {
+          "name": "007 Codelite-13.0.2-Configuration-Updates.pdf",
+          "children": []
+        },
+        {
+          "name": "007 Codelite-14.0.0-ConfigurationUpdates.pdf",
+          "children": []
+        },
+        {
+          "name": "007 Configuring CodeLite on Mac OSX.mp4",
+          "children": []
+        },
+        {
+          "name": "007 Configuring CodeLite on Mac OSX_en.srt",
+          "children": []
+        },
+        {
+          "name": "008 Using the Command-Line interface.mp4",
+          "children": []
+        },
+        {
+          "name": "008 Using the Command-Line interface_en.srt",
+          "children": []
+        },
+        {
+          "name": "009 CodeLite-IDE-Homepage.url",
+          "children": []
+        },
+        {
+          "name": "009 Installing CodeLite on Ubuntu Linux.mp4",
+          "children": []
+        },
+        {
+          "name": "009 Installing CodeLite on Ubuntu Linux_en.srt",
+          "children": []
+        },
+        {
+          "name": "010 Codelite-14.0.0-ConfigurationUpdates.pdf",
+          "children": []
+        },
+        {
+          "name": "010 Configuring CodeLite on Ubuntu Linux.mp4",
+          "children": []
+        },
+        {
+          "name": "010 Configuring CodeLite on Ubuntu Linux_en.srt",
+          "children": []
+        },
+        {
+          "name": "011 Creating a Default CodeLite Project Template (All Versions).mp4",
+          "children": []
+        },
+        {
+          "name": "011 Creating a Default CodeLite Project Template (All Versions)_en.srt",
+          "children": []
+        },
+        {
+          "name": "012 Desktop-Folder-not-Found-in-Windows.pdf",
+          "children": []
+        },
+        {
+          "name": "012 Using the Command-Line Interface on Windows.mp4",
+          "children": []
+        },
+        {
+          "name": "012 Using the Command-Line Interface on Windows_en.srt",
+          "children": []
+        },
+        {
+          "name": "013 Using the Command-Line Interface on Mac OSX.mp4",
+          "children": []
+        },
+        {
+          "name": "013 Using the Command-Line Interface on Mac OSX_en.srt",
+          "children": []
+        },
+        {
+          "name": "014 Using the Command-Line Interface on Linux (Ubuntu).mp4",
+          "children": []
+        },
+        {
+          "name": "014 Using the Command-Line Interface on Linux (Ubuntu)_en.srt",
+          "children": []
+        },
+        {
+          "name": "015 C-Shell-Homepage.url",
+          "children": []
+        },
+        {
+          "name": "015 IDE-One.url",
+          "children": []
+        },
+        {
+          "name": "015 OnlineGDB-Homepage.url",
+          "children": []
+        },
+        {
+          "name": "015 Repl.It.url",
+          "children": []
+        },
+        {
+          "name": "015 Using a Web-based C++ Compiler.mp4",
+          "children": []
+        },
+        {
+          "name": "015 Using a Web-based C++ Compiler_en.srt",
+          "children": []
+        },
+        {
+          "name": "016 Source-Code.pdf",
+          "children": []
+        },
+        {
+          "name": "016 Using the Included Source Code Course Resources.mp4",
+          "children": []
+        },
+        {
+          "name": "016 Using the Included Source Code Course Resources_en.srt",
+          "children": []
+        },
+        {
+          "name": "external-links.txt",
           "children": []
         }
       ]
     },
     {
-      "name": "11 - Navigation with Parameters",
+      "name": "03 - Curriculum Overview",
       "children": [
         {
-          "name": "108 - 108-showing-single.zip",
+          "name": "001 Curriculum Overview.mp4",
           "children": []
         },
         {
-          "name": "108 - Showing a Single Result English.srt",
+          "name": "001 Curriculum Overview_en.srt",
           "children": []
         },
         {
-          "name": "108 - Showing a Single Result.mp4",
+          "name": "002 Overview of the Section Challenge Exercises.mp4",
           "children": []
         },
         {
-          "name": "109 - 109-showing-additional.zip",
+          "name": "002 Overview of the Section Challenge Exercises_en.srt",
           "children": []
         },
         {
-          "name": "109 - Showing Additional Info English.srt",
+          "name": "003 Overview of the Section Quizzes.mp4",
           "children": []
         },
         {
-          "name": "109 - Showing Additional Info.mp4",
-          "children": []
-        },
-        {
-          "name": "110 - A Few More Styling Issues English.srt",
-          "children": []
-        },
-        {
-          "name": "110 - A Few More Styling Issues.mp4",
-          "children": []
-        },
-        {
-          "name": "111 - Hiding Scroll Bars English.srt",
-          "children": []
-        },
-        {
-          "name": "111 - Hiding Scroll Bars.mp4",
-          "children": []
-        },
-        {
-          "name": "112 - Constraining View Elements English.srt",
-          "children": []
-        },
-        {
-          "name": "112 - Constraining View Elements.mp4",
-          "children": []
-        },
-        {
-          "name": "113 - Empty Elements English.srt",
-          "children": []
-        },
-        {
-          "name": "113 - Empty Elements.mp4",
-          "children": []
-        },
-        {
-          "name": "114 - 114-spacing.zip",
-          "children": []
-        },
-        {
-          "name": "114 - Spacing on the Search Bar English.srt",
-          "children": []
-        },
-        {
-          "name": "114 - Spacing on the Search Bar.mp4",
-          "children": []
-        },
-        {
-          "name": "115 - Reminder on Navigation English.srt",
-          "children": []
-        },
-        {
-          "name": "115 - Reminder on Navigation.mp4",
-          "children": []
-        },
-        {
-          "name": "116 - 116-navigating.zip",
-          "children": []
-        },
-        {
-          "name": "116 - Navigating from a Child Component English.srt",
-          "children": []
-        },
-        {
-          "name": "116 - Navigating from a Child Component.mp4",
-          "children": []
-        },
-        {
-          "name": "117 - 117-with-navigation.zip",
-          "children": []
-        },
-        {
-          "name": "117 - The WithNavigation Helper English.srt",
-          "children": []
-        },
-        {
-          "name": "117 - The WithNavigation Helper.mp4",
-          "children": []
-        },
-        {
-          "name": "118 - 118-communicating.zip",
-          "children": []
-        },
-        {
-          "name": "118 - Communicating Between Screens English.srt",
-          "children": []
-        },
-        {
-          "name": "118 - Communicating Between Screens.mp4",
-          "children": []
-        },
-        {
-          "name": "119 - 119-fetching.zip",
-          "children": []
-        },
-        {
-          "name": "119 - Fetching a Single Restaurant English.srt",
-          "children": []
-        },
-        {
-          "name": "119 - Fetching a Single Restaurant.mp4",
-          "children": []
-        },
-        {
-          "name": "120 - 120-showing.zip",
-          "children": []
-        },
-        {
-          "name": "120 - Showing a List of Images English.srt",
-          "children": []
-        },
-        {
-          "name": "120 - Showing a List of Images.mp4",
-          "children": []
-        },
-        {
-          "name": "121 - 121-one-last.zip",
-          "children": []
-        },
-        {
-          "name": "121 - One Last Fix English.srt",
-          "children": []
-        },
-        {
-          "name": "121 - One Last Fix.mp4",
-          "children": []
-        },
-        {
-          "name": "122 - Upgrading the Restaurant app to use React Navigation v6.html",
-          "children": []
-        },
-        {
-          "name": "122 - food-rn6.zip",
+          "name": "003 Overview of the Section Quizzes_en.srt",
           "children": []
         }
       ]
     },
     {
-      "name": "12 - Advanced State Management with Context",
+      "name": "04 - Getting Started",
       "children": [
         {
-          "name": "123 - Important Note About Project Generation.html",
+          "name": "001 Section Overview.mp4",
           "children": []
         },
         {
-          "name": "124 - App Overview English.srt",
+          "name": "001 Section Overview_en.srt",
           "children": []
         },
         {
-          "name": "124 - App Overview.mp4",
+          "name": "001 Section4.zip",
           "children": []
         },
         {
-          "name": "125 - Issues with Data English.srt",
+          "name": "002 An Overview of the CodeLite Interface.mp4",
           "children": []
         },
         {
-          "name": "125 - Issues with Data.mp4",
+          "name": "002 An Overview of the CodeLite Interface_en.srt",
           "children": []
         },
         {
-          "name": "126 - Required React Navigation Installation Update.html",
+          "name": "003 AntiVirus-Interference.pdf",
           "children": []
         },
         {
-          "name": "126 - blog-boilerplate.zip",
+          "name": "003 Writing our first program.mp4",
           "children": []
         },
         {
-          "name": "127 - 126-initial.zip",
+          "name": "003 Writing our first program_en.srt",
           "children": []
         },
         {
-          "name": "127 - Initial Setup English.srt",
+          "name": "004 Building our first program.mp4",
           "children": []
         },
         {
-          "name": "127 - Initial Setup.mp4",
+          "name": "004 Building our first program_en.srt",
           "children": []
         },
         {
-          "name": "128 - 127-wrapping.zip",
+          "name": "005 What are Compiler Errors.mp4",
           "children": []
         },
         {
-          "name": "128 - Wrapping the Navigator English.srt",
+          "name": "005 What are Compiler Errors_en.srt",
           "children": []
         },
         {
-          "name": "128 - Wrapping the Navigator.mp4",
+          "name": "006 What are Compiler Warnings.mp4",
           "children": []
         },
         {
-          "name": "129 - Introduction to Context English.srt",
+          "name": "006 What are Compiler Warnings_en.srt",
           "children": []
         },
         {
-          "name": "129 - Introduction to Context.mp4",
+          "name": "007 What are Linker Errors.mp4",
           "children": []
         },
         {
-          "name": "130 - 129-adding.zip",
+          "name": "007 What are Linker Errors_en.srt",
           "children": []
         },
         {
-          "name": "130 - Adding Context English.srt",
+          "name": "008 What are Runtime Errors.mp4",
           "children": []
         },
         {
-          "name": "130 - Adding Context.mp4",
+          "name": "008 What are Runtime Errors_en.srt",
           "children": []
         },
         {
-          "name": "131 - 130-moving.zip",
+          "name": "009 What are Logic Errors.mp4",
           "children": []
         },
         {
-          "name": "131 - Moving Data with Context English.srt",
+          "name": "009 What are Logic Errors_en.srt",
           "children": []
         },
         {
-          "name": "131 - Moving Data with Context.mp4",
+          "name": "010 Section Challenge.mp4",
           "children": []
         },
         {
-          "name": "132 - 131-rendering.zip",
+          "name": "010 Section Challenge_en.srt",
           "children": []
         },
         {
-          "name": "132 - Rendering a List of Posts English.srt",
+          "name": "011 Section Challenge - Solution.mp4",
           "children": []
         },
         {
-          "name": "132 - Rendering a List of Posts.mp4",
-          "children": []
-        },
-        {
-          "name": "133 - Adding State in Context English.srt",
-          "children": []
-        },
-        {
-          "name": "133 - Adding State in Context.mp4",
-          "children": []
-        },
-        {
-          "name": "134 - 133-it-works.zip",
-          "children": []
-        },
-        {
-          "name": "134 - It Works English.srt",
-          "children": []
-        },
-        {
-          "name": "134 - It Works.mp4",
-          "children": []
-        },
-        {
-          "name": "135 - Opportunity for Improvement English.srt",
-          "children": []
-        },
-        {
-          "name": "135 - Opportunity for Improvement.mp4",
-          "children": []
-        },
-        {
-          "name": "136 - 135-updating.zip",
-          "children": []
-        },
-        {
-          "name": "136 - Updating with UseReducer English.srt",
-          "children": []
-        },
-        {
-          "name": "136 - Updating with UseReducer.mp4",
-          "children": []
-        },
-        {
-          "name": "137 - Automating Context Creation English.srt",
-          "children": []
-        },
-        {
-          "name": "137 - Automating Context Creation.mp4",
-          "children": []
-        },
-        {
-          "name": "138 - 137-more-automatic.zip",
-          "children": []
-        },
-        {
-          "name": "138 - More Automatic Context Creation English.srt",
-          "children": []
-        },
-        {
-          "name": "138 - More Automatic Context Creation.mp4",
-          "children": []
-        },
-        {
-          "name": "139 - 138-styling.zip",
-          "children": []
-        },
-        {
-          "name": "139 - A Bit of Styling English.srt",
-          "children": []
-        },
-        {
-          "name": "139 - A Bit of Styling.mp4",
-          "children": []
-        },
-        {
-          "name": "140 - Deleting Posts English.srt",
-          "children": []
-        },
-        {
-          "name": "140 - Deleting Posts.mp4",
-          "children": []
-        },
-        {
-          "name": "141 - 140-updating.zip",
-          "children": []
-        },
-        {
-          "name": "141 - Updating the Reducer English.srt",
-          "children": []
-        },
-        {
-          "name": "141 - Updating the Reducer.mp4",
-          "children": []
-        },
-        {
-          "name": "142 - 141-navigation.zip",
-          "children": []
-        },
-        {
-          "name": "142 - Navigation on Tap English.srt",
-          "children": []
-        },
-        {
-          "name": "142 - Navigation on Tap.mp4",
-          "children": []
-        },
-        {
-          "name": "143 - 142-retrieving.zip",
-          "children": []
-        },
-        {
-          "name": "143 - Retrieving Single Posts English.srt",
-          "children": []
-        },
-        {
-          "name": "143 - Retrieving Single Posts.mp4",
-          "children": []
-        },
-        {
-          "name": "144 - Adding a Creation Screen English.srt",
-          "children": []
-        },
-        {
-          "name": "144 - Adding a Creation Screen.mp4",
-          "children": []
-        },
-        {
-          "name": "145 - headerRight Deprecation in navigationOptions.html",
-          "children": []
-        },
-        {
-          "name": "146 - 145-header.zip",
-          "children": []
-        },
-        {
-          "name": "146 - Header Navigation English.srt",
-          "children": []
-        },
-        {
-          "name": "146 - Header Navigation.mp4",
-          "children": []
-        },
-        {
-          "name": "147 - 146-displaying.zip",
-          "children": []
-        },
-        {
-          "name": "147 - Displaying a Form English.srt",
-          "children": []
-        },
-        {
-          "name": "147 - Displaying a Form.mp4",
-          "children": []
-        },
-        {
-          "name": "148 - 147-saving.zip",
-          "children": []
-        },
-        {
-          "name": "148 - Saving a New Post English.srt",
-          "children": []
-        },
-        {
-          "name": "148 - Saving a New Post.mp4",
-          "children": []
-        },
-        {
-          "name": "149 - 148-navigation.zip",
-          "children": []
-        },
-        {
-          "name": "149 - Navigation on Save English.srt",
-          "children": []
-        },
-        {
-          "name": "149 - Navigation on Save.mp4",
-          "children": []
-        },
-        {
-          "name": "150 - headerRight Deprecation in navigationOptions.html",
-          "children": []
-        },
-        {
-          "name": "151 - 150-edit.zip",
-          "children": []
-        },
-        {
-          "name": "151 - The Edit Icon Link English.srt",
-          "children": []
-        },
-        {
-          "name": "151 - The Edit Icon Link.mp4",
-          "children": []
-        },
-        {
-          "name": "152 - 151-communicating.zip",
-          "children": []
-        },
-        {
-          "name": "152 - Communicating Info to Edit English.srt",
-          "children": []
-        },
-        {
-          "name": "152 - Communicating Info to Edit.mp4",
-          "children": []
-        },
-        {
-          "name": "153 - 152-initializing.zip",
-          "children": []
-        },
-        {
-          "name": "153 - Initializing State from Context English.srt",
-          "children": []
-        },
-        {
-          "name": "153 - Initializing State from Context.mp4",
-          "children": []
-        },
-        {
-          "name": "154 - Extracting Form Logic English.srt",
-          "children": []
-        },
-        {
-          "name": "154 - Extracting Form Logic.mp4",
-          "children": []
-        },
-        {
-          "name": "155 - 154-customizing.zip",
-          "children": []
-        },
-        {
-          "name": "155 - Customizing OnSubmit English.srt",
-          "children": []
-        },
-        {
-          "name": "155 - Customizing OnSubmit.mp4",
-          "children": []
-        },
-        {
-          "name": "156 - Initial Form Values English.srt",
-          "children": []
-        },
-        {
-          "name": "156 - Initial Form Values.mp4",
-          "children": []
-        },
-        {
-          "name": "157 - 156-default.zip",
-          "children": []
-        },
-        {
-          "name": "157 - Default Props English.srt",
-          "children": []
-        },
-        {
-          "name": "157 - Default Props.mp4",
-          "children": []
-        },
-        {
-          "name": "158 - Editing Action Function English.srt",
-          "children": []
-        },
-        {
-          "name": "158 - Editing Action Function.mp4",
-          "children": []
-        },
-        {
-          "name": "159 - 158-editing.zip",
-          "children": []
-        },
-        {
-          "name": "159 - Editing in a Reducer English.srt",
-          "children": []
-        },
-        {
-          "name": "159 - Editing in a Reducer.mp4",
-          "children": []
-        },
-        {
-          "name": "160 - 159-navigating.zip",
-          "children": []
-        },
-        {
-          "name": "160 - Navigating Backwards English.srt",
-          "children": []
-        },
-        {
-          "name": "160 - Navigating Backwards.mp4",
+          "name": "011 Section Challenge - Solution_en.srt",
           "children": []
         }
       ]
     },
     {
-      "name": "13 - Data API Sync",
+      "name": "05 - Structure of a C++ Program",
       "children": [
         {
-          "name": "161 - Outside Data API English.srt",
+          "name": "001 Section Overview.mp4",
           "children": []
         },
         {
-          "name": "161 - Outside Data API.mp4",
+          "name": "001 Section Overview_en.srt",
           "children": []
         },
         {
-          "name": "162 - Issues with Servers React Native English.srt",
+          "name": "001 Section5.zip",
           "children": []
         },
         {
-          "name": "162 - Issues with Servers React Native.mp4",
+          "name": "002 Overview of the Structure of a C++ Program.mp4",
           "children": []
         },
         {
-          "name": "163 - Important Required Ngrok Setup Steps.html",
+          "name": "002 Overview of the Structure of a C++ Program_en.srt",
           "children": []
         },
         {
-          "name": "164 - 163-jsonserver.zip",
+          "name": "003 #include Preprocessor Directive.mp4",
           "children": []
         },
         {
-          "name": "164 - JSON Server and Ngrok Setup English.srt",
+          "name": "003 #include Preprocessor Directive_en.srt",
           "children": []
         },
         {
-          "name": "164 - JSON Server and Ngrok Setup.mp4",
+          "name": "004 Comments.mp4",
           "children": []
         },
         {
-          "name": "165 - JSON Server REST Conventions English.srt",
+          "name": "004 Comments_en.srt",
           "children": []
         },
         {
-          "name": "165 - JSON Server REST Conventions.mp4",
+          "name": "005 The main() function.mp4",
           "children": []
         },
         {
-          "name": "166 - 165-making.zip",
+          "name": "005 The main() function_en.srt",
           "children": []
         },
         {
-          "name": "166 - Making a Request English.srt",
+          "name": "006 Namespaces.mp4",
           "children": []
         },
         {
-          "name": "166 - Making a Request.mp4",
+          "name": "006 Namespaces_en.srt",
           "children": []
         },
         {
-          "name": "167 - 166-remote.zip",
+          "name": "007 Basic Input and Output (IO) using cin and cout.mp4",
           "children": []
         },
         {
-          "name": "167 - Remote Fetch of Posts English.srt",
-          "children": []
-        },
-        {
-          "name": "167 - Remote Fetch of Posts.mp4",
-          "children": []
-        },
-        {
-          "name": "168 - 167-creating.zip",
-          "children": []
-        },
-        {
-          "name": "168 - Creating Posts with Post Requests English.srt",
-          "children": []
-        },
-        {
-          "name": "168 - Creating Posts with Post Requests.mp4",
-          "children": []
-        },
-        {
-          "name": "169 - 168-refetch.zip",
-          "children": []
-        },
-        {
-          "name": "169 - Refetching on Navigate English.srt",
-          "children": []
-        },
-        {
-          "name": "169 - Refetching on Navigate.mp4",
-          "children": []
-        },
-        {
-          "name": "170 - 169-deleting.zip",
-          "children": []
-        },
-        {
-          "name": "170 - Deleting a Post English.srt",
-          "children": []
-        },
-        {
-          "name": "170 - Deleting a Post.mp4",
-          "children": []
-        },
-        {
-          "name": "171 - 170-editing.zip",
-          "children": []
-        },
-        {
-          "name": "171 - Editing Posts English.srt",
-          "children": []
-        },
-        {
-          "name": "171 - Editing Posts.mp4",
-          "children": []
-        },
-        {
-          "name": "172 - App Wrapup English.srt",
-          "children": []
-        },
-        {
-          "name": "172 - App Wrapup.mp4",
-          "children": []
-        },
-        {
-          "name": "173 - Upgrading the Blog app to use React Navigation v6.html",
-          "children": []
-        },
-        {
-          "name": "173 - blog-rn6.zip",
+          "name": "007 Basic Input and Output (IO) using cin and cout_en.srt",
           "children": []
         }
       ]
     },
     {
-      "name": "14 - Building a Custom Express API",
+      "name": "06 - Variables and Constants",
       "children": [
         {
-          "name": "174 - App Overview English.srt",
+          "name": "001 Section Overview.mp4",
           "children": []
         },
         {
-          "name": "174 - App Overview.mp4",
+          "name": "001 Section Overview_en.srt",
           "children": []
         },
         {
-          "name": "175 - Dependencies Setup English.srt",
+          "name": "001 Section6.zip",
           "children": []
         },
         {
-          "name": "175 - Dependencies Setup.mp4",
+          "name": "002 What is a variable.mp4",
           "children": []
         },
         {
-          "name": "176 - The Basics of Express English.srt",
+          "name": "002 What is a variable_en.srt",
           "children": []
         },
         {
-          "name": "176 - The Basics of Express.mp4",
+          "name": "003 Declaring and Initializing Variables.mp4",
           "children": []
         },
         {
-          "name": "177 - MongoDB Setup English.srt",
+          "name": "003 Declaring and Initializing Variables_en.srt",
           "children": []
         },
         {
-          "name": "177 - MongoDB Setup.mp4",
+          "name": "004 Global Variables.mp4",
           "children": []
         },
         {
-          "name": "178 - Connecting to MongoDB English.srt",
+          "name": "004 Global Variables_en.srt",
           "children": []
         },
         {
-          "name": "178 - Connecting to MongoDB.mp4",
+          "name": "005 C++ Built-in Primitive Types.mp4",
           "children": []
         },
         {
-          "name": "179 - Nodemon for Automatic Restarts English.srt",
+          "name": "005 C++ Built-in Primitive Types_en.srt",
           "children": []
         },
         {
-          "name": "179 - Nodemon for Automatic Restarts.mp4",
+          "name": "005 Errata-47.pdf",
           "children": []
         },
         {
-          "name": "180 - Understanding the Signup Process English.srt",
+          "name": "006 What is the Size of a Variable (sizeof).mp4",
           "children": []
         },
         {
-          "name": "180 - Understanding the Signup Process.mp4",
+          "name": "006 What is the Size of a Variable (sizeof)_en.srt",
           "children": []
         },
         {
-          "name": "181 - Using Postman English.srt",
+          "name": "007 What is a Constant.mp4",
           "children": []
         },
         {
-          "name": "181 - Using Postman.mp4",
+          "name": "007 What is a Constant_en.srt",
           "children": []
         },
         {
-          "name": "182 - Handling JSON Data English.srt",
+          "name": "008 Declaring and Using Constants.mp4",
           "children": []
         },
         {
-          "name": "182 - Handling JSON Data.mp4",
+          "name": "008 Declaring and Using Constants_en.srt",
           "children": []
         },
         {
-          "name": "183 - Defining a User Schema English.srt",
+          "name": "009 Section Challenge.mp4",
           "children": []
         },
         {
-          "name": "183 - Defining a User Schema.mp4",
+          "name": "009 Section Challenge_en.srt",
           "children": []
         },
         {
-          "name": "184 - Creating and Saving a User English.srt",
+          "name": "010 Section Challenge - Solution.mp4",
           "children": []
         },
         {
-          "name": "184 - Creating and Saving a User.mp4",
-          "children": []
-        },
-        {
-          "name": "185 - Error Handling English.srt",
-          "children": []
-        },
-        {
-          "name": "185 - Error Handling.mp4",
-          "children": []
-        },
-        {
-          "name": "186 - JSON Web Tokens English.srt",
-          "children": []
-        },
-        {
-          "name": "186 - JSON Web Tokens.mp4",
-          "children": []
-        },
-        {
-          "name": "187 - Creating a JWT English.srt",
-          "children": []
-        },
-        {
-          "name": "187 - Creating a JWT.mp4",
-          "children": []
-        },
-        {
-          "name": "188 - Wiring Up JSON Web Tokens English.srt",
-          "children": []
-        },
-        {
-          "name": "188 - Wiring Up JSON Web Tokens.mp4",
-          "children": []
-        },
-        {
-          "name": "189 - Understanding Password Hashing English.srt",
-          "children": []
-        },
-        {
-          "name": "189 - Understanding Password Hashing.mp4",
-          "children": []
-        },
-        {
-          "name": "190 - Salting and Hashing English.srt",
-          "children": []
-        },
-        {
-          "name": "190 - Salting and Hashing.mp4",
-          "children": []
-        },
-        {
-          "name": "191 - The Signin Route English.srt",
-          "children": []
-        },
-        {
-          "name": "191 - The Signin Route.mp4",
-          "children": []
-        },
-        {
-          "name": "192 - Testing Signup and Signin English.srt",
-          "children": []
-        },
-        {
-          "name": "192 - Testing Signup and Signin.mp4",
-          "children": []
-        },
-        {
-          "name": "193 - Defining Tracks English.srt",
-          "children": []
-        },
-        {
-          "name": "193 - Defining Tracks.mp4",
-          "children": []
-        },
-        {
-          "name": "194 - Listing Tracks English.srt",
-          "children": []
-        },
-        {
-          "name": "194 - Listing Tracks.mp4",
-          "children": []
-        },
-        {
-          "name": "195 - Creating Tracks English.srt",
-          "children": []
-        },
-        {
-          "name": "195 - Creating Tracks.mp4",
+          "name": "010 Section Challenge - Solution_en.srt",
           "children": []
         }
       ]
     },
     {
-      "name": "15 - InApp Authentication",
+      "name": "07 - Arrays and Vectors",
       "children": [
         {
-          "name": "196 - Server Code.html",
+          "name": "001 Section Overview.mp4",
           "children": []
         },
         {
-          "name": "196 - track-server.zip",
+          "name": "001 Section Overview_en.srt",
           "children": []
         },
         {
-          "name": "197 - Server Setup English.srt",
+          "name": "001 Section7.zip",
           "children": []
         },
         {
-          "name": "197 - Server Setup.mp4",
+          "name": "002 What is an Array.mp4",
           "children": []
         },
         {
-          "name": "198 - Important Note About Project Generation.html",
+          "name": "002 What is an Array_en.srt",
           "children": []
         },
         {
-          "name": "199 - Navigation Design English.srt",
+          "name": "003 Declaring and Initializing Arrays.mp4",
           "children": []
         },
         {
-          "name": "199 - Navigation Design.mp4",
+          "name": "003 Declaring and Initializing Arrays_en.srt",
           "children": []
         },
         {
-          "name": "200 - Required React Navigation Installation Update.html",
+          "name": "003 Errata-55.pdf",
           "children": []
         },
         {
-          "name": "200 - tracks-boilerplate.zip",
+          "name": "004 Accessing and Modifying Array Elements.mp4",
           "children": []
         },
         {
-          "name": "201 - A LOT of Boilerplate English.srt",
+          "name": "004 Accessing and Modifying Array Elements_en.srt",
           "children": []
         },
         {
-          "name": "201 - A LOT of Boilerplate.mp4",
+          "name": "005 Multidimensional Arrays.mp4",
           "children": []
         },
         {
-          "name": "202 - 200-navigator.zip",
+          "name": "005 Multidimensional Arrays_en.srt",
           "children": []
         },
         {
-          "name": "202 - Navigator Hookup English.srt",
+          "name": "006 Declaring and Initializing Vectors.mp4",
           "children": []
         },
         {
-          "name": "202 - Navigator Hookup.mp4",
+          "name": "006 Declaring and Initializing Vectors_en.srt",
           "children": []
         },
         {
-          "name": "203 - 201-testing.zip",
+          "name": "007 Accessing and Modifying Vector Elements.mp4",
           "children": []
         },
         {
-          "name": "203 - Testing the Navigation Flow English.srt",
+          "name": "007 Accessing and Modifying Vector Elements_en.srt",
           "children": []
         },
         {
-          "name": "203 - Testing the Navigation Flow.mp4",
+          "name": "008 Section Challenge.mp4",
           "children": []
         },
         {
-          "name": "204 - React Native Elements English.srt",
+          "name": "008 Section Challenge_en.srt",
           "children": []
         },
         {
-          "name": "204 - React Native Elements.mp4",
+          "name": "009 Section Challenge - Solution.mp4",
           "children": []
         },
         {
-          "name": "205 - 203-helper.zip",
-          "children": []
-        },
-        {
-          "name": "205 - Helper Styling Components English.srt",
-          "children": []
-        },
-        {
-          "name": "205 - Helper Styling Components.mp4",
-          "children": []
-        },
-        {
-          "name": "206 - navigationOptions Deprecation Warning.html",
-          "children": []
-        },
-        {
-          "name": "207 - 205-styling.zip",
-          "children": []
-        },
-        {
-          "name": "207 - Styling Odds and Ends English.srt",
-          "children": []
-        },
-        {
-          "name": "207 - Styling Odds and Ends.mp4",
-          "children": []
-        },
-        {
-          "name": "208 - 206-input.zip",
-          "children": []
-        },
-        {
-          "name": "208 - Input Props English.srt",
-          "children": []
-        },
-        {
-          "name": "208 - Input Props.mp4",
-          "children": []
-        },
-        {
-          "name": "209 - 207-auth.zip",
-          "children": []
-        },
-        {
-          "name": "209 - The Auth Context English.srt",
-          "children": []
-        },
-        {
-          "name": "209 - The Auth Context.mp4",
-          "children": []
-        },
-        {
-          "name": "210 - Whats the Context Doing English.srt",
-          "children": []
-        },
-        {
-          "name": "210 - Whats the Context Doing.mp4",
-          "children": []
-        },
-        {
-          "name": "211 - 209-axios.zip",
-          "children": []
-        },
-        {
-          "name": "211 - Axios Setup English.srt",
-          "children": []
-        },
-        {
-          "name": "211 - Axios Setup.mp4",
-          "children": []
-        },
-        {
-          "name": "212 - 210-making.zip",
-          "children": []
-        },
-        {
-          "name": "212 - Making an API Request English.srt",
-          "children": []
-        },
-        {
-          "name": "212 - Making an API Request.mp4",
-          "children": []
-        },
-        {
-          "name": "213 - 211-handling.zip",
-          "children": []
-        },
-        {
-          "name": "213 - Handling Errored Requests English.srt",
-          "children": []
-        },
-        {
-          "name": "213 - Handling Errored Requests.mp4",
-          "children": []
-        },
-        {
-          "name": "214 - Async Storage English.srt",
-          "children": []
-        },
-        {
-          "name": "214 - Async Storage.mp4",
-          "children": []
-        },
-        {
-          "name": "215 - Async Storage Update.html",
-          "children": []
-        },
-        {
-          "name": "216 - Storing the Token English.srt",
-          "children": []
-        },
-        {
-          "name": "216 - Storing the Token.mp4",
-          "children": []
-        },
-        {
-          "name": "217 - Navigation From Outside of React English.srt",
-          "children": []
-        },
-        {
-          "name": "217 - Navigation From Outside of React.mp4",
-          "children": []
-        },
-        {
-          "name": "218 - 216-oops.zip",
-          "children": []
-        },
-        {
-          "name": "218 - Oops Typo English.srt",
-          "children": []
-        },
-        {
-          "name": "218 - Oops Typo.mp4",
-          "children": []
-        },
-        {
-          "name": "219 - Navigation to Signin English.srt",
-          "children": []
-        },
-        {
-          "name": "219 - Navigation to Signin.mp4",
-          "children": []
-        },
-        {
-          "name": "220 - Extracting Form Logic English.srt",
-          "children": []
-        },
-        {
-          "name": "220 - Extracting Form Logic.mp4",
-          "children": []
-        },
-        {
-          "name": "221 - 219-last.zip",
-          "children": []
-        },
-        {
-          "name": "221 - Last Bit of Extracting English.srt",
-          "children": []
-        },
-        {
-          "name": "221 - Last Bit of Extracting.mp4",
-          "children": []
-        },
-        {
-          "name": "222 - 220-creating.zip",
-          "children": []
-        },
-        {
-          "name": "222 - Creating a NavLink English.srt",
-          "children": []
-        },
-        {
-          "name": "222 - Creating a NavLink.mp4",
-          "children": []
-        },
-        {
-          "name": "223 - navigationOptions Deprecation.html",
-          "children": []
-        },
-        {
-          "name": "224 - Real Component Reuse English.srt",
-          "children": []
-        },
-        {
-          "name": "224 - Real Component Reuse.mp4",
-          "children": []
-        },
-        {
-          "name": "225 - 223-wiring.zip",
-          "children": []
-        },
-        {
-          "name": "225 - Wiring Up Signin English.srt",
-          "children": []
-        },
-        {
-          "name": "225 - Wiring Up Signin.mp4",
-          "children": []
-        },
-        {
-          "name": "226 - onWillFocus vs onWillBlur Update.html",
-          "children": []
-        },
-        {
-          "name": "227 - 225-clearing.zip",
-          "children": []
-        },
-        {
-          "name": "227 - Clearing Error Messages English.srt",
-          "children": []
-        },
-        {
-          "name": "227 - Clearing Error Messages.mp4",
-          "children": []
-        },
-        {
-          "name": "228 - 226-automatic.zip",
-          "children": []
-        },
-        {
-          "name": "228 - Automatic Signin English.srt",
-          "children": []
-        },
-        {
-          "name": "228 - Automatic Signin.mp4",
-          "children": []
-        },
-        {
-          "name": "229 - 227-empty.zip",
-          "children": []
-        },
-        {
-          "name": "229 - Empty Screens While Resolving Auth English.srt",
-          "children": []
-        },
-        {
-          "name": "229 - Empty Screens While Resolving Auth.mp4",
-          "children": []
-        },
-        {
-          "name": "230 - 228-signing-out.zip",
-          "children": []
-        },
-        {
-          "name": "230 - Signing Out a User English.srt",
-          "children": []
-        },
-        {
-          "name": "230 - Signing Out a User.mp4",
-          "children": []
-        },
-        {
-          "name": "231 - 229-safe.zip",
-          "children": []
-        },
-        {
-          "name": "231 - Safe Area Views English.srt",
-          "children": []
-        },
-        {
-          "name": "231 - Safe Area Views.mp4",
-          "children": []
-        },
-        {
-          "name": "232 - Working on Track Create English.srt",
-          "children": []
-        },
-        {
-          "name": "232 - Working on Track Create.mp4",
-          "children": []
-        },
-        {
-          "name": "233 - Installing React Native Maps.html",
-          "children": []
-        },
-        {
-          "name": "234 - 232-showing.zip",
-          "children": []
-        },
-        {
-          "name": "234 - Showing a Map English.srt",
-          "children": []
-        },
-        {
-          "name": "234 - Showing a Map.mp4",
-          "children": []
-        },
-        {
-          "name": "235 - 233-drawing.zip",
-          "children": []
-        },
-        {
-          "name": "235 - Drawing a Series of Points English.srt",
-          "children": []
-        },
-        {
-          "name": "235 - Drawing a Series of Points.mp4",
-          "children": []
-        },
-        {
-          "name": "236 - Notes on Location English.srt",
-          "children": []
-        },
-        {
-          "name": "236 - Notes on Location.mp4",
-          "children": []
-        },
-        {
-          "name": "237 - Fix for Missing Location Request Error.html",
-          "children": []
-        },
-        {
-          "name": "238 - requestPermissionsAsync is now deprecated in Expo SDK 41.html",
-          "children": []
-        },
-        {
-          "name": "239 - 237-requesting.zip",
-          "children": []
-        },
-        {
-          "name": "239 - Requesting Location Permissions English.srt",
-          "children": []
-        },
-        {
-          "name": "239 - Requesting Location Permissions.mp4",
-          "children": []
-        },
-        {
-          "name": "240 - Resetting Permissions English.srt",
-          "children": []
-        },
-        {
-          "name": "240 - Resetting Permissions.mp4",
-          "children": []
-        },
-        {
-          "name": "241 - How to Test Location English.srt",
-          "children": []
-        },
-        {
-          "name": "241 - How to Test Location.mp4",
-          "children": []
-        },
-        {
-          "name": "242 - 240-faking.zip",
-          "children": []
-        },
-        {
-          "name": "242 - Faking the Users Location English.srt",
-          "children": []
-        },
-        {
-          "name": "242 - Faking the Users Location.mp4",
-          "children": []
-        },
-        {
-          "name": "243 - 241-reading.zip",
-          "children": []
-        },
-        {
-          "name": "243 - Reading a Location English.srt",
-          "children": []
-        },
-        {
-          "name": "243 - Reading a Location.mp4",
-          "children": []
-        },
-        {
-          "name": "244 - Bugginess with Location English.srt",
-          "children": []
-        },
-        {
-          "name": "244 - Bugginess with Location.mp4",
-          "children": []
-        },
-        {
-          "name": "245 - Location Architecture English.srt",
-          "children": []
-        },
-        {
-          "name": "245 - Location Architecture.mp4",
-          "children": []
-        },
-        {
-          "name": "246 - 244-location.zip",
-          "children": []
-        },
-        {
-          "name": "246 - Location Context English.srt",
-          "children": []
-        },
-        {
-          "name": "246 - Location Context.mp4",
-          "children": []
-        },
-        {
-          "name": "247 - 245-live.zip",
-          "children": []
-        },
-        {
-          "name": "247 - Live Location Updates English.srt",
-          "children": []
-        },
-        {
-          "name": "247 - Live Location Updates.mp4",
-          "children": []
-        },
-        {
-          "name": "248 - Fix for Indicator not Tracking Map.html",
-          "children": []
-        },
-        {
-          "name": "249 - 247-drawing.zip",
-          "children": []
-        },
-        {
-          "name": "249 - Drawing a Position Indicator English.srt",
-          "children": []
-        },
-        {
-          "name": "249 - Drawing a Position Indicator.mp4",
-          "children": []
-        },
-        {
-          "name": "250 - 248-extracting.zip",
-          "children": []
-        },
-        {
-          "name": "250 - Extracting Logic to a Hook English.srt",
-          "children": []
-        },
-        {
-          "name": "250 - Extracting Logic to a Hook.mp4",
-          "children": []
-        },
-        {
-          "name": "251 - 249-disabling.zip",
-          "children": []
-        },
-        {
-          "name": "251 - Disabling Location Tracking English.srt",
-          "children": []
-        },
-        {
-          "name": "251 - Disabling Location Tracking.mp4",
-          "children": []
-        },
-        {
-          "name": "252 - 250-automatic.zip",
-          "children": []
-        },
-        {
-          "name": "252 - Automatic Disables English.srt",
-          "children": []
-        },
-        {
-          "name": "252 - Automatic Disables.mp4",
-          "children": []
-        },
-        {
-          "name": "253 - 251-building.zip",
-          "children": []
-        },
-        {
-          "name": "253 - Building a Track Form English.srt",
-          "children": []
-        },
-        {
-          "name": "253 - Building a Track Form.mp4",
-          "children": []
-        },
-        {
-          "name": "254 - 252-updates.zip",
-          "children": []
-        },
-        {
-          "name": "254 - Updates to Location Context English.srt",
-          "children": []
-        },
-        {
-          "name": "254 - Updates to Location Context.mp4",
-          "children": []
-        },
-        {
-          "name": "255 - 253-track-form.zip",
-          "children": []
-        },
-        {
-          "name": "255 - Track Form Wire Up English.srt",
-          "children": []
-        },
-        {
-          "name": "255 - Track Form Wire Up.mp4",
-          "children": []
-        },
-        {
-          "name": "256 - Buggy UseEffects English.srt",
-          "children": []
-        },
-        {
-          "name": "256 - Buggy UseEffects.mp4",
-          "children": []
-        },
-        {
-          "name": "257 - Understanding Stale References English.srt",
-          "children": []
-        },
-        {
-          "name": "257 - Understanding Stale References.mp4",
-          "children": []
-        },
-        {
-          "name": "258 - Some Errors You May See.html",
-          "children": []
-        },
-        {
-          "name": "259 - Kind of Fixed English.srt",
-          "children": []
-        },
-        {
-          "name": "259 - Kind of Fixed.mp4",
-          "children": []
-        },
-        {
-          "name": "260 - 258-usecallback.zip",
-          "children": []
-        },
-        {
-          "name": "260 - The UseCallback Hook English.srt",
-          "children": []
-        },
-        {
-          "name": "260 - The UseCallback Hook.mp4",
-          "children": []
-        },
-        {
-          "name": "261 - 259-cleaning.zip",
-          "children": []
-        },
-        {
-          "name": "261 - Cleaning Up After Ourselves English.srt",
-          "children": []
-        },
-        {
-          "name": "261 - Cleaning Up After Ourselves.mp4",
-          "children": []
-        },
-        {
-          "name": "262 - 260-avoiding.zip",
-          "children": []
-        },
-        {
-          "name": "262 - Avoiding Stale References English.srt",
-          "children": []
-        },
-        {
-          "name": "262 - Avoiding Stale References.mp4",
-          "children": []
-        },
-        {
-          "name": "263 - 261-tracking.zip",
-          "children": []
-        },
-        {
-          "name": "263 - Tracking While Recording English.srt",
-          "children": []
-        },
-        {
-          "name": "263 - Tracking While Recording.mp4",
-          "children": []
-        },
-        {
-          "name": "264 - 262-polyline.zip",
-          "children": []
-        },
-        {
-          "name": "264 - Bring Back the Polyline English.srt",
-          "children": []
-        },
-        {
-          "name": "264 - Bring Back the Polyline.mp4",
-          "children": []
-        },
-        {
-          "name": "265 - 263-what-manages.zip",
-          "children": []
-        },
-        {
-          "name": "265 - What Manages Tracks English.srt",
-          "children": []
-        },
-        {
-          "name": "265 - What Manages Tracks.mp4",
-          "children": []
-        },
-        {
-          "name": "266 - 264-coordination.zip",
-          "children": []
-        },
-        {
-          "name": "266 - Coordination Between Contexts English.srt",
-          "children": []
-        },
-        {
-          "name": "266 - Coordination Between Contexts.mp4",
-          "children": []
-        },
-        {
-          "name": "267 - Async Storage Update.html",
-          "children": []
-        },
-        {
-          "name": "268 - Automatic Authentication English.srt",
-          "children": []
-        },
-        {
-          "name": "268 - Automatic Authentication.mp4",
-          "children": []
-        },
-        {
-          "name": "269 - 267-form.zip",
-          "children": []
-        },
-        {
-          "name": "269 - Form Reset and Navigation English.srt",
-          "children": []
-        },
-        {
-          "name": "269 - Form Reset and Navigation.mp4",
-          "children": []
-        },
-        {
-          "name": "270 - 268-fetching.zip",
-          "children": []
-        },
-        {
-          "name": "270 - Fetching Created Tracks English.srt",
-          "children": []
-        },
-        {
-          "name": "270 - Fetching Created Tracks.mp4",
-          "children": []
-        },
-        {
-          "name": "271 - ListItem Update.html",
-          "children": []
-        },
-        {
-          "name": "272 - 270-listing.zip",
-          "children": []
-        },
-        {
-          "name": "272 - Listing All Tracks English.srt",
-          "children": []
-        },
-        {
-          "name": "272 - Listing All Tracks.mp4",
-          "children": []
-        },
-        {
-          "name": "273 - 271-navigating.zip",
-          "children": []
-        },
-        {
-          "name": "273 - Navigating to a Saved Track English.srt",
-          "children": []
-        },
-        {
-          "name": "273 - Navigating to a Saved Track.mp4",
-          "children": []
-        },
-        {
-          "name": "274 - 272-showing.zip",
-          "children": []
-        },
-        {
-          "name": "274 - Showing Track Details English.srt",
-          "children": []
-        },
-        {
-          "name": "274 - Showing Track Details.mp4",
-          "children": []
-        },
-        {
-          "name": "275 - 273-fixing.zip",
-          "children": []
-        },
-        {
-          "name": "275 - 273-withoutMockLocation.zip",
-          "children": []
-        },
-        {
-          "name": "275 - Fixing Odds and Ends English.srt",
-          "children": []
-        },
-        {
-          "name": "275 - Fixing Odds and Ends.mp4",
+          "name": "009 Section Challenge - Solution_en.srt",
           "children": []
         }
       ]
     },
     {
-      "name": "16 - Important OLD VERSION OF COURSE Do Not Skip",
+      "name": "08 - Statements and Operators",
       "children": [
         {
-          "name": "276 - Note on the Following Section.html",
+          "name": "001 Section Overview.mp4",
+          "children": []
+        },
+        {
+          "name": "001 Section Overview_en.srt",
+          "children": []
+        },
+        {
+          "name": "001 Section8.zip",
+          "children": []
+        },
+        {
+          "name": "002 Expressions and Statements.mp4",
+          "children": []
+        },
+        {
+          "name": "002 Expressions and Statements_en.srt",
+          "children": []
+        },
+        {
+          "name": "003 Using Operators.mp4",
+          "children": []
+        },
+        {
+          "name": "003 Using Operators_en.srt",
+          "children": []
+        },
+        {
+          "name": "004 The Assignment Operator.mp4",
+          "children": []
+        },
+        {
+          "name": "004 The Assignment Operator_en.srt",
+          "children": []
+        },
+        {
+          "name": "005 Arithmetic Operators.mp4",
+          "children": []
+        },
+        {
+          "name": "005 Arithmetic Operators_en.srt",
+          "children": []
+        },
+        {
+          "name": "006 Increment and Decrement Operators.mp4",
+          "children": []
+        },
+        {
+          "name": "006 Increment and Decrement Operators_en.srt",
+          "children": []
+        },
+        {
+          "name": "007 Mixed Expressions and Conversions.mp4",
+          "children": []
+        },
+        {
+          "name": "007 Mixed Expressions and Conversions_en.srt",
+          "children": []
+        },
+        {
+          "name": "008 Testing for Equality.mp4",
+          "children": []
+        },
+        {
+          "name": "008 Testing for Equality_en.srt",
+          "children": []
+        },
+        {
+          "name": "009 Relational Operators.mp4",
+          "children": []
+        },
+        {
+          "name": "009 Relational Operators_en.srt",
+          "children": []
+        },
+        {
+          "name": "010 Logical Operators.mp4",
+          "children": []
+        },
+        {
+          "name": "010 Logical Operators_en.srt",
+          "children": []
+        },
+        {
+          "name": "011 Compound Assignment Operators.mp4",
+          "children": []
+        },
+        {
+          "name": "011 Compound Assignment Operators_en.srt",
+          "children": []
+        },
+        {
+          "name": "012 Operator Precedence.mp4",
+          "children": []
+        },
+        {
+          "name": "012 Operator Precedence_en.srt",
+          "children": []
+        },
+        {
+          "name": "013 Section Challenge.mp4",
+          "children": []
+        },
+        {
+          "name": "013 Section Challenge_en.srt",
+          "children": []
+        },
+        {
+          "name": "014 Section Challenge - Solution.mp4",
+          "children": []
+        },
+        {
+          "name": "014 Section Challenge - Solution_en.srt",
           "children": []
         }
       ]
     },
     {
-      "name": "17 - Working with Old Versions of React Native",
+      "name": "09 - Controlling Program Flow",
       "children": [
         {
-          "name": "277 - Important Do Not Skip.html",
+          "name": "001 Section Overview.mp4",
           "children": []
         },
         {
-          "name": "278 - Finished Code Repository.html",
+          "name": "001 Section Overview_en.srt",
           "children": []
         },
         {
-          "name": "279 - OSX Installation English.srt",
+          "name": "001 Section9.zip",
           "children": []
         },
         {
-          "name": "279 - OSX Installation.mp4",
+          "name": "002 if Statement.mp4",
           "children": []
         },
         {
-          "name": "280 - More on OSX Installation English.srt",
+          "name": "002 if Statement_en.srt",
           "children": []
         },
         {
-          "name": "280 - More on OSX Installation.mp4",
+          "name": "003 if else Statement.mp4",
           "children": []
         },
         {
-          "name": "281 - Running in the Simulator English.srt",
+          "name": "003 if else Statement_en.srt",
           "children": []
         },
         {
-          "name": "281 - Running in the Simulator.mp4",
+          "name": "004 Nested if Statements.mp4",
           "children": []
         },
         {
-          "name": "282 - Windows Setup of React Native English.srt",
+          "name": "004 Nested if Statements_en.srt",
           "children": []
         },
         {
-          "name": "282 - Windows Setup of React Native.mp4",
+          "name": "005 Errata-80.pdf",
           "children": []
         },
         {
-          "name": "283 - Android Studio and React Native CLI Installation English.srt",
+          "name": "005 switch-case Statement.mp4",
           "children": []
         },
         {
-          "name": "283 - Android Studio and React Native CLI Installation.mp4",
+          "name": "005 switch-case Statement_en.srt",
           "children": []
         },
         {
-          "name": "284 - Emulator Creation and System Variables English.srt",
+          "name": "006 Conditional Operator.mp4",
           "children": []
         },
         {
-          "name": "284 - Emulator Creation and System Variables.mp4",
+          "name": "006 Conditional Operator_en.srt",
           "children": []
         },
         {
-          "name": "285 - ESLint Setup with VSCode English.srt",
+          "name": "007 Looping.mp4",
           "children": []
         },
         {
-          "name": "285 - ESLint Setup with VSCode.mp4",
+          "name": "007 Looping_en.srt",
           "children": []
         },
         {
-          "name": "286 - Troubleshooting React Native Installs.html",
+          "name": "008 for Loop.mp4",
           "children": []
         },
         {
-          "name": "287 - Project Directory Walkthrough English.srt",
+          "name": "008 for Loop_en.srt",
           "children": []
         },
         {
-          "name": "287 - Project Directory Walkthrough.mp4",
+          "name": "009 range-based for Loop.mp4",
           "children": []
         },
         {
-          "name": "288 - Getting Content on the Screen English.srt",
+          "name": "009 range-based for Loop_en.srt",
           "children": []
         },
         {
-          "name": "288 - Getting Content on the Screen.mp4",
+          "name": "010 while Loop.mp4",
           "children": []
         },
         {
-          "name": "289 - React vs React Native English.srt",
+          "name": "010 while Loop_en.srt",
           "children": []
         },
         {
-          "name": "289 - React vs React Native.mp4",
+          "name": "011 do while Loop.mp4",
           "children": []
         },
         {
-          "name": "290 - Creating a Component with JSX English.srt",
+          "name": "011 do while Loop_en.srt",
           "children": []
         },
         {
-          "name": "290 - Creating a Component with JSX.mp4",
+          "name": "012 continue and break.mp4",
           "children": []
         },
         {
-          "name": "291 - Registering a Component English.srt",
+          "name": "012 continue and break_en.srt",
           "children": []
         },
         {
-          "name": "291 - Registering a Component.mp4",
+          "name": "013 Infinite Loops.mp4",
           "children": []
         },
         {
-          "name": "292 - Destructuring Imports English.srt",
+          "name": "013 Infinite Loops_en.srt",
           "children": []
         },
         {
-          "name": "292 - Destructuring Imports.mp4",
+          "name": "014 Nested Loops.mp4",
           "children": []
         },
         {
-          "name": "293 - Application Outline English.srt",
+          "name": "014 Nested Loops_en.srt",
           "children": []
         },
         {
-          "name": "293 - Application Outline.mp4",
+          "name": "015 Section Challenge.mp4",
           "children": []
         },
         {
-          "name": "294 - The Header Component English.srt",
+          "name": "015 Section Challenge_en.srt",
           "children": []
         },
         {
-          "name": "294 - The Header Component.mp4",
+          "name": "016 Section Challenge - Solution Part 1.mp4",
           "children": []
         },
         {
-          "name": "295 - Consuming File Exports English.srt",
+          "name": "016 Section Challenge - Solution Part 1_en.srt",
           "children": []
         },
         {
-          "name": "295 - Consuming File Exports.mp4",
+          "name": "017 Section Challenge - Solution Part 2.mp4",
           "children": []
         },
         {
-          "name": "296 - Styling with React Native English.srt",
-          "children": []
-        },
-        {
-          "name": "296 - Styling with React Native.mp4",
-          "children": []
-        },
-        {
-          "name": "297 - More on Styling Components English.srt",
-          "children": []
-        },
-        {
-          "name": "297 - More on Styling Components.mp4",
-          "children": []
-        },
-        {
-          "name": "298 - Introduction to Flexbox English.srt",
-          "children": []
-        },
-        {
-          "name": "298 - Introduction to Flexbox.mp4",
-          "children": []
-        },
-        {
-          "name": "299 - Header Styling English.srt",
-          "children": []
-        },
-        {
-          "name": "299 - Header Styling.mp4",
-          "children": []
-        },
-        {
-          "name": "300 - Making the Header Reusable English.srt",
-          "children": []
-        },
-        {
-          "name": "300 - Making the Header Reusable.mp4",
-          "children": []
-        },
-        {
-          "name": "301 - Sourcing Album Data English.srt",
-          "children": []
-        },
-        {
-          "name": "301 - Sourcing Album Data.mp4",
-          "children": []
-        },
-        {
-          "name": "302 - List Component Boilerplate English.srt",
-          "children": []
-        },
-        {
-          "name": "302 - List Component Boilerplate.mp4",
-          "children": []
-        },
-        {
-          "name": "303 - Class Based Components English.srt",
-          "children": []
-        },
-        {
-          "name": "303 - Class Based Components.mp4",
-          "children": []
-        },
-        {
-          "name": "304 - Lifecycle Methods English.srt",
-          "children": []
-        },
-        {
-          "name": "304 - Lifecycle Methods.mp4",
-          "children": []
-        },
-        {
-          "name": "305 - Quick Note On Axios.html",
-          "children": []
-        },
-        {
-          "name": "306 - Network Requests English.srt",
-          "children": []
-        },
-        {
-          "name": "306 - Network Requests.mp4",
-          "children": []
-        },
-        {
-          "name": "307 - Component Level State English.srt",
-          "children": []
-        },
-        {
-          "name": "307 - Component Level State.mp4",
-          "children": []
-        },
-        {
-          "name": "308 - More on Component Level State English.srt",
-          "children": []
-        },
-        {
-          "name": "308 - More on Component Level State.mp4",
-          "children": []
-        },
-        {
-          "name": "309 - Rendering a List of Components English.srt",
-          "children": []
-        },
-        {
-          "name": "309 - Rendering a List of Components.mp4",
-          "children": []
-        },
-        {
-          "name": "310 - Displaying Individual Albums English.srt",
-          "children": []
-        },
-        {
-          "name": "310 - Displaying Individual Albums.mp4",
-          "children": []
-        },
-        {
-          "name": "311 - Fantastic Reusable Components The Card English.srt",
-          "children": []
-        },
-        {
-          "name": "311 - Fantastic Reusable Components The Card.mp4",
-          "children": []
-        },
-        {
-          "name": "312 - Styling a Card English.srt",
-          "children": []
-        },
-        {
-          "name": "312 - Styling a Card.mp4",
-          "children": []
-        },
-        {
-          "name": "313 - Passing Components as Props English.srt",
-          "children": []
-        },
-        {
-          "name": "313 - Passing Components as Props.mp4",
-          "children": []
-        },
-        {
-          "name": "314 - Dividing Cards into Sections English.srt",
-          "children": []
-        },
-        {
-          "name": "314 - Dividing Cards into Sections.mp4",
-          "children": []
-        },
-        {
-          "name": "315 - Mastering Layout with Flexbox English.srt",
-          "children": []
-        },
-        {
-          "name": "315 - Mastering Layout with Flexbox.mp4",
-          "children": []
-        },
-        {
-          "name": "316 - Positioning of Elements on Mobile English.srt",
-          "children": []
-        },
-        {
-          "name": "316 - Positioning of Elements on Mobile.mp4",
-          "children": []
-        },
-        {
-          "name": "317 - More on Styling English.srt",
-          "children": []
-        },
-        {
-          "name": "317 - More on Styling.mp4",
-          "children": []
-        },
-        {
-          "name": "318 - Images with React Native English.srt",
-          "children": []
-        },
-        {
-          "name": "318 - Images with React Native.mp4",
-          "children": []
-        },
-        {
-          "name": "319 - Displaying Album Artwork English.srt",
-          "children": []
-        },
-        {
-          "name": "319 - Displaying Album Artwork.mp4",
-          "children": []
-        },
-        {
-          "name": "320 - Making Content Scrollable English.srt",
-          "children": []
-        },
-        {
-          "name": "320 - Making Content Scrollable.mp4",
-          "children": []
-        },
-        {
-          "name": "321 - Handling User Input with Buttons English.srt",
-          "children": []
-        },
-        {
-          "name": "321 - Handling User Input with Buttons.mp4",
-          "children": []
-        },
-        {
-          "name": "322 - Styling of Buttons with UX Considerations English.srt",
-          "children": []
-        },
-        {
-          "name": "322 - Styling of Buttons with UX Considerations.mp4",
-          "children": []
-        },
-        {
-          "name": "323 - Responding to User Input English.srt",
-          "children": []
-        },
-        {
-          "name": "323 - Responding to User Input.mp4",
-          "children": []
-        },
-        {
-          "name": "324 - Linking Between Mobile Apps English.srt",
-          "children": []
-        },
-        {
-          "name": "324 - Linking Between Mobile Apps.mp4",
-          "children": []
-        },
-        {
-          "name": "325 - Setting Button Text by Props English.srt",
-          "children": []
-        },
-        {
-          "name": "325 - Setting Button Text by Props.mp4",
-          "children": []
-        },
-        {
-          "name": "326 - App Wrapup English.srt",
-          "children": []
-        },
-        {
-          "name": "326 - App Wrapup.mp4",
-          "children": []
-        },
-        {
-          "name": "327 - Auth App Introduction English.srt",
-          "children": []
-        },
-        {
-          "name": "327 - Auth App Introduction.mp4",
-          "children": []
-        },
-        {
-          "name": "328 - A Common Root Component English.srt",
-          "children": []
-        },
-        {
-          "name": "328 - A Common Root Component.mp4",
-          "children": []
-        },
-        {
-          "name": "329 - Copying Reusable Components English.srt",
-          "children": []
-        },
-        {
-          "name": "329 - Copying Reusable Components.mp4",
-          "children": []
-        },
-        {
-          "name": "330 - What is Firebase English.srt",
-          "children": []
-        },
-        {
-          "name": "330 - What is Firebase.mp4",
-          "children": []
-        },
-        {
-          "name": "331 - Firebase Client Setup English.srt",
-          "children": []
-        },
-        {
-          "name": "331 - Firebase Client Setup.mp4",
-          "children": []
-        },
-        {
-          "name": "332 - Login Form Scaffolding English.srt",
-          "children": []
-        },
-        {
-          "name": "332 - Login Form Scaffolding.mp4",
-          "children": []
-        },
-        {
-          "name": "333 - Handling User Inputs English.srt",
-          "children": []
-        },
-        {
-          "name": "333 - Handling User Inputs.mp4",
-          "children": []
-        },
-        {
-          "name": "334 - More on Handling User Inputs English.srt",
-          "children": []
-        },
-        {
-          "name": "334 - More on Handling User Inputs.mp4",
-          "children": []
-        },
-        {
-          "name": "335 - How to Create Controlled Components English.srt",
-          "children": []
-        },
-        {
-          "name": "335 - How to Create Controlled Components.mp4",
-          "children": []
-        },
-        {
-          "name": "336 - Making Text Inputs From Scratch English.srt",
-          "children": []
-        },
-        {
-          "name": "336 - Making Text Inputs From Scratch.mp4",
-          "children": []
-        },
-        {
-          "name": "337 - A Focus on Passing Props English.srt",
-          "children": []
-        },
-        {
-          "name": "337 - A Focus on Passing Props.mp4",
-          "children": []
-        },
-        {
-          "name": "338 - Making the Input Pretty English.srt",
-          "children": []
-        },
-        {
-          "name": "338 - Making the Input Pretty.mp4",
-          "children": []
-        },
-        {
-          "name": "339 - Wrapping up Inputs English.srt",
-          "children": []
-        },
-        {
-          "name": "339 - Wrapping up Inputs.mp4",
-          "children": []
-        },
-        {
-          "name": "340 - Password Inputs English.srt",
-          "children": []
-        },
-        {
-          "name": "340 - Password Inputs.mp4",
-          "children": []
-        },
-        {
-          "name": "341 - Logging a User In English.srt",
-          "children": []
-        },
-        {
-          "name": "341 - Logging a User In.mp4",
-          "children": []
-        },
-        {
-          "name": "342 - Error Handling English.srt",
-          "children": []
-        },
-        {
-          "name": "342 - Error Handling.mp4",
-          "children": []
-        },
-        {
-          "name": "343 - More on Authentication Flow English.srt",
-          "children": []
-        },
-        {
-          "name": "343 - More on Authentication Flow.mp4",
-          "children": []
-        },
-        {
-          "name": "344 - Creating an Activity Spinner English.srt",
-          "children": []
-        },
-        {
-          "name": "344 - Creating an Activity Spinner.mp4",
-          "children": []
-        },
-        {
-          "name": "345 - Conditional Rendering of JSX English.srt",
-          "children": []
-        },
-        {
-          "name": "345 - Conditional Rendering of JSX.mp4",
-          "children": []
-        },
-        {
-          "name": "346 - Clearing the Form Spinner English.srt",
-          "children": []
-        },
-        {
-          "name": "346 - Clearing the Form Spinner.mp4",
-          "children": []
-        },
-        {
-          "name": "347 - Handling Authentication Events English.srt",
-          "children": []
-        },
-        {
-          "name": "347 - Handling Authentication Events.mp4",
-          "children": []
-        },
-        {
-          "name": "348 - More on Conditional Rendering English.srt",
-          "children": []
-        },
-        {
-          "name": "348 - More on Conditional Rendering.mp4",
-          "children": []
-        },
-        {
-          "name": "349 - Logging a User Out and Wrapup English.srt",
-          "children": []
-        },
-        {
-          "name": "349 - Logging a User Out and Wrapup.mp4",
-          "children": []
-        },
-        {
-          "name": "350 - App Mockup and Approach English.srt",
-          "children": []
-        },
-        {
-          "name": "350 - App Mockup and Approach.mp4",
-          "children": []
-        },
-        {
-          "name": "351 - The Basics of Redux English.srt",
-          "children": []
-        },
-        {
-          "name": "351 - The Basics of Redux.mp4",
-          "children": []
-        },
-        {
-          "name": "352 - More on Redux English.srt",
-          "children": []
-        },
-        {
-          "name": "352 - More on Redux.mp4",
-          "children": []
-        },
-        {
-          "name": "353 - Redux is Hard English.srt",
-          "children": []
-        },
-        {
-          "name": "353 - Redux is Hard.mp4",
-          "children": []
-        },
-        {
-          "name": "354 - Application Boilerplate English.srt",
-          "children": []
-        },
-        {
-          "name": "354 - Application Boilerplate.mp4",
-          "children": []
-        },
-        {
-          "name": "355 - More on Redux Boilerplate English.srt",
-          "children": []
-        },
-        {
-          "name": "355 - More on Redux Boilerplate.mp4",
-          "children": []
-        },
-        {
-          "name": "356 - Rendering the Header English.srt",
-          "children": []
-        },
-        {
-          "name": "356 - Rendering the Header.mp4",
-          "children": []
-        },
-        {
-          "name": "357 - Reducer and State Design English.srt",
-          "children": []
-        },
-        {
-          "name": "357 - Reducer and State Design.mp4",
-          "children": []
-        },
-        {
-          "name": "358 - Library List of Data English.srt",
-          "children": []
-        },
-        {
-          "name": "358 - Library List of Data.mp4",
-          "children": []
-        },
-        {
-          "name": "359 - JSON CopyPaste.html",
-          "children": []
-        },
-        {
-          "name": "360 - The Connect Function English.srt",
-          "children": []
-        },
-        {
-          "name": "360 - The Connect Function.mp4",
-          "children": []
-        },
-        {
-          "name": "361 - MapStateToProps with Connect English.srt",
-          "children": []
-        },
-        {
-          "name": "361 - MapStateToProps with Connect.mp4",
-          "children": []
-        },
-        {
-          "name": "362 - A Quick Review and Breather English.srt",
-          "children": []
-        },
-        {
-          "name": "362 - A Quick Review and Breather.mp4",
-          "children": []
-        },
-        {
-          "name": "363 - The Theory of ListView English.srt",
-          "children": []
-        },
-        {
-          "name": "363 - The Theory of ListView.mp4",
-          "children": []
-        },
-        {
-          "name": "364 - ListView in Practice English.srt",
-          "children": []
-        },
-        {
-          "name": "364 - ListView in Practice.mp4",
-          "children": []
-        },
-        {
-          "name": "365 - Rendering a Single Row English.srt",
-          "children": []
-        },
-        {
-          "name": "365 - Rendering a Single Row.mp4",
-          "children": []
-        },
-        {
-          "name": "366 - Styling the List English.srt",
-          "children": []
-        },
-        {
-          "name": "366 - Styling the List.mp4",
-          "children": []
-        },
-        {
-          "name": "367 - Creating the Selection Reducer English.srt",
-          "children": []
-        },
-        {
-          "name": "367 - Creating the Selection Reducer.mp4",
-          "children": []
-        },
-        {
-          "name": "368 - Introducing Action Creators English.srt",
-          "children": []
-        },
-        {
-          "name": "368 - Introducing Action Creators.mp4",
-          "children": []
-        },
-        {
-          "name": "369 - Calling Action Creators English.srt",
-          "children": []
-        },
-        {
-          "name": "369 - Calling Action Creators.mp4",
-          "children": []
-        },
-        {
-          "name": "370 - Adding a Touchable English.srt",
-          "children": []
-        },
-        {
-          "name": "370 - Adding a Touchable.mp4",
-          "children": []
-        },
-        {
-          "name": "371 - Rules of Reducers English.srt",
-          "children": []
-        },
-        {
-          "name": "371 - Rules of Reducers.mp4",
-          "children": []
-        },
-        {
-          "name": "372 - Expanding a Row English.srt",
-          "children": []
-        },
-        {
-          "name": "372 - Expanding a Row.mp4",
-          "children": []
-        },
-        {
-          "name": "373 - Moving Logic Out of Components English.srt",
-          "children": []
-        },
-        {
-          "name": "373 - Moving Logic Out of Components.mp4",
-          "children": []
-        },
-        {
-          "name": "374 - Animations English.srt",
-          "children": []
-        },
-        {
-          "name": "374 - Animations.mp4",
-          "children": []
-        },
-        {
-          "name": "375 - Wrapup English.srt",
-          "children": []
-        },
-        {
-          "name": "375 - Wrapup.mp4",
-          "children": []
-        },
-        {
-          "name": "376 - Overview of Our Next App English.srt",
-          "children": []
-        },
-        {
-          "name": "376 - Overview of Our Next App.mp4",
-          "children": []
-        },
-        {
-          "name": "377 - App Challenges English.srt",
-          "children": []
-        },
-        {
-          "name": "377 - App Challenges.mp4",
-          "children": []
-        },
-        {
-          "name": "378 - Quick Note.html",
-          "children": []
-        },
-        {
-          "name": "379 - Just a Touch More Setup English.srt",
-          "children": []
-        },
-        {
-          "name": "379 - Just a Touch More Setup.mp4",
-          "children": []
-        },
-        {
-          "name": "380 - More on Boilerplate Setup English.srt",
-          "children": []
-        },
-        {
-          "name": "380 - More on Boilerplate Setup.mp4",
-          "children": []
-        },
-        {
-          "name": "381 - Login Form in a Redux World English.srt",
-          "children": []
-        },
-        {
-          "name": "381 - Login Form in a Redux World.mp4",
-          "children": []
-        },
-        {
-          "name": "382 - Rebuilding the Login Form English.srt",
-          "children": []
-        },
-        {
-          "name": "382 - Rebuilding the Login Form.mp4",
-          "children": []
-        },
-        {
-          "name": "383 - Handling Form Updates with Action Creators English.srt",
-          "children": []
-        },
-        {
-          "name": "383 - Handling Form Updates with Action Creators.mp4",
-          "children": []
-        },
-        {
-          "name": "384 - Wiring up Action Creators English.srt",
-          "children": []
-        },
-        {
-          "name": "384 - Wiring up Action Creators.mp4",
-          "children": []
-        },
-        {
-          "name": "385 - Typed Actions English.srt",
-          "children": []
-        },
-        {
-          "name": "385 - Typed Actions.mp4",
-          "children": []
-        },
-        {
-          "name": "386 - Immutable State English.srt",
-          "children": []
-        },
-        {
-          "name": "386 - Immutable State.mp4",
-          "children": []
-        },
-        {
-          "name": "387 - Creating Immutable State English.srt",
-          "children": []
-        },
-        {
-          "name": "387 - Creating Immutable State.mp4",
-          "children": []
-        },
-        {
-          "name": "388 - More on Creating Immutable State English.srt",
-          "children": []
-        },
-        {
-          "name": "388 - More on Creating Immutable State.mp4",
-          "children": []
-        },
-        {
-          "name": "389 - Synchronous vs Asynchronous Action Creators English.srt",
-          "children": []
-        },
-        {
-          "name": "389 - Synchronous vs Asynchronous Action Creators.mp4",
-          "children": []
-        },
-        {
-          "name": "390 - Introduction to Redux Thunk English.srt",
-          "children": []
-        },
-        {
-          "name": "390 - Introduction to Redux Thunk.mp4",
-          "children": []
-        },
-        {
-          "name": "391 - Redux Thunk in Practice English.srt",
-          "children": []
-        },
-        {
-          "name": "391 - Redux Thunk in Practice.mp4",
-          "children": []
-        },
-        {
-          "name": "392 - Redux Thunk in Practice Continued English.srt",
-          "children": []
-        },
-        {
-          "name": "392 - Redux Thunk in Practice Continued.mp4",
-          "children": []
-        },
-        {
-          "name": "393 - Making LoginUser More Robust English.srt",
-          "children": []
-        },
-        {
-          "name": "393 - Making LoginUser More Robust.mp4",
-          "children": []
-        },
-        {
-          "name": "394 - Creating User Accounts English.srt",
-          "children": []
-        },
-        {
-          "name": "394 - Creating User Accounts.mp4",
-          "children": []
-        },
-        {
-          "name": "395 - Showing Error Messages English.srt",
-          "children": []
-        },
-        {
-          "name": "395 - Showing Error Messages.mp4",
-          "children": []
-        },
-        {
-          "name": "396 - A Firebase Gotcha English.srt",
-          "children": []
-        },
-        {
-          "name": "396 - A Firebase Gotcha.mp4",
-          "children": []
-        },
-        {
-          "name": "397 - Showing a Spinner on Loading English.srt",
-          "children": []
-        },
-        {
-          "name": "397 - Showing a Spinner on Loading.mp4",
-          "children": []
-        },
-        {
-          "name": "398 - Dealing with Navigation English.srt",
-          "children": []
-        },
-        {
-          "name": "398 - Dealing with Navigation.mp4",
-          "children": []
-        },
-        {
-          "name": "399 - Navigation in the Router English.srt",
-          "children": []
-        },
-        {
-          "name": "399 - Navigation in the Router.mp4",
-          "children": []
-        },
-        {
-          "name": "400 - Addressing Styling Issues English.srt",
-          "children": []
-        },
-        {
-          "name": "400 - Addressing Styling Issues.mp4",
-          "children": []
-        },
-        {
-          "name": "401 - Displaying Multiple Scenes English.srt",
-          "children": []
-        },
-        {
-          "name": "401 - Displaying Multiple Scenes.mp4",
-          "children": []
-        },
-        {
-          "name": "402 - Navigating Between Routes English.srt",
-          "children": []
-        },
-        {
-          "name": "402 - Navigating Between Routes.mp4",
-          "children": []
-        },
-        {
-          "name": "403 - Grouping Scenes with Buckets English.srt",
-          "children": []
-        },
-        {
-          "name": "403 - Grouping Scenes with Buckets.mp4",
-          "children": []
-        },
-        {
-          "name": "404 - Navigation Bar Buttons English.srt",
-          "children": []
-        },
-        {
-          "name": "404 - Navigation Bar Buttons.mp4",
-          "children": []
-        },
-        {
-          "name": "405 - Navigating to the Employee Creation Form English.srt",
-          "children": []
-        },
-        {
-          "name": "405 - Navigating to the Employee Creation Form.mp4",
-          "children": []
-        },
-        {
-          "name": "406 - Building the Employee Creation Form English.srt",
-          "children": []
-        },
-        {
-          "name": "406 - Building the Employee Creation Form.mp4",
-          "children": []
-        },
-        {
-          "name": "407 - Employee Form Actions English.srt",
-          "children": []
-        },
-        {
-          "name": "407 - Employee Form Actions.mp4",
-          "children": []
-        },
-        {
-          "name": "408 - Handling Form Updates at the Reducer Level English.srt",
-          "children": []
-        },
-        {
-          "name": "408 - Handling Form Updates at the Reducer Level.mp4",
-          "children": []
-        },
-        {
-          "name": "409 - Dynamic Property Updates English.srt",
-          "children": []
-        },
-        {
-          "name": "409 - Dynamic Property Updates.mp4",
-          "children": []
-        },
-        {
-          "name": "410 - The Picker Component English.srt",
-          "children": []
-        },
-        {
-          "name": "410 - The Picker Component.mp4",
-          "children": []
-        },
-        {
-          "name": "411 - Pickers and Style Overrides English.srt",
-          "children": []
-        },
-        {
-          "name": "411 - Pickers and Style Overrides.mp4",
-          "children": []
-        },
-        {
-          "name": "412 - Firebase JSON Schema English.srt",
-          "children": []
-        },
-        {
-          "name": "412 - Firebase JSON Schema.mp4",
-          "children": []
-        },
-        {
-          "name": "413 - Data Security in Firebase English.srt",
-          "children": []
-        },
-        {
-          "name": "413 - Data Security in Firebase.mp4",
-          "children": []
-        },
-        {
-          "name": "414 - Creating Records with Firebase English.srt",
-          "children": []
-        },
-        {
-          "name": "414 - Creating Records with Firebase.mp4",
-          "children": []
-        },
-        {
-          "name": "415 - Default Form Values English.srt",
-          "children": []
-        },
-        {
-          "name": "415 - Default Form Values.mp4",
-          "children": []
-        },
-        {
-          "name": "416 - Successful Data Save to Firebase English.srt",
-          "children": []
-        },
-        {
-          "name": "416 - Successful Data Save to Firebase.mp4",
-          "children": []
-        },
-        {
-          "name": "417 - Resetting Form Properties English.srt",
-          "children": []
-        },
-        {
-          "name": "417 - Resetting Form Properties.mp4",
-          "children": []
-        },
-        {
-          "name": "418 - Fetching Data from Firebase English.srt",
-          "children": []
-        },
-        {
-          "name": "418 - Fetching Data from Firebase.mp4",
-          "children": []
-        },
-        {
-          "name": "419 - Storing Data by ID English.srt",
-          "children": []
-        },
-        {
-          "name": "419 - Storing Data by ID.mp4",
-          "children": []
-        },
-        {
-          "name": "420 - Dynamic DataSource Building English.srt",
-          "children": []
-        },
-        {
-          "name": "420 - Dynamic DataSource Building.mp4",
-          "children": []
-        },
-        {
-          "name": "421 - Transforming Objects to Arrays English.srt",
-          "children": []
-        },
-        {
-          "name": "421 - Transforming Objects to Arrays.mp4",
-          "children": []
-        },
-        {
-          "name": "422 - List Building in Employee List English.srt",
-          "children": []
-        },
-        {
-          "name": "422 - List Building in Employee List.mp4",
-          "children": []
-        },
-        {
-          "name": "423 - Reusing the Employee Form English.srt",
-          "children": []
-        },
-        {
-          "name": "423 - Reusing the Employee Form.mp4",
-          "children": []
-        },
-        {
-          "name": "424 - Create vs Edit Forms English.srt",
-          "children": []
-        },
-        {
-          "name": "424 - Create vs Edit Forms.mp4",
-          "children": []
-        },
-        {
-          "name": "425 - Reusable Forms English.srt",
-          "children": []
-        },
-        {
-          "name": "425 - Reusable Forms.mp4",
-          "children": []
-        },
-        {
-          "name": "426 - A Standalone Employee Edit Form English.srt",
-          "children": []
-        },
-        {
-          "name": "426 - A Standalone Employee Edit Form.mp4",
-          "children": []
-        },
-        {
-          "name": "427 - Initializing Forms from State English.srt",
-          "children": []
-        },
-        {
-          "name": "427 - Initializing Forms from State.mp4",
-          "children": []
-        },
-        {
-          "name": "428 - Updating Firebase Records English.srt",
-          "children": []
-        },
-        {
-          "name": "428 - Updating Firebase Records.mp4",
-          "children": []
-        },
-        {
-          "name": "429 - Clearing Form Attributes English.srt",
-          "children": []
-        },
-        {
-          "name": "429 - Clearing Form Attributes.mp4",
-          "children": []
-        },
-        {
-          "name": "430 - Texting Employees English.srt",
-          "children": []
-        },
-        {
-          "name": "430 - Texting Employees.mp4",
-          "children": []
-        },
-        {
-          "name": "431 - Modals as a Reusable Component English.srt",
-          "children": []
-        },
-        {
-          "name": "431 - Modals as a Reusable Component.mp4",
-          "children": []
-        },
-        {
-          "name": "432 - The Modal Component Continued English.srt",
-          "children": []
-        },
-        {
-          "name": "432 - The Modal Component Continued.mp4",
-          "children": []
-        },
-        {
-          "name": "433 - Styling the Modal English.srt",
-          "children": []
-        },
-        {
-          "name": "433 - Styling the Modal.mp4",
-          "children": []
-        },
-        {
-          "name": "434 - Employee Delete Action Creator English.srt",
-          "children": []
-        },
-        {
-          "name": "434 - Employee Delete Action Creator.mp4",
-          "children": []
-        },
-        {
-          "name": "435 - Wiring up Employee Delete English.srt",
-          "children": []
-        },
-        {
-          "name": "435 - Wiring up Employee Delete.mp4",
+          "name": "017 Section Challenge - Solution Part 2_en.srt",
           "children": []
         }
       ]
     },
     {
-      "name": "18 - Extras",
+      "name": "10 - Characters and Strings",
       "children": [
         {
-          "name": "187 - Creating a JWT English.srt",
+          "name": "001 Section Overview.mp4",
           "children": []
         },
         {
-          "name": "187 - Creating a JWT.mp4",
+          "name": "001 Section Overview_en.srt",
           "children": []
         },
         {
-          "name": "188 - Wiring Up JSON Web Tokens English.srt",
+          "name": "001 Section10.zip",
           "children": []
         },
         {
-          "name": "188 - Wiring Up JSON Web Tokens.mp4",
+          "name": "002 Character Functions.mp4",
           "children": []
         },
         {
-          "name": "189 - Understanding Password Hashing English.srt",
+          "name": "002 Character Functions_en.srt",
           "children": []
         },
         {
-          "name": "189 - Understanding Password Hashing.mp4",
+          "name": "003 C-Style Strings.mp4",
           "children": []
         },
         {
-          "name": "190 - Salting and Hashing English.srt",
+          "name": "003 C-Style Strings_en.srt",
           "children": []
         },
         {
-          "name": "190 - Salting and Hashing.mp4",
+          "name": "004 Working with C-style Strings.mp4",
           "children": []
         },
         {
-          "name": "191 - The Signin Route English.srt",
+          "name": "004 Working with C-style Strings_en.srt",
           "children": []
         },
         {
-          "name": "191 - The Signin Route.mp4",
+          "name": "005 C++ Strings.mp4",
           "children": []
         },
         {
-          "name": "192 - Testing Signup and Signin English.srt",
+          "name": "005 C++ Strings_en.srt",
           "children": []
         },
         {
-          "name": "192 - Testing Signup and Signin.mp4",
+          "name": "005 Errata-97.pdf",
           "children": []
         },
         {
-          "name": "193 - Defining Tracks English.srt",
+          "name": "006 Working with C++ Strings.mp4",
           "children": []
         },
         {
-          "name": "193 - Defining Tracks.mp4",
+          "name": "006 Working with C++ Strings_en.srt",
           "children": []
         },
         {
-          "name": "194 - Listing Tracks English.srt",
+          "name": "007 Section Challenge.mp4",
           "children": []
         },
         {
-          "name": "194 - Listing Tracks.mp4",
+          "name": "007 Section Challenge_en.srt",
           "children": []
         },
         {
-          "name": "195 - Creating Tracks English.srt",
+          "name": "008 Section Challenge - Solution.mp4",
           "children": []
         },
         {
-          "name": "195 - Creating Tracks.mp4",
-          "children": []
-        },
-        {
-          "name": "436 - Bonus.html",
+          "name": "008 Section Challenge - Solution_en.srt",
           "children": []
         }
       ]
     },
     {
-      "name": "2 - Working with Content",
+      "name": "11 - Functions",
       "children": [
         {
-          "name": "11 - Overview of React Components English.srt",
+          "name": "001 Section Overview.mp4",
           "children": []
         },
         {
-          "name": "11 - Overview of React Components.mp4",
+          "name": "001 Section Overview_en.srt",
           "children": []
         },
         {
-          "name": "12 - 12-showing.zip",
+          "name": "001 Section11.zip",
           "children": []
         },
         {
-          "name": "12 - Showing a Custom Component English.srt",
+          "name": "002 Errata-102.pdf",
           "children": []
         },
         {
-          "name": "12 - Showing a Custom Component.mp4",
+          "name": "002 What is a Function.mp4",
           "children": []
         },
         {
-          "name": "13 - Common Questions and Answers English.srt",
+          "name": "002 What is a Function_en.srt",
           "children": []
         },
         {
-          "name": "13 - Common Questions and Answers.mp4",
+          "name": "003 Function Definition.mp4",
           "children": []
         },
         {
-          "name": "14 - Rules of JSX English.srt",
+          "name": "003 Function Definition_en.srt",
           "children": []
         },
         {
-          "name": "14 - Rules of JSX.mp4",
+          "name": "004 Function Prototypes.mp4",
           "children": []
         },
         {
-          "name": "15 - One Common Error English.srt",
+          "name": "004 Function Prototypes_en.srt",
           "children": []
         },
         {
-          "name": "15 - One Common Error.mp4",
+          "name": "005 Function Parameters and the return Statement.mp4",
           "children": []
         },
         {
-          "name": "16 - JSX Exercise Overview English.srt",
+          "name": "005 Function Parameters and the return Statement_en.srt",
           "children": []
         },
         {
-          "name": "16 - JSX Exercise Overview.mp4",
+          "name": "006 Default Argument Values.mp4",
           "children": []
         },
         {
-          "name": "17 - 17-jsx.zip",
+          "name": "006 Default Argument Values_en.srt",
           "children": []
         },
         {
-          "name": "17 - JSX Solution English.srt",
+          "name": "006 Errata-106.pdf",
           "children": []
         },
         {
-          "name": "17 - JSX Solution.mp4",
+          "name": "007 Overloading Functions.mp4",
+          "children": []
+        },
+        {
+          "name": "007 Overloading Functions_en.srt",
+          "children": []
+        },
+        {
+          "name": "008 Passing Arrays to Functions.mp4",
+          "children": []
+        },
+        {
+          "name": "008 Passing Arrays to Functions_en.srt",
+          "children": []
+        },
+        {
+          "name": "009 Pass by Reference.mp4",
+          "children": []
+        },
+        {
+          "name": "009 Pass by Reference_en.srt",
+          "children": []
+        },
+        {
+          "name": "010 Errata-110.pdf",
+          "children": []
+        },
+        {
+          "name": "010 Scope Rules.mp4",
+          "children": []
+        },
+        {
+          "name": "010 Scope Rules_en.srt",
+          "children": []
+        },
+        {
+          "name": "011 How do Function Calls Work.mp4",
+          "children": []
+        },
+        {
+          "name": "011 How do Function Calls Work_en.srt",
+          "children": []
+        },
+        {
+          "name": "012 inline Functions.mp4",
+          "children": []
+        },
+        {
+          "name": "012 inline Functions_en.srt",
+          "children": []
+        },
+        {
+          "name": "013 A-Walkthrough-a-the-Fibonacci-Recursive-Function.url",
+          "children": []
+        },
+        {
+          "name": "013 Recursive Functions.mp4",
+          "children": []
+        },
+        {
+          "name": "013 Recursive Functions_en.srt",
+          "children": []
+        },
+        {
+          "name": "014 Section Challenge.mp4",
+          "children": []
+        },
+        {
+          "name": "014 Section Challenge_en.srt",
+          "children": []
+        },
+        {
+          "name": "015 Section Challenge-Solution.mp4",
+          "children": []
+        },
+        {
+          "name": "015 Section Challenge-Solution_en.srt",
+          "children": []
+        },
+        {
+          "name": "external-links.txt",
           "children": []
         }
       ]
     },
     {
-      "name": "3 - List Building With Style",
+      "name": "12 - Pointers and References",
       "children": [
         {
-          "name": "18 - Building Lists English.srt",
+          "name": "001 Section Overview.mp4",
           "children": []
         },
         {
-          "name": "18 - Building Lists.mp4",
+          "name": "001 Section Overview_en.srt",
           "children": []
         },
         {
-          "name": "19 - The FlatList Element English.srt",
+          "name": "001 Section12.zip",
           "children": []
         },
         {
-          "name": "19 - The FlatList Element.mp4",
+          "name": "002 What is a Pointer.mp4",
           "children": []
         },
         {
-          "name": "20 - Rendering a FlatList English.srt",
+          "name": "002 What is a Pointer_en.srt",
           "children": []
         },
         {
-          "name": "20 - Rendering a FlatList.mp4",
+          "name": "003 Declaring Pointers.mp4",
           "children": []
         },
         {
-          "name": "21 - Why a Key Property English.srt",
+          "name": "003 Declaring Pointers_en.srt",
           "children": []
         },
         {
-          "name": "21 - Why a Key Property.mp4",
+          "name": "004 Accessing the Pointer Address and Storing Address in a Pointer.mp4",
           "children": []
         },
         {
-          "name": "22 - Solving the Key Issue English.srt",
+          "name": "004 Accessing the Pointer Address and Storing Address in a Pointer_en.srt",
           "children": []
         },
         {
-          "name": "22 - Solving the Key Issue.mp4",
+          "name": "005 Dereferencing a Pointer.mp4",
           "children": []
         },
         {
-          "name": "23 - A Few Props Around FlatList English.srt",
+          "name": "005 Dereferencing a Pointer_en.srt",
           "children": []
         },
         {
-          "name": "23 - A Few Props Around FlatList.mp4",
+          "name": "006 Dynamic Memory Allocation.mp4",
           "children": []
         },
         {
-          "name": "24 - Exercise Overview English.srt",
+          "name": "006 Dynamic Memory Allocation_en.srt",
           "children": []
         },
         {
-          "name": "24 - Exercise Overview.mp4",
+          "name": "007 The Relationship Between Arrays and Pointers.mp4",
           "children": []
         },
         {
-          "name": "25 - 25-exercise.zip",
+          "name": "007 The Relationship Between Arrays and Pointers_en.srt",
           "children": []
         },
         {
-          "name": "25 - Exercise Solution English.srt",
+          "name": "008 Errata-123.pdf",
           "children": []
         },
         {
-          "name": "25 - Exercise Solution.mp4",
+          "name": "008 Pointer Arithmetic.mp4",
+          "children": []
+        },
+        {
+          "name": "008 Pointer Arithmetic_en.srt",
+          "children": []
+        },
+        {
+          "name": "009 Const and Pointers.mp4",
+          "children": []
+        },
+        {
+          "name": "009 Const and Pointers_en.srt",
+          "children": []
+        },
+        {
+          "name": "010 Passing Pointers to Functions.mp4",
+          "children": []
+        },
+        {
+          "name": "010 Passing Pointers to Functions_en.srt",
+          "children": []
+        },
+        {
+          "name": "011 Returning a Pointer from a Function.mp4",
+          "children": []
+        },
+        {
+          "name": "011 Returning a Pointer from a Function_en.srt",
+          "children": []
+        },
+        {
+          "name": "012 Potential Pointer Pitfalls.mp4",
+          "children": []
+        },
+        {
+          "name": "012 Potential Pointer Pitfalls_en.srt",
+          "children": []
+        },
+        {
+          "name": "013 What is a Reference.mp4",
+          "children": []
+        },
+        {
+          "name": "013 What is a Reference_en.srt",
+          "children": []
+        },
+        {
+          "name": "014 L-values and R-values.mp4",
+          "children": []
+        },
+        {
+          "name": "014 L-values and R-values_en.srt",
+          "children": []
+        },
+        {
+          "name": "015 Using the CodeLite IDE Debugger.mp4",
+          "children": []
+        },
+        {
+          "name": "015 Using the CodeLite IDE Debugger_en.srt",
+          "children": []
+        },
+        {
+          "name": "016 Section Recap.mp4",
+          "children": []
+        },
+        {
+          "name": "016 Section Recap_en.srt",
+          "children": []
+        },
+        {
+          "name": "017 Section Challenge.mp4",
+          "children": []
+        },
+        {
+          "name": "017 Section Challenge_en.srt",
+          "children": []
+        },
+        {
+          "name": "018 Section Challenge - Solution.mp4",
+          "children": []
+        },
+        {
+          "name": "018 Section Challenge - Solution_en.srt",
           "children": []
         }
       ]
     },
     {
-      "name": "4 - Navigating Users Between Screens",
+      "name": "13 - OOP - Classes and Objects",
       "children": [
         {
-          "name": "26 - Button Types English.srt",
+          "name": "001 Section Overview.mp4",
           "children": []
         },
         {
-          "name": "26 - Button Types.mp4",
+          "name": "001 Section Overview_en.srt",
           "children": []
         },
         {
-          "name": "27 - Buttons in Action English.srt",
+          "name": "001 Section13.zip",
           "children": []
         },
         {
-          "name": "27 - Buttons in Action.mp4",
+          "name": "002 What is Object-Oriented Programming.mp4",
           "children": []
         },
         {
-          "name": "28 - Touchable Opacity in Action English.srt",
+          "name": "002 What is Object-Oriented Programming_en.srt",
           "children": []
         },
         {
-          "name": "28 - Touchable Opacity in Action.mp4",
+          "name": "003 What are Classes and Objects.mp4",
           "children": []
         },
         {
-          "name": "29 - Navigating with React Navigation English.srt",
+          "name": "003 What are Classes and Objects_en.srt",
           "children": []
         },
         {
-          "name": "29 - Navigating with React Navigation.mp4",
+          "name": "004 Declaring a Class and Creating Objects.mp4",
           "children": []
         },
         {
-          "name": "30 - 30-destructuring.zip",
+          "name": "004 Declaring a Class and Creating Objects_en.srt",
           "children": []
         },
         {
-          "name": "30 - Destructuring Props English.srt",
+          "name": "005 Accessing Class Members.mp4",
           "children": []
         },
         {
-          "name": "30 - Destructuring Props.mp4",
+          "name": "005 Accessing Class Members_en.srt",
+          "children": []
+        },
+        {
+          "name": "005 Errata-138.pdf",
+          "children": []
+        },
+        {
+          "name": "006 public and private.mp4",
+          "children": []
+        },
+        {
+          "name": "006 public and private_en.srt",
+          "children": []
+        },
+        {
+          "name": "007 CommandLine.pdf",
+          "children": []
+        },
+        {
+          "name": "007 Errata-140.pdf",
+          "children": []
+        },
+        {
+          "name": "007 Implementing Member Methods.mp4",
+          "children": []
+        },
+        {
+          "name": "007 Implementing Member Methods_en.srt",
+          "children": []
+        },
+        {
+          "name": "008 Constructors and Destructors.mp4",
+          "children": []
+        },
+        {
+          "name": "008 Constructors and Destructors_en.srt",
+          "children": []
+        },
+        {
+          "name": "009 The Default Constructor.mp4",
+          "children": []
+        },
+        {
+          "name": "009 The Default Constructor_en.srt",
+          "children": []
+        },
+        {
+          "name": "010 Overloading Constructors.mp4",
+          "children": []
+        },
+        {
+          "name": "010 Overloading Constructors_en.srt",
+          "children": []
+        },
+        {
+          "name": "011 Constructor Initialization lists.mp4",
+          "children": []
+        },
+        {
+          "name": "011 Constructor Initialization lists_en.srt",
+          "children": []
+        },
+        {
+          "name": "012 Delegating Constructors.mp4",
+          "children": []
+        },
+        {
+          "name": "012 Delegating Constructors_en.srt",
+          "children": []
+        },
+        {
+          "name": "013 Constructor Parameters and Default Values.mp4",
+          "children": []
+        },
+        {
+          "name": "013 Constructor Parameters and Default Values_en.srt",
+          "children": []
+        },
+        {
+          "name": "014 Copy Constructor.mp4",
+          "children": []
+        },
+        {
+          "name": "014 Copy Constructor_en.srt",
+          "children": []
+        },
+        {
+          "name": "015 Shallow Copying with the Copy Constructor.mp4",
+          "children": []
+        },
+        {
+          "name": "015 Shallow Copying with the Copy Constructor_en.srt",
+          "children": []
+        },
+        {
+          "name": "016 Deep Copying with the Copy Constructor.mp4",
+          "children": []
+        },
+        {
+          "name": "016 Deep Copying with the Copy Constructor_en.srt",
+          "children": []
+        },
+        {
+          "name": "017 Move Constructors.mp4",
+          "children": []
+        },
+        {
+          "name": "017 Move Constructors_en.srt",
+          "children": []
+        },
+        {
+          "name": "018 The 'this' Pointer.mp4",
+          "children": []
+        },
+        {
+          "name": "018 The 'this' Pointer_en.srt",
+          "children": []
+        },
+        {
+          "name": "019 Using const with Classes.mp4",
+          "children": []
+        },
+        {
+          "name": "019 Using const with Classes_en.srt",
+          "children": []
+        },
+        {
+          "name": "020 Static Class Members.mp4",
+          "children": []
+        },
+        {
+          "name": "020 Static Class Members_en.srt",
+          "children": []
+        },
+        {
+          "name": "021 Structs vs Classes.mp4",
+          "children": []
+        },
+        {
+          "name": "021 Structs vs Classes_en.srt",
+          "children": []
+        },
+        {
+          "name": "022 Friends of a class.mp4",
+          "children": []
+        },
+        {
+          "name": "022 Friends of a class_en.srt",
+          "children": []
+        },
+        {
+          "name": "023 Section Challenge.mp4",
+          "children": []
+        },
+        {
+          "name": "023 Section Challenge_en.srt",
+          "children": []
+        },
+        {
+          "name": "024 Section Challenge - Solution.mp4",
+          "children": []
+        },
+        {
+          "name": "024 Section Challenge - Solution_en.srt",
           "children": []
         }
       ]
     },
     {
-      "name": "5 - Building Reusable Components",
+      "name": "14 - Operator Overloading",
       "children": [
         {
-          "name": "31 - Component Reuse with Props English.srt",
+          "name": "001 Section Overview.mp4",
           "children": []
         },
         {
-          "name": "31 - Component Reuse with Props.mp4",
+          "name": "001 Section Overview_en.srt",
           "children": []
         },
         {
-          "name": "32 - Exercise Solution English.srt",
+          "name": "001 Section14.zip",
           "children": []
         },
         {
-          "name": "32 - Exercise Solution.mp4",
+          "name": "002 ReturnTypesWhenOverloadingOperators.pdf",
           "children": []
         },
         {
-          "name": "33 - ParentChild Relationships English.srt",
+          "name": "002 What is Operator Overloading.mp4",
           "children": []
         },
         {
-          "name": "33 - ParentChild Relationships.mp4",
+          "name": "002 What is Operator Overloading_en.srt",
           "children": []
         },
         {
-          "name": "34 - Communicating from Parent to Child English.srt",
+          "name": "003 Overloading the Assignment Operator (copy).mp4",
           "children": []
         },
         {
-          "name": "34 - Communicating from Parent to Child.mp4",
+          "name": "003 Overloading the Assignment Operator (copy)_en.srt",
           "children": []
         },
         {
-          "name": "35 - Images Download.html",
+          "name": "004 Overloading the Assignment Operator (move).mp4",
           "children": []
         },
         {
-          "name": "35 - images.zip",
+          "name": "004 Overloading the Assignment Operator (move)_en.srt",
           "children": []
         },
         {
-          "name": "36 - Showing Images English.srt",
+          "name": "005 Overloading Operators as Member Functions.mp4",
           "children": []
         },
         {
-          "name": "36 - Showing Images.mp4",
+          "name": "005 Overloading Operators as Member Functions_en.srt",
           "children": []
         },
         {
-          "name": "37 - Passing Images as Props English.srt",
+          "name": "006 Overloading Operators as Global Functions.mp4",
           "children": []
         },
         {
-          "name": "37 - Passing Images as Props.mp4",
+          "name": "006 Overloading Operators as Global Functions_en.srt",
           "children": []
         },
         {
-          "name": "38 - Exercise Outline English.srt",
+          "name": "007 Overloading the Stream Insertion and Extraction Operators.mp4",
           "children": []
         },
         {
-          "name": "38 - Exercise Outline.mp4",
+          "name": "007 Overloading the Stream Insertion and Extraction Operators_en.srt",
           "children": []
         },
         {
-          "name": "39 - 39-exercise.zip",
+          "name": "008 Section Challenge.mp4",
           "children": []
         },
         {
-          "name": "39 - Exercise Solution English.srt",
+          "name": "008 Section Challenge_en.srt",
           "children": []
         },
         {
-          "name": "39 - Exercise Solution.mp4",
+          "name": "009 Section Challenge - Solution 1.mp4",
+          "children": []
+        },
+        {
+          "name": "009 Section Challenge - Solution 1_en.srt",
+          "children": []
+        },
+        {
+          "name": "010 Section Challenge - Solution 2.mp4",
+          "children": []
+        },
+        {
+          "name": "010 Section Challenge - Solution 2_en.srt",
           "children": []
         }
       ]
     },
     {
-      "name": "6 - State Management in React Components",
+      "name": "15 - Inheritance",
       "children": [
         {
-          "name": "40 - State in Components English.srt",
+          "name": "001 Section Overview.mp4",
           "children": []
         },
         {
-          "name": "40 - State in Components.mp4",
+          "name": "001 Section Overview_en.srt",
           "children": []
         },
         {
-          "name": "41 - Screen Boilerplate English.srt",
+          "name": "001 Section15.zip",
           "children": []
         },
         {
-          "name": "41 - Screen Boilerplate.mp4",
+          "name": "002 What is Inheritance.mp4",
           "children": []
         },
         {
-          "name": "42 - State in Action English.srt",
+          "name": "002 What is Inheritance_en.srt",
           "children": []
         },
         {
-          "name": "42 - State in Action.mp4",
+          "name": "003 Terminology and Notation.mp4",
           "children": []
         },
         {
-          "name": "43 - Notes on State English.srt",
+          "name": "003 Terminology and Notation_en.srt",
           "children": []
         },
         {
-          "name": "43 - Notes on State.mp4",
+          "name": "004 Inheritance vs. Composition.mp4",
           "children": []
         },
         {
-          "name": "44 - App Overview English.srt",
+          "name": "004 Inheritance vs. Composition_en.srt",
           "children": []
         },
         {
-          "name": "44 - App Overview.mp4",
+          "name": "005 Deriving Classes from Existing Classes.mp4",
           "children": []
         },
         {
-          "name": "45 - Generating Random Colors English.srt",
+          "name": "005 Deriving Classes from Existing Classes_en.srt",
           "children": []
         },
         {
-          "name": "45 - Generating Random Colors.mp4",
+          "name": "006 Protected Members and Class Access.mp4",
           "children": []
         },
         {
-          "name": "46 - Adding Random Colors English.srt",
+          "name": "006 Protected Members and Class Access_en.srt",
           "children": []
         },
         {
-          "name": "46 - Adding Random Colors.mp4",
+          "name": "007 Constructors and Destructors.mp4",
           "children": []
         },
         {
-          "name": "47 - 47-showing.zip",
+          "name": "007 Constructors and Destructors_en.srt",
           "children": []
         },
         {
-          "name": "47 - Showing Colors with a FlatList English.srt",
+          "name": "008 Passing Arguments to Base Class Constructors.mp4",
           "children": []
         },
         {
-          "name": "47 - Showing Colors with a FlatList.mp4",
+          "name": "008 Passing Arguments to Base Class Constructors_en.srt",
           "children": []
         },
         {
-          "name": "48 - App Overview English.srt",
+          "name": "009 CopyMove Constructors and Operator = with Derived Classes.mp4",
           "children": []
         },
         {
-          "name": "48 - App Overview.mp4",
+          "name": "009 CopyMove Constructors and Operator = with Derived Classes_en.srt",
           "children": []
         },
         {
-          "name": "49 - 49-reusable.zip",
+          "name": "010 Redefining Base Class Methods.mp4",
           "children": []
         },
         {
-          "name": "49 - Reusable Color Adjusters English.srt",
+          "name": "010 Redefining Base Class Methods_en.srt",
           "children": []
         },
         {
-          "name": "49 - Reusable Color Adjusters.mp4",
+          "name": "011 Multiple Inheritance.mp4",
           "children": []
         },
         {
-          "name": "50 - Coordinating State English.srt",
+          "name": "011 Multiple Inheritance_en.srt",
           "children": []
         },
         {
-          "name": "50 - Coordinating State.mp4",
+          "name": "012 The Updated Accounts Example.mp4",
           "children": []
         },
         {
-          "name": "51 - 51-passing.zip",
+          "name": "012 The Updated Accounts Example_en.srt",
           "children": []
         },
         {
-          "name": "51 - Passing Callbacks to Children English.srt",
+          "name": "013 Section Challenge.mp4",
           "children": []
         },
         {
-          "name": "51 - Passing Callbacks to Children.mp4",
+          "name": "013 Section Challenge_en.srt",
           "children": []
         },
         {
-          "name": "52 - 52-tying.zip",
+          "name": "014 Section Challenge - Solution.mp4",
           "children": []
         },
         {
-          "name": "52 - Tying State Values Together English.srt",
-          "children": []
-        },
-        {
-          "name": "52 - Tying State Values Together.mp4",
-          "children": []
-        },
-        {
-          "name": "53 - 53-validating.zip",
-          "children": []
-        },
-        {
-          "name": "53 - Validating State Changes English.srt",
-          "children": []
-        },
-        {
-          "name": "53 - Validating State Changes.mp4",
-          "children": []
-        },
-        {
-          "name": "54 - 54-reusable.zip",
-          "children": []
-        },
-        {
-          "name": "54 - Reusable State Updates English.srt",
-          "children": []
-        },
-        {
-          "name": "54 - Reusable State Updates.mp4",
-          "children": []
-        },
-        {
-          "name": "55 - Introduction to Reducers English.srt",
-          "children": []
-        },
-        {
-          "name": "55 - Introduction to Reducers.mp4",
-          "children": []
-        },
-        {
-          "name": "56 - Creating a Reducer English.srt",
-          "children": []
-        },
-        {
-          "name": "56 - Creating a Reducer.mp4",
-          "children": []
-        },
-        {
-          "name": "57 - 57-applying.zip",
-          "children": []
-        },
-        {
-          "name": "57 - Applying State with a Reducer English.srt",
-          "children": []
-        },
-        {
-          "name": "57 - Applying State with a Reducer.mp4",
-          "children": []
-        },
-        {
-          "name": "58 - 58-restoring.zip",
-          "children": []
-        },
-        {
-          "name": "58 - Restoring Validation English.srt",
-          "children": []
-        },
-        {
-          "name": "58 - Restoring Validation.mp4",
-          "children": []
-        },
-        {
-          "name": "59 - Community Convention in Reducers English.srt",
-          "children": []
-        },
-        {
-          "name": "59 - Community Convention in Reducers.mp4",
-          "children": []
-        },
-        {
-          "name": "60 - Exercise Outline English.srt",
-          "children": []
-        },
-        {
-          "name": "60 - Exercise Outline.mp4",
-          "children": []
-        },
-        {
-          "name": "61 - 61-exercise.zip",
-          "children": []
-        },
-        {
-          "name": "61 - Exercise Solution English.srt",
-          "children": []
-        },
-        {
-          "name": "61 - Exercise Solution.mp4",
-          "children": []
-        },
-        {
-          "name": "62 - Handling Text Input English.srt",
-          "children": []
-        },
-        {
-          "name": "62 - Handling Text Input.mp4",
-          "children": []
-        },
-        {
-          "name": "63 - Showing a Text Input English.srt",
-          "children": []
-        },
-        {
-          "name": "63 - Showing a Text Input.mp4",
-          "children": []
-        },
-        {
-          "name": "64 - Two Important Props English.srt",
-          "children": []
-        },
-        {
-          "name": "64 - Two Important Props.mp4",
-          "children": []
-        },
-        {
-          "name": "65 - Weird Things with Text and State English.srt",
-          "children": []
-        },
-        {
-          "name": "65 - Weird Things with Text and State.mp4",
-          "children": []
-        },
-        {
-          "name": "66 - Updating State English.srt",
-          "children": []
-        },
-        {
-          "name": "66 - Updating State.mp4",
-          "children": []
-        },
-        {
-          "name": "67 - Exercise Outline English.srt",
-          "children": []
-        },
-        {
-          "name": "67 - Exercise Outline.mp4",
-          "children": []
-        },
-        {
-          "name": "68 - 68-exercise.zip",
-          "children": []
-        },
-        {
-          "name": "68 - Exercise Solution English.srt",
-          "children": []
-        },
-        {
-          "name": "68 - Exercise Solution.mp4",
+          "name": "014 Section Challenge - Solution_en.srt",
           "children": []
         }
       ]
     },
     {
-      "name": "7 - How to Handle Screen Layout",
+      "name": "16 - Polymorphism",
       "children": [
         {
-          "name": "69 - Layout with React Native English.srt",
+          "name": "001 Section Overview.mp4",
           "children": []
         },
         {
-          "name": "69 - Layout with React Native.mp4",
+          "name": "001 Section Overview_en.srt",
           "children": []
         },
         {
-          "name": "70 - Basics of Box Object Model English.srt",
+          "name": "001 Section16.zip",
           "children": []
         },
         {
-          "name": "70 - Basics of Box Object Model.mp4",
+          "name": "002 What is Polymorphism.mp4",
           "children": []
         },
         {
-          "name": "71 - AlignItems with Flex English.srt",
+          "name": "002 What is Polymorphism_en.srt",
           "children": []
         },
         {
-          "name": "71 - AlignItems with Flex.mp4",
+          "name": "003 Using a Base Class Pointer.mp4",
           "children": []
         },
         {
-          "name": "72 - Flex Direction English.srt",
+          "name": "003 Using a Base Class Pointer_en.srt",
           "children": []
         },
         {
-          "name": "72 - Flex Direction.mp4",
+          "name": "004 Virtual Functions.mp4",
           "children": []
         },
         {
-          "name": "73 - Justify Content English.srt",
+          "name": "004 Virtual Functions_en.srt",
           "children": []
         },
         {
-          "name": "73 - Justify Content.mp4",
+          "name": "005 Virtual Destructors.mp4",
           "children": []
         },
         {
-          "name": "74 - Flex Values English.srt",
+          "name": "005 Virtual Destructors_en.srt",
           "children": []
         },
         {
-          "name": "74 - Flex Values.mp4",
+          "name": "006 Using the Override Specifier.mp4",
           "children": []
         },
         {
-          "name": "75 - Align Self on Children English.srt",
+          "name": "006 Using the Override Specifier_en.srt",
           "children": []
         },
         {
-          "name": "75 - Align Self on Children.mp4",
+          "name": "007 Using the Final Specifier.mp4",
           "children": []
         },
         {
-          "name": "76 - The Position Property English.srt",
+          "name": "007 Using the Final Specifier_en.srt",
           "children": []
         },
         {
-          "name": "76 - The Position Property.mp4",
+          "name": "008 Using Base Class References.mp4",
           "children": []
         },
         {
-          "name": "77 - Top Bottom Left Right English.srt",
+          "name": "008 Using Base Class References_en.srt",
           "children": []
         },
         {
-          "name": "77 - Top Bottom Left Right.mp4",
+          "name": "009 Pure Virtual Functions and Abstract Classes.mp4",
           "children": []
         },
         {
-          "name": "78 - Absolute Fill Objects English.srt",
+          "name": "009 Pure Virtual Functions and Abstract Classes_en.srt",
           "children": []
         },
         {
-          "name": "78 - Absolute Fill Objects.mp4",
+          "name": "010 Abstract Classes as Interfaces.mp4",
           "children": []
         },
         {
-          "name": "79 - Applying Layout Systems English.srt",
+          "name": "010 Abstract Classes as Interfaces_en.srt",
           "children": []
         },
         {
-          "name": "79 - Applying Layout Systems.mp4",
+          "name": "011 Section Challenge.mp4",
           "children": []
         },
         {
-          "name": "80 - Exercise Overview English.srt",
+          "name": "011 Section Challenge_en.srt",
           "children": []
         },
         {
-          "name": "80 - Exercise Overview.mp4",
+          "name": "012 Section Challenge - Solution Part 1.mp4",
           "children": []
         },
         {
-          "name": "81 - 81-exercise.zip",
+          "name": "012 Section Challenge - Solution Part 1_en.srt",
           "children": []
         },
         {
-          "name": "81 - Exercise Solution English.srt",
+          "name": "013 Section Challenge - Solution Part 2.mp4",
           "children": []
         },
         {
-          "name": "81 - Exercise Solution.mp4",
+          "name": "013 Section Challenge - Solution Part 2_en.srt",
+          "children": []
+        },
+        {
+          "name": "014 Section Challenge - Final Solution.mp4",
+          "children": []
+        },
+        {
+          "name": "014 Section Challenge - Final Solution_en.srt",
           "children": []
         }
       ]
     },
     {
-      "name": "8 - Putting It All Together Restaurant Search App",
+      "name": "17 - Smart Pointers",
       "children": [
         {
-          "name": "82 - App Overview English.srt",
+          "name": "001 Section Overview.mp4",
           "children": []
         },
         {
-          "name": "82 - App Overview.mp4",
+          "name": "001 Section Overview_en.srt",
           "children": []
         },
         {
-          "name": "83 - Important Note About Project Generation.html",
+          "name": "001 Section17.zip",
           "children": []
         },
         {
-          "name": "84 - 84-project.zip",
+          "name": "002 Some Issues with Raw Pointers.mp4",
           "children": []
         },
         {
-          "name": "84 - Project Generation English.srt",
+          "name": "002 Some Issues with Raw Pointers_en.srt",
           "children": []
         },
         {
-          "name": "84 - Project Generation.mp4",
+          "name": "003 What is a Smart Pointer Ownership and RAII.mp4",
           "children": []
         },
         {
-          "name": "85 - Yelp API Workarounds.html",
+          "name": "003 What is a Smart Pointer Ownership and RAII_en.srt",
           "children": []
         },
         {
-          "name": "86 - Yelp Signup English.srt",
+          "name": "004 Unique Pointers.mp4",
           "children": []
         },
         {
-          "name": "86 - Yelp Signup.mp4",
+          "name": "004 Unique Pointers_en.srt",
           "children": []
         },
         {
-          "name": "87 - Yelp Walkthrough English.srt",
+          "name": "005 Shared Pointers.mp4",
           "children": []
         },
         {
-          "name": "87 - Yelp Walkthrough.mp4",
+          "name": "005 Shared Pointers_en.srt",
           "children": []
         },
         {
-          "name": "88 - React Navigation English.srt",
+          "name": "006 Weak Pointers.mp4",
           "children": []
         },
         {
-          "name": "88 - React Navigation.mp4",
+          "name": "006 Weak Pointers_en.srt",
           "children": []
         },
         {
-          "name": "89 - Required React Navigation Installation Update.html",
+          "name": "007 Custom Deleters.mp4",
           "children": []
         },
         {
-          "name": "89 - food-boilerplate.zip",
+          "name": "007 Custom Deleters_en.srt",
           "children": []
         },
         {
-          "name": "90 - 90-assembling.zip",
+          "name": "008 Section Challenge 1.mp4",
           "children": []
         },
         {
-          "name": "90 - Assembling a Navigator English.srt",
+          "name": "008 Section Challenge 1_en.srt",
           "children": []
         },
         {
-          "name": "90 - Assembling a Navigator.mp4",
+          "name": "009 Section Challenge 1 - Solution.mp4",
           "children": []
         },
         {
-          "name": "91 - Architecture Approach English.srt",
-          "children": []
-        },
-        {
-          "name": "91 - Architecture Approach.mp4",
-          "children": []
-        },
-        {
-          "name": "92 - Starting the SearchBar English.srt",
-          "children": []
-        },
-        {
-          "name": "92 - Starting the SearchBar.mp4",
-          "children": []
-        },
-        {
-          "name": "93 - Displaying Icons English.srt",
-          "children": []
-        },
-        {
-          "name": "93 - Displaying Icons.mp4",
-          "children": []
-        },
-        {
-          "name": "94 - Search Bar Styling English.srt",
-          "children": []
-        },
-        {
-          "name": "94 - Search Bar Styling.mp4",
-          "children": []
-        },
-        {
-          "name": "95 - A Touch More Styling English.srt",
-          "children": []
-        },
-        {
-          "name": "95 - A Touch More Styling.mp4",
-          "children": []
-        },
-        {
-          "name": "96 - 96-managing.zip",
-          "children": []
-        },
-        {
-          "name": "96 - Managing State English.srt",
-          "children": []
-        },
-        {
-          "name": "96 - Managing State.mp4",
-          "children": []
-        },
-        {
-          "name": "97 - 97-detecting.zip",
-          "children": []
-        },
-        {
-          "name": "97 - Detecting Editing Completion English.srt",
-          "children": []
-        },
-        {
-          "name": "97 - Detecting Editing Completion.mp4",
+          "name": "009 Section Challenge 1 - Solution_en.srt",
           "children": []
         }
       ]
     },
     {
-      "name": "9 - Using Outside APIs",
+      "name": "18 - Exception Handling",
       "children": [
         {
-          "name": "100 - 100-error.zip",
+          "name": "001 Section Overview.mp4",
           "children": []
         },
         {
-          "name": "100 - Error Handling English.srt",
+          "name": "001 Section Overview_en.srt",
           "children": []
         },
         {
-          "name": "100 - Error Handling.mp4",
+          "name": "001 Section18.zip",
           "children": []
         },
         {
-          "name": "101 - Running an Initial Search English.srt",
+          "name": "002 Basic Concepts and a Simple Example Dividing by Zero.mp4",
           "children": []
         },
         {
-          "name": "101 - Running an Initial Search.mp4",
+          "name": "002 Basic Concepts and a Simple Example Dividing by Zero_en.srt",
           "children": []
         },
         {
-          "name": "98 - Configuring Axios English.srt",
+          "name": "003 Throwing an Exception from a Function.mp4",
           "children": []
         },
         {
-          "name": "98 - Configuring Axios.mp4",
+          "name": "003 Throwing an Exception from a Function_en.srt",
           "children": []
         },
         {
-          "name": "99 - 99-making.zip",
+          "name": "004 Handling Multiple Exceptions.mp4",
           "children": []
         },
         {
-          "name": "99 - Making the Request English.srt",
+          "name": "004 Handling Multiple Exceptions_en.srt",
           "children": []
         },
         {
-          "name": "99 - Making the Request.mp4",
+          "name": "005 Stack Unwinding and How it Works.mp4",
+          "children": []
+        },
+        {
+          "name": "005 Stack Unwinding and How it Works_en.srt",
+          "children": []
+        },
+        {
+          "name": "006 Creating User-Defined Exception Classes.mp4",
+          "children": []
+        },
+        {
+          "name": "006 Creating User-Defined Exception Classes_en.srt",
+          "children": []
+        },
+        {
+          "name": "007 Class Level Exceptions.mp4",
+          "children": []
+        },
+        {
+          "name": "007 Class Level Exceptions_en.srt",
+          "children": []
+        },
+        {
+          "name": "008 The C++ stdexception Class Hierarchy.mp4",
+          "children": []
+        },
+        {
+          "name": "008 The C++ stdexception Class Hierarchy_en.srt",
+          "children": []
+        },
+        {
+          "name": "009 Section Challenge.mp4",
+          "children": []
+        },
+        {
+          "name": "009 Section Challenge_en.srt",
+          "children": []
+        },
+        {
+          "name": "010 Section Challenge - Solution.mp4",
+          "children": []
+        },
+        {
+          "name": "010 Section Challenge - Solution_en.srt",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "19 - IO and Streams",
+      "children": [
+        {
+          "name": "001 Section Overview.mp4",
+          "children": []
+        },
+        {
+          "name": "001 Section Overview_en.srt",
+          "children": []
+        },
+        {
+          "name": "001 Section19.zip",
+          "children": []
+        },
+        {
+          "name": "002 Files, Streams and IO.mp4",
+          "children": []
+        },
+        {
+          "name": "002 Files, Streams and IO_en.srt",
+          "children": []
+        },
+        {
+          "name": "003 Stream Manipulators.mp4",
+          "children": []
+        },
+        {
+          "name": "003 Stream Manipulators_en.srt",
+          "children": []
+        },
+        {
+          "name": "004 Stream Manipulators - boolean.mp4",
+          "children": []
+        },
+        {
+          "name": "004 Stream Manipulators - boolean_en.srt",
+          "children": []
+        },
+        {
+          "name": "005 Errata-219.pdf",
+          "children": []
+        },
+        {
+          "name": "005 Stream Manipulators - integers.mp4",
+          "children": []
+        },
+        {
+          "name": "005 Stream Manipulators - integers_en.srt",
+          "children": []
+        },
+        {
+          "name": "006 Stream Manipulators - floating point.mp4",
+          "children": []
+        },
+        {
+          "name": "006 Stream Manipulators - floating point_en.srt",
+          "children": []
+        },
+        {
+          "name": "007 Errata-221.pdf",
+          "children": []
+        },
+        {
+          "name": "007 Stream Manipulators - align and fill.mp4",
+          "children": []
+        },
+        {
+          "name": "007 Stream Manipulators - align and fill_en.srt",
+          "children": []
+        },
+        {
+          "name": "008 Section Challenge 1.mp4",
+          "children": []
+        },
+        {
+          "name": "008 Section Challenge 1_en.srt",
+          "children": []
+        },
+        {
+          "name": "009 Section Challenge 1 - Solution.mp4",
+          "children": []
+        },
+        {
+          "name": "009 Section Challenge 1 - Solution_en.srt",
+          "children": []
+        },
+        {
+          "name": "010 Reading from a Text File.mp4",
+          "children": []
+        },
+        {
+          "name": "010 Reading from a Text File_en.srt",
+          "children": []
+        },
+        {
+          "name": "011 Errata-225.pdf",
+          "children": []
+        },
+        {
+          "name": "011 Reading from a Text File - Live Demo - Part 1.mp4",
+          "children": []
+        },
+        {
+          "name": "011 Reading from a Text File - Live Demo - Part 1_en.srt",
+          "children": []
+        },
+        {
+          "name": "012 Reading from a Text File - Live Demo - Part 2.mp4",
+          "children": []
+        },
+        {
+          "name": "012 Reading from a Text File - Live Demo - Part 2_en.srt",
+          "children": []
+        },
+        {
+          "name": "013 Section Challenge 2.mp4",
+          "children": []
+        },
+        {
+          "name": "013 Section Challenge 2_en.srt",
+          "children": []
+        },
+        {
+          "name": "014 Section Challenge 2 - Solution.mp4",
+          "children": []
+        },
+        {
+          "name": "014 Section Challenge 2 - Solution_en.srt",
+          "children": []
+        },
+        {
+          "name": "015 Section Challenge 3.mp4",
+          "children": []
+        },
+        {
+          "name": "015 Section Challenge 3_en.srt",
+          "children": []
+        },
+        {
+          "name": "016 Section Challenge 3 - Solution.mp4",
+          "children": []
+        },
+        {
+          "name": "016 Section Challenge 3 - Solution_en.srt",
+          "children": []
+        },
+        {
+          "name": "017 Writing to a Text File.mp4",
+          "children": []
+        },
+        {
+          "name": "017 Writing to a Text File_en.srt",
+          "children": []
+        },
+        {
+          "name": "018 Writing to a Text File - Live Demo.mp4",
+          "children": []
+        },
+        {
+          "name": "018 Writing to a Text File - Live Demo_en.srt",
+          "children": []
+        },
+        {
+          "name": "019 Section Challenge 4.mp4",
+          "children": []
+        },
+        {
+          "name": "019 Section Challenge 4_en.srt",
+          "children": []
+        },
+        {
+          "name": "020 Errata-234.pdf",
+          "children": []
+        },
+        {
+          "name": "020 Section Challenge 4 - Solution.mp4",
+          "children": []
+        },
+        {
+          "name": "020 Section Challenge 4 - Solution_en.srt",
+          "children": []
+        },
+        {
+          "name": "021 Using String Streams.mp4",
+          "children": []
+        },
+        {
+          "name": "021 Using String Streams_en.srt",
+          "children": []
+        },
+        {
+          "name": "022 File locations with some Popular IDEs.mp4",
+          "children": []
+        },
+        {
+          "name": "022 File locations with some Popular IDEs_en.srt",
+          "children": []
+        },
+        {
+          "name": "022 Update-236.pdf",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "20 - The Standard Template Library (STL)",
+      "children": [
+        {
+          "name": "001 Section Overview.mp4",
+          "children": []
+        },
+        {
+          "name": "001 Section Overview_en.srt",
+          "children": []
+        },
+        {
+          "name": "001 Section20.zip",
+          "children": []
+        },
+        {
+          "name": "002 What is the STL.mp4",
+          "children": []
+        },
+        {
+          "name": "002 What is the STL_en.srt",
+          "children": []
+        },
+        {
+          "name": "003 Generic Programming with Macros.mp4",
+          "children": []
+        },
+        {
+          "name": "003 Generic Programming with Macros_en.srt",
+          "children": []
+        },
+        {
+          "name": "004 Generic Programming with Function Templates.mp4",
+          "children": []
+        },
+        {
+          "name": "004 Generic Programming with Function Templates_en.srt",
+          "children": []
+        },
+        {
+          "name": "005 Generic Programming with Class Templates.mp4",
+          "children": []
+        },
+        {
+          "name": "005 Generic Programming with Class Templates_en.srt",
+          "children": []
+        },
+        {
+          "name": "006 Creating a Generic Array Template Class.mp4",
+          "children": []
+        },
+        {
+          "name": "006 Creating a Generic Array Template Class_en.srt",
+          "children": []
+        },
+        {
+          "name": "007 Introduction to STL Containers.mp4",
+          "children": []
+        },
+        {
+          "name": "007 Introduction to STL Containers_en.srt",
+          "children": []
+        },
+        {
+          "name": "008 Errata-244.pdf",
+          "children": []
+        },
+        {
+          "name": "008 Introduction to STL Iterators.mp4",
+          "children": []
+        },
+        {
+          "name": "008 Introduction to STL Iterators_en.srt",
+          "children": []
+        },
+        {
+          "name": "009 Introduction to Iterators - Demo.mp4",
+          "children": []
+        },
+        {
+          "name": "009 Introduction to Iterators - Demo_en.srt",
+          "children": []
+        },
+        {
+          "name": "010 Errata-246.pdf",
+          "children": []
+        },
+        {
+          "name": "010 Introduction to STL Algorithms.mp4",
+          "children": []
+        },
+        {
+          "name": "010 Introduction to STL Algorithms_en.srt",
+          "children": []
+        },
+        {
+          "name": "011 Introduction to Algorithms - Demo.mp4",
+          "children": []
+        },
+        {
+          "name": "011 Introduction to Algorithms - Demo_en.srt",
+          "children": []
+        },
+        {
+          "name": "012 Sequence Container - Array.mp4",
+          "children": []
+        },
+        {
+          "name": "012 Sequence Container - Array_en.srt",
+          "children": []
+        },
+        {
+          "name": "013 Errata-249.pdf",
+          "children": []
+        },
+        {
+          "name": "013 Sequence Containers - Vector.mp4",
+          "children": []
+        },
+        {
+          "name": "013 Sequence Containers - Vector_en.srt",
+          "children": []
+        },
+        {
+          "name": "014 Errata-250.pdf",
+          "children": []
+        },
+        {
+          "name": "014 Sequence Containers - Deque.mp4",
+          "children": []
+        },
+        {
+          "name": "014 Sequence Containers - Deque_en.srt",
+          "children": []
+        },
+        {
+          "name": "015 Section Challenge 1.mp4",
+          "children": []
+        },
+        {
+          "name": "015 Section Challenge 1_en.srt",
+          "children": []
+        },
+        {
+          "name": "016 Section Challenge 1 - Solution.mp4",
+          "children": []
+        },
+        {
+          "name": "016 Section Challenge 1 - Solution_en.srt",
+          "children": []
+        },
+        {
+          "name": "017 Errata-253a.pdf",
+          "children": []
+        },
+        {
+          "name": "017 Sequence Containers - List and Forward List.mp4",
+          "children": []
+        },
+        {
+          "name": "017 Sequence Containers - List and Forward List_en.srt",
+          "children": []
+        },
+        {
+          "name": "018 Section Challenge 2.mp4",
+          "children": []
+        },
+        {
+          "name": "018 Section Challenge 2_en.srt",
+          "children": []
+        },
+        {
+          "name": "019 Section Challenge 2 - Solution.mp4",
+          "children": []
+        },
+        {
+          "name": "019 Section Challenge 2 - Solution_en.srt",
+          "children": []
+        },
+        {
+          "name": "020 Associative Containers - Sets.mp4",
+          "children": []
+        },
+        {
+          "name": "020 Associative Containers - Sets_en.srt",
+          "children": []
+        },
+        {
+          "name": "021 Associative Containers - Maps.mp4",
+          "children": []
+        },
+        {
+          "name": "021 Associative Containers - Maps_en.srt",
+          "children": []
+        },
+        {
+          "name": "021 Errata-257.pdf",
+          "children": []
+        },
+        {
+          "name": "022 Section Challenge 3.mp4",
+          "children": []
+        },
+        {
+          "name": "022 Section Challenge 3_en.srt",
+          "children": []
+        },
+        {
+          "name": "023 Section Challenge 3 - Solution.mp4",
+          "children": []
+        },
+        {
+          "name": "023 Section Challenge 3 - Solution_en.srt",
+          "children": []
+        },
+        {
+          "name": "024 Container Adaptors - Stack.mp4",
+          "children": []
+        },
+        {
+          "name": "024 Container Adaptors - Stack_en.srt",
+          "children": []
+        },
+        {
+          "name": "025 Container Adaptors - Queue.mp4",
+          "children": []
+        },
+        {
+          "name": "025 Container Adaptors - Queue_en.srt",
+          "children": []
+        },
+        {
+          "name": "026 Section Challenge 4.mp4",
+          "children": []
+        },
+        {
+          "name": "026 Section Challenge 4_en.srt",
+          "children": []
+        },
+        {
+          "name": "027 Section Challenge 4 - Solution.mp4",
+          "children": []
+        },
+        {
+          "name": "027 Section Challenge 4 - Solution_en.srt",
+          "children": []
+        },
+        {
+          "name": "028 Container Adaptors - Priority Queue.mp4",
+          "children": []
+        },
+        {
+          "name": "028 Container Adaptors - Priority Queue_en.srt",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "21 - Lambda Expressions",
+      "children": [
+        {
+          "name": "001 Section Overview.mp4",
+          "children": []
+        },
+        {
+          "name": "001 Section Overview_en.srt",
+          "children": []
+        },
+        {
+          "name": "001 Section21.zip",
+          "children": []
+        },
+        {
+          "name": "002 Motivation.mp4",
+          "children": []
+        },
+        {
+          "name": "002 Motivation_en.srt",
+          "children": []
+        },
+        {
+          "name": "003 Structure of a Lambda Expression.mp4",
+          "children": []
+        },
+        {
+          "name": "003 Structure of a Lambda Expression_en.srt",
+          "children": []
+        },
+        {
+          "name": "004 Stateless Lambda Expressions.mp4",
+          "children": []
+        },
+        {
+          "name": "004 Stateless Lambda Expressions_en.srt",
+          "children": []
+        },
+        {
+          "name": "005 Stateless Lambda Expressions Demo - Part 1.mp4",
+          "children": []
+        },
+        {
+          "name": "005 Stateless Lambda Expressions Demo - Part 1_en.srt",
+          "children": []
+        },
+        {
+          "name": "006 Stateless Lambda Expressions Demo - Part 2.mp4",
+          "children": []
+        },
+        {
+          "name": "006 Stateless Lambda Expressions Demo - Part 2_en.srt",
+          "children": []
+        },
+        {
+          "name": "007 Stateful Lambda Expressions.mp4",
+          "children": []
+        },
+        {
+          "name": "007 Stateful Lambda Expressions_en.srt",
+          "children": []
+        },
+        {
+          "name": "008 Stateful Lambda Expressions Demo - Part1.mp4",
+          "children": []
+        },
+        {
+          "name": "008 Stateful Lambda Expressions Demo - Part1_en.srt",
+          "children": []
+        },
+        {
+          "name": "009 Stateful Lambda Expressions Demo - Part2.mp4",
+          "children": []
+        },
+        {
+          "name": "009 Stateful Lambda Expressions Demo - Part2_en.srt",
+          "children": []
+        },
+        {
+          "name": "010 Lambdas and the STL.mp4",
+          "children": []
+        },
+        {
+          "name": "010 Lambdas and the STL_en.srt",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "22 - Bonus Section - Using Visual Studio Code",
+      "children": [
+        {
+          "name": "001 Section Overview.mp4",
+          "children": []
+        },
+        {
+          "name": "001 Section Overview_en.srt",
+          "children": []
+        },
+        {
+          "name": "002 Installing VSCode on Windows.mp4",
+          "children": []
+        },
+        {
+          "name": "002 Installing VSCode on Windows_en.srt",
+          "children": []
+        },
+        {
+          "name": "002 Visual-Studio-Code.url",
+          "children": []
+        },
+        {
+          "name": "003 Building and Running C++ Programs with VSCode on Windows.mp4",
+          "children": []
+        },
+        {
+          "name": "003 Building and Running C++ Programs with VSCode on Windows_en.srt",
+          "children": []
+        },
+        {
+          "name": "004 Debugging C++ Programs with VSCode on Windows.mp4",
+          "children": []
+        },
+        {
+          "name": "004 Debugging C++ Programs with VSCode on Windows_en.srt",
+          "children": []
+        },
+        {
+          "name": "004 ManuallySettingUpDebugger1.pdf",
+          "children": []
+        },
+        {
+          "name": "005 Using the Course Source Code with VSCode on Windows.mp4",
+          "children": []
+        },
+        {
+          "name": "005 Using the Course Source Code with VSCode on Windows_en.srt",
+          "children": []
+        },
+        {
+          "name": "006 Installing VSCode on Mac OSX.mp4",
+          "children": []
+        },
+        {
+          "name": "006 Installing VSCode on Mac OSX_en.srt",
+          "children": []
+        },
+        {
+          "name": "006 Visual-Studio-Code.url",
+          "children": []
+        },
+        {
+          "name": "007 Building and Running C++ Programs with VSCode on Mac OSX.mp4",
+          "children": []
+        },
+        {
+          "name": "007 Building and Running C++ Programs with VSCode on Mac OSX_en.srt",
+          "children": []
+        },
+        {
+          "name": "008 Debugging C++ Programs with VSCode on Mac.mp4",
+          "children": []
+        },
+        {
+          "name": "008 Debugging C++ Programs with VSCode on Mac_en.srt",
+          "children": []
+        },
+        {
+          "name": "008 ManuallySettingUpDebugger1.pdf",
+          "children": []
+        },
+        {
+          "name": "009 Using the Course Source Code with VSCode on Mac.mp4",
+          "children": []
+        },
+        {
+          "name": "009 Using the Course Source Code with VSCode on Mac_en.srt",
+          "children": []
+        },
+        {
+          "name": "010 Installing VSCode on Linux.mp4",
+          "children": []
+        },
+        {
+          "name": "010 Installing VSCode on Linux_en.srt",
+          "children": []
+        },
+        {
+          "name": "010 Visual-Studio-Code.url",
+          "children": []
+        },
+        {
+          "name": "011 Building and Running C++ Programs with VSCode on Linux.mp4",
+          "children": []
+        },
+        {
+          "name": "011 Building and Running C++ Programs with VSCode on Linux_en.srt",
+          "children": []
+        },
+        {
+          "name": "012 Debugging C++ Programs with VSCode on Linux.mp4",
+          "children": []
+        },
+        {
+          "name": "012 Debugging C++ Programs with VSCode on Linux_en.srt",
+          "children": []
+        },
+        {
+          "name": "012 ManuallySettingUpDebugger1.pdf",
+          "children": []
+        },
+        {
+          "name": "013 Using the Course Source Code with VSCode on Linux.mp4",
+          "children": []
+        },
+        {
+          "name": "013 Using the Course Source Code with VSCode on Linux_en.srt",
+          "children": []
+        },
+        {
+          "name": "external-links.txt",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "23 - Bonus Section - Enumerations",
+      "children": [
+        {
+          "name": "001 Section Overview.mp4",
+          "children": []
+        },
+        {
+          "name": "001 Section Overview_en.srt",
+          "children": []
+        },
+        {
+          "name": "001 Section23.zip",
+          "children": []
+        },
+        {
+          "name": "002 Motivation.mp4",
+          "children": []
+        },
+        {
+          "name": "002 Motivation_en.srt",
+          "children": []
+        },
+        {
+          "name": "003 The Structure of an Enumeration.mp4",
+          "children": []
+        },
+        {
+          "name": "003 The Structure of an Enumeration_en.srt",
+          "children": []
+        },
+        {
+          "name": "004 Unscoped Enumerations.mp4",
+          "children": []
+        },
+        {
+          "name": "004 Unscoped Enumerations_en.srt",
+          "children": []
+        },
+        {
+          "name": "005 Scoped Enumerations.mp4",
+          "children": []
+        },
+        {
+          "name": "005 Scoped Enumerations_en.srt",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "24 - ARCHIVED - OLD INSTALLATION VIDEOS",
+      "children": [
+        {
+          "name": "001 Installation and Setup Overview.mp4",
+          "children": []
+        },
+        {
+          "name": "001 Installation and Setup Overview_en.srt",
+          "children": []
+        },
+        {
+          "name": "002 Direct-link-to-the-MinGW-Installer-Download.url",
+          "children": []
+        },
+        {
+          "name": "002 Installing the C++ Compiler on Windows.mp4",
+          "children": []
+        },
+        {
+          "name": "002 Installing the C++ Compiler on Windows_en.srt",
+          "children": []
+        },
+        {
+          "name": "002 Minimalist-GNU-for-Windows.url",
+          "children": []
+        },
+        {
+          "name": "002 Setting-Path-Pre-Windows10.pdf",
+          "children": []
+        },
+        {
+          "name": "003 CodeLite-IDE-Homepage.url",
+          "children": []
+        },
+        {
+          "name": "003 Installing CodeLite on Windows.mp4",
+          "children": []
+        },
+        {
+          "name": "003 Installing CodeLite on Windows_en.srt",
+          "children": []
+        },
+        {
+          "name": "004 CodeLite-Configuration-Updates.pdf",
+          "children": []
+        },
+        {
+          "name": "004 Codelite-13.0.1-Configuration-Updates.pdf",
+          "children": []
+        },
+        {
+          "name": "004 Codelite-13.0.2-Configuration-Updates.pdf",
+          "children": []
+        },
+        {
+          "name": "004 Codelite-14.0.0-ConfigurationUpdates.pdf",
+          "children": []
+        },
+        {
+          "name": "004 Configuring CodeLite on Windows.mp4",
+          "children": []
+        },
+        {
+          "name": "004 Configuring CodeLite on Windows_en.srt",
+          "children": []
+        },
+        {
+          "name": "004 Updates-to-MinGW-Dec-2018.pdf",
+          "children": []
+        },
+        {
+          "name": "005 Installing the C++ Compiler on Mac OSX.mp4",
+          "children": []
+        },
+        {
+          "name": "005 Installing the C++ Compiler on Mac OSX_en.srt",
+          "children": []
+        },
+        {
+          "name": "006 CodeLite-IDE-Homepage.url",
+          "children": []
+        },
+        {
+          "name": "006 Installing CodeLite on Mac OSX.mp4",
+          "children": []
+        },
+        {
+          "name": "006 Installing CodeLite on Mac OSX_en.srt",
+          "children": []
+        },
+        {
+          "name": "007 CodeLite-Configuration-Updates.pdf",
+          "children": []
+        },
+        {
+          "name": "007 Codelite-13.0.2-Configuration-Updates.pdf",
+          "children": []
+        },
+        {
+          "name": "007 Codelite-14.0.0-ConfigurationUpdates.pdf",
+          "children": []
+        },
+        {
+          "name": "007 Configuring CodeLite on Mac OSX.mp4",
+          "children": []
+        },
+        {
+          "name": "007 Configuring CodeLite on Mac OSX_en.srt",
+          "children": []
+        },
+        {
+          "name": "008 CodeLite-IDE-Homepage.url",
+          "children": []
+        },
+        {
+          "name": "008 Installing CodeLite on Ubuntu Linux.mp4",
+          "children": []
+        },
+        {
+          "name": "008 Installing CodeLite on Ubuntu Linux_en.srt",
+          "children": []
+        },
+        {
+          "name": "009 CodeLite-Configuration-Updates.pdf",
+          "children": []
+        },
+        {
+          "name": "009 Codelite-14.0.0-ConfigurationUpdates.pdf",
+          "children": []
+        },
+        {
+          "name": "009 Configuring CodeLite on Ubuntu Linux.mp4",
+          "children": []
+        },
+        {
+          "name": "009 Configuring CodeLite on Ubuntu Linux_en.srt",
+          "children": []
+        },
+        {
+          "name": "010 Creating a Default CodeLite Project Template (All Versions).mp4",
+          "children": []
+        },
+        {
+          "name": "010 Creating a Default CodeLite Project Template (All Versions)_en.srt",
+          "children": []
+        },
+        {
+          "name": "011 Source-Code.pdf",
+          "children": []
+        },
+        {
+          "name": "011 Using the Included Source Code Course Resources.mp4",
+          "children": []
+        },
+        {
+          "name": "011 Using the Included Source Code Course Resources_en.srt",
+          "children": []
+        },
+        {
+          "name": "external-links.txt",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "25 - Extra Information - Source code, and other stuff",
+      "children": [
+        {
+          "name": "001 Source Code for all Sections.html",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "26 - Bonus Section - including Slides",
+      "children": [
+        {
+          "name": "001 Bonus - Course Slides  and Free Programming EBook.mp4",
+          "children": []
+        },
+        {
+          "name": "001 Bonus - Course Slides  and Free Programming EBook_en.srt",
+          "children": []
+        },
+        {
+          "name": "001 Free-Course-and-Programming-Guide.pdf",
           "children": []
         }
       ]
