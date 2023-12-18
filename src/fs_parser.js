@@ -2,7 +2,6 @@ const fs = require('fs');
 const path = require('path');
 const directoryTree = require('directory-tree');
 
-// const coursesFolder = '/run/media/mirul/3a7a879a-72f1-46b6-a75b-ff4d7a0d03ff/Torrents/Courses/';
 
 // Function to get the courses folder path from .config file or user input
 function getCoursesFolderPath() {
@@ -16,18 +15,19 @@ function getCoursesFolderPath() {
       return match[1];
     }
   }
-
+  
   const prompt = require('prompt-sync')();
   const userPath = prompt('Enter the path to the courses folder: ');
   
   // Write the entered path to the .config file
   fs.writeFileSync(configPath, `COURSES_FOLDER=${userPath}`);
-  
   return userPath;
 }
 
+// this returns the course folder URL like so: /Users/mkhanal/Desktop/Courses
 const coursesFolder = getCoursesFolderPath();
 
+// This function takes in the folder path then traverses it to retrieve the folder structure
 function getCoursesList(rootPath) {
   const coursesList = [];
 
@@ -49,14 +49,13 @@ function getCoursesList(rootPath) {
 }
 
 // Function to clean the course title by extracting text after hyphen and leading space
+// so it takes in the `[FreeCourseSite.com] Udemy - Beginning C++ Programming - From Beginner to Beyond`
+// and returns `Beginning C++ Programming - From Beginner to Beyond`
 function cleanCourseTitle(folderName) {
   const match = folderName.match(/- (.*)/);
   const cleanedTitle = match ? match[1] : folderName;
   return cleanedTitle;
 }
-
-
-
 
 // Function to get the size of a folder
 function getFolderSize(folderPath) {
@@ -74,66 +73,64 @@ function getSubfolders(folderPath) {
 // Function to traverse a course folder and generate a JSON array
 function traverseCourseFolder(coursePath) {
   const tree = directoryTree(coursePath);
-  return generateJsonArray(tree);
+  return tree;
 }
 
-// Helper function to generate JSON array from directory tree
-function generateJsonArray(node) {
-  const jsonArray = { name: node.name, children: [] };
-
-  if (node.children && node.children.length > 0) {
-    node.children.forEach(child => {
-      jsonArray.children.push(generateJsonArray(child));
-    });
-  }
-
-  return jsonArray;
-}
 
 // Function to display the list of courses and prompt user for selection
 function selectCourse(coursesList) {
   console.log('Top Level Folders:');
+  console.log('0. Select All Folders');
+
   coursesList.forEach((course, index) => {
     console.log(`${index + 1}. ${course.title}`);
   });
 
   const selectedCourseIndex = promptForCourseSelection(coursesList.length);
+
+  if (selectedCourseIndex === 0) {
+    return coursesList; // Return all folders
+  }
+
   const selectedCourse = coursesList[selectedCourseIndex - 1];
-  return selectedCourse;
+  return [selectedCourse]; // Return the selected folder
 }
+
+
 
 // Function to prompt user for course selection
 function promptForCourseSelection(maxIndex) {
   const prompt = require('prompt-sync')();
-  let selection = 0;
-  while (selection < 1 || selection > maxIndex) {
-    selection = parseInt(prompt('Select a course (enter the number): '), 10);
-    if (selection < 1 || selection > maxIndex) {
-      console.log('Invalid selection. Please try again.');
-    }
+  let selection = prompt('Select a course (enter the number, press Enter for all): ');
+
+  if (!selection || isNaN(selection) || selection < 1 || selection > maxIndex) {
+    console.log('Invalid selection. Selecting all courses.');
+    return 0; // Return 0 to indicate selecting all courses
   }
-  return selection;
+
+  return parseInt(selection, 10);
 }
 
 // Main function to perform the operations
-function main() {
+function fs_parser() {
   const coursesList = getCoursesList(coursesFolder);
 
-  // Choose a course title to traverse
-  const selectedCourse = selectCourse(coursesList);
+  // Choose course title(s) to traverse
+  const selectedCourses = selectCourse(coursesList);
 
-  if (selectedCourse) {
-    const jsonOutput = traverseCourseFolder(selectedCourse.path);
-    console.log('JSON Output:', jsonOutput);
+  if (selectedCourses.length > 0) {
+    const allCourseDetails = selectedCourses.map(course => ({
+      title: course.title,
+      details: traverseCourseFolder(course.path),
+    }));
 
     // Export the JSON to a file
-    const outputPath = path.join(__dirname, 'course_structure.json');
-    fs.writeFileSync(outputPath, JSON.stringify(jsonOutput, null, 2));
+    const outputPath = path.join(__dirname, 'all_course_structure.json');
+    fs.writeFileSync(outputPath, JSON.stringify(allCourseDetails, null, 2));
     console.log(`JSON exported to ${outputPath}`);
   } else {
     console.log('No course selected.');
   }
 }
 
-// Run the main function
-main();
+module.exports = { fs_parser, traverseCourseFolder };

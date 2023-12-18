@@ -1,42 +1,56 @@
 const fs = require('fs');
 const path = require('path');
-const axios = require('axios');
-const cheerio = require('cheerio');
+const { fs_parser } = require('./fs_parser');
 const { getCourseDetails, getCoursePageDetails } = require('./utils');
-const fsParser = require('./fs_parser');
-const dotenv = require('dotenv')
-dotenv.config()
-async function main(searchQuery) {
-  try {
-    const apikey = process.env.ZENROWS_API_KEY;
+const dotenv = require('dotenv');
+dotenv.config();
 
-    const courseDetails = await getCourseDetails(searchQuery, apikey);
-    const courseDetailsFinal = await getCoursePageDetails(courseDetails);
-
-    console.log('Final Course Details:', courseDetailsFinal);
-  } catch (error) {
-    console.error(error.message);
-    if (error.response) {
-      console.error(error.response.data);
-    }
-  }
+function courseTitlesArray(jsonArray) {
+  const titlesArray = jsonArray.map(entry => entry.title);
+  return titlesArray;
 }
 
-function runParserIfJsonNotExists(jsonPath) {
-  if (!fs.existsSync(jsonPath)) {
-    fsParser.main();
+async function getCourseDetailsArray(titles) {
+  const apikey = process.env.ZENROWS_API_KEY;
+  const detailsArray = [];
+
+  for (const title of titles) {
+    const courseDetails = await getCourseDetails(title, apikey);
+    const finalDetails = await getCoursePageDetails(courseDetails);
+    detailsArray.push(finalDetails);
   }
+
+  return detailsArray;
 }
 
-// Check if course_structure.json exists in the src directory
-const jsonPath = path.join(__dirname, 'course_structure.json');
+async function main() {
+  // Run the fs_parser to generate the initial JSON file
+  fs_parser();
 
-runParserIfJsonNotExists(jsonPath);
+  // Read the generated JSON file
+  const jsonPath = path.join(__dirname, 'all_course_structure.json');
+  const jsonContent = fs.readFileSync(jsonPath, 'utf8');
+  const jsonObject = JSON.parse(jsonContent);
 
-// Read the JSON file and get the top-level folder name
-const jsonContent = fs.readFileSync(jsonPath, 'utf8');
-const jsonObject = JSON.parse(jsonContent);
-const topLevelFolderName = jsonObject.name;
+  // Extract titles from the generated JSON
+  const allTitles = courseTitlesArray(jsonObject);
 
-// Call main function with the top-level folder name
-main(topLevelFolderName);
+  // Fetch course details for each title
+  const courseDetailsArray = await getCourseDetailsArray(allTitles);
+  console.log('Course Details Array:', courseDetailsArray);
+
+  // Create metadata array
+  const metadataArray = jsonObject.map((entry, index) => ({
+    title: entry.title,
+    details: courseDetailsArray[index],
+    subfolders: entry.details.children, // Include subfolder details
+  }));
+
+  // Export metadata to a new file
+  const metadataPath = path.join(__dirname, 'metadata.json');
+  fs.writeFileSync(metadataPath, JSON.stringify(metadataArray, null, 2));
+  console.log(`Metadata exported to ${metadataPath}`);
+}
+
+// Run the main function
+main();
