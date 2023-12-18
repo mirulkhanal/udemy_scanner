@@ -1,0 +1,6 @@
+.env
+.fleet/*
+.idea/*
+.vscode/*
+jsdoc.conf.js
+node_modules/

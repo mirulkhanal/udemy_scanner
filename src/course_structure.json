@@ -1,0 +1,3996 @@
+{
+  "name": "The Complete React Native + Hooks Course [Stephen Grider, 2023]",
+  "children": [
+    {
+      "name": "0. Websites you may like",
+      "children": [
+        {
+          "name": "[CourseClub.Me].url",
+          "children": []
+        },
+        {
+          "name": "[FreeCourseSite.com].url",
+          "children": []
+        },
+        {
+          "name": "[GigaCourse.Com].url",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "1 - Getting Started",
+      "children": [
+        {
+          "name": "1 - How to Get Help English.srt",
+          "children": []
+        },
+        {
+          "name": "1 - How to Get Help.mp4",
+          "children": []
+        },
+        {
+          "name": "10 - Using iOS and Android Simulators.html",
+          "children": []
+        },
+        {
+          "name": "2 - Course Resources.html",
+          "children": []
+        },
+        {
+          "name": "2 - diagrams.zip",
+          "children": []
+        },
+        {
+          "name": "3 - Join Our Community.html",
+          "children": []
+        },
+        {
+          "name": "4 - Course Overview English.srt",
+          "children": []
+        },
+        {
+          "name": "4 - Course Overview.mp4",
+          "children": []
+        },
+        {
+          "name": "5 - Installing Nodejs and Prerequisite Info.html",
+          "children": []
+        },
+        {
+          "name": "6 - Boilerplate Download and Startup.html",
+          "children": []
+        },
+        {
+          "name": "6 - rn-starter.zip",
+          "children": []
+        },
+        {
+          "name": "7 - App Setup English.srt",
+          "children": []
+        },
+        {
+          "name": "7 - App Setup.mp4",
+          "children": []
+        },
+        {
+          "name": "8 - Making Changes English.srt",
+          "children": []
+        },
+        {
+          "name": "8 - Making Changes.mp4",
+          "children": []
+        },
+        {
+          "name": "9 - Expo for Web Browser Do Not Skip.html",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "10 - Making Hooks Reusable",
+      "children": [
+        {
+          "name": "102 - Incorrect Hook Name in Slide.html",
+          "children": []
+        },
+        {
+          "name": "103 - 103-useEffect.zip",
+          "children": []
+        },
+        {
+          "name": "103 - The UseEffect Hook English.srt",
+          "children": []
+        },
+        {
+          "name": "103 - The UseEffect Hook.mp4",
+          "children": []
+        },
+        {
+          "name": "104 - 104-extracting.zip",
+          "children": []
+        },
+        {
+          "name": "104 - Extracting Hook Logic English.srt",
+          "children": []
+        },
+        {
+          "name": "104 - Extracting Hook Logic.mp4",
+          "children": []
+        },
+        {
+          "name": "105 - 105-showing.zip",
+          "children": []
+        },
+        {
+          "name": "105 - Showing Search Results English.srt",
+          "children": []
+        },
+        {
+          "name": "105 - Showing Search Results.mp4",
+          "children": []
+        },
+        {
+          "name": "106 - 106-grouping.zip",
+          "children": []
+        },
+        {
+          "name": "106 - Grouping Results English.srt",
+          "children": []
+        },
+        {
+          "name": "106 - Grouping Results.mp4",
+          "children": []
+        },
+        {
+          "name": "107 - 107-flatlist.zip",
+          "children": []
+        },
+        {
+          "name": "107 - FlatList Rendering English.srt",
+          "children": []
+        },
+        {
+          "name": "107 - FlatList Rendering.mp4",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "11 - Navigation with Parameters",
+      "children": [
+        {
+          "name": "108 - 108-showing-single.zip",
+          "children": []
+        },
+        {
+          "name": "108 - Showing a Single Result English.srt",
+          "children": []
+        },
+        {
+          "name": "108 - Showing a Single Result.mp4",
+          "children": []
+        },
+        {
+          "name": "109 - 109-showing-additional.zip",
+          "children": []
+        },
+        {
+          "name": "109 - Showing Additional Info English.srt",
+          "children": []
+        },
+        {
+          "name": "109 - Showing Additional Info.mp4",
+          "children": []
+        },
+        {
+          "name": "110 - A Few More Styling Issues English.srt",
+          "children": []
+        },
+        {
+          "name": "110 - A Few More Styling Issues.mp4",
+          "children": []
+        },
+        {
+          "name": "111 - Hiding Scroll Bars English.srt",
+          "children": []
+        },
+        {
+          "name": "111 - Hiding Scroll Bars.mp4",
+          "children": []
+        },
+        {
+          "name": "112 - Constraining View Elements English.srt",
+          "children": []
+        },
+        {
+          "name": "112 - Constraining View Elements.mp4",
+          "children": []
+        },
+        {
+          "name": "113 - Empty Elements English.srt",
+          "children": []
+        },
+        {
+          "name": "113 - Empty Elements.mp4",
+          "children": []
+        },
+        {
+          "name": "114 - 114-spacing.zip",
+          "children": []
+        },
+        {
+          "name": "114 - Spacing on the Search Bar English.srt",
+          "children": []
+        },
+        {
+          "name": "114 - Spacing on the Search Bar.mp4",
+          "children": []
+        },
+        {
+          "name": "115 - Reminder on Navigation English.srt",
+          "children": []
+        },
+        {
+          "name": "115 - Reminder on Navigation.mp4",
+          "children": []
+        },
+        {
+          "name": "116 - 116-navigating.zip",
+          "children": []
+        },
+        {
+          "name": "116 - Navigating from a Child Component English.srt",
+          "children": []
+        },
+        {
+          "name": "116 - Navigating from a Child Component.mp4",
+          "children": []
+        },
+        {
+          "name": "117 - 117-with-navigation.zip",
+          "children": []
+        },
+        {
+          "name": "117 - The WithNavigation Helper English.srt",
+          "children": []
+        },
+        {
+          "name": "117 - The WithNavigation Helper.mp4",
+          "children": []
+        },
+        {
+          "name": "118 - 118-communicating.zip",
+          "children": []
+        },
+        {
+          "name": "118 - Communicating Between Screens English.srt",
+          "children": []
+        },
+        {
+          "name": "118 - Communicating Between Screens.mp4",
+          "children": []
+        },
+        {
+          "name": "119 - 119-fetching.zip",
+          "children": []
+        },
+        {
+          "name": "119 - Fetching a Single Restaurant English.srt",
+          "children": []
+        },
+        {
+          "name": "119 - Fetching a Single Restaurant.mp4",
+          "children": []
+        },
+        {
+          "name": "120 - 120-showing.zip",
+          "children": []
+        },
+        {
+          "name": "120 - Showing a List of Images English.srt",
+          "children": []
+        },
+        {
+          "name": "120 - Showing a List of Images.mp4",
+          "children": []
+        },
+        {
+          "name": "121 - 121-one-last.zip",
+          "children": []
+        },
+        {
+          "name": "121 - One Last Fix English.srt",
+          "children": []
+        },
+        {
+          "name": "121 - One Last Fix.mp4",
+          "children": []
+        },
+        {
+          "name": "122 - Upgrading the Restaurant app to use React Navigation v6.html",
+          "children": []
+        },
+        {
+          "name": "122 - food-rn6.zip",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "12 - Advanced State Management with Context",
+      "children": [
+        {
+          "name": "123 - Important Note About Project Generation.html",
+          "children": []
+        },
+        {
+          "name": "124 - App Overview English.srt",
+          "children": []
+        },
+        {
+          "name": "124 - App Overview.mp4",
+          "children": []
+        },
+        {
+          "name": "125 - Issues with Data English.srt",
+          "children": []
+        },
+        {
+          "name": "125 - Issues with Data.mp4",
+          "children": []
+        },
+        {
+          "name": "126 - Required React Navigation Installation Update.html",
+          "children": []
+        },
+        {
+          "name": "126 - blog-boilerplate.zip",
+          "children": []
+        },
+        {
+          "name": "127 - 126-initial.zip",
+          "children": []
+        },
+        {
+          "name": "127 - Initial Setup English.srt",
+          "children": []
+        },
+        {
+          "name": "127 - Initial Setup.mp4",
+          "children": []
+        },
+        {
+          "name": "128 - 127-wrapping.zip",
+          "children": []
+        },
+        {
+          "name": "128 - Wrapping the Navigator English.srt",
+          "children": []
+        },
+        {
+          "name": "128 - Wrapping the Navigator.mp4",
+          "children": []
+        },
+        {
+          "name": "129 - Introduction to Context English.srt",
+          "children": []
+        },
+        {
+          "name": "129 - Introduction to Context.mp4",
+          "children": []
+        },
+        {
+          "name": "130 - 129-adding.zip",
+          "children": []
+        },
+        {
+          "name": "130 - Adding Context English.srt",
+          "children": []
+        },
+        {
+          "name": "130 - Adding Context.mp4",
+          "children": []
+        },
+        {
+          "name": "131 - 130-moving.zip",
+          "children": []
+        },
+        {
+          "name": "131 - Moving Data with Context English.srt",
+          "children": []
+        },
+        {
+          "name": "131 - Moving Data with Context.mp4",
+          "children": []
+        },
+        {
+          "name": "132 - 131-rendering.zip",
+          "children": []
+        },
+        {
+          "name": "132 - Rendering a List of Posts English.srt",
+          "children": []
+        },
+        {
+          "name": "132 - Rendering a List of Posts.mp4",
+          "children": []
+        },
+        {
+          "name": "133 - Adding State in Context English.srt",
+          "children": []
+        },
+        {
+          "name": "133 - Adding State in Context.mp4",
+          "children": []
+        },
+        {
+          "name": "134 - 133-it-works.zip",
+          "children": []
+        },
+        {
+          "name": "134 - It Works English.srt",
+          "children": []
+        },
+        {
+          "name": "134 - It Works.mp4",
+          "children": []
+        },
+        {
+          "name": "135 - Opportunity for Improvement English.srt",
+          "children": []
+        },
+        {
+          "name": "135 - Opportunity for Improvement.mp4",
+          "children": []
+        },
+        {
+          "name": "136 - 135-updating.zip",
+          "children": []
+        },
+        {
+          "name": "136 - Updating with UseReducer English.srt",
+          "children": []
+        },
+        {
+          "name": "136 - Updating with UseReducer.mp4",
+          "children": []
+        },
+        {
+          "name": "137 - Automating Context Creation English.srt",
+          "children": []
+        },
+        {
+          "name": "137 - Automating Context Creation.mp4",
+          "children": []
+        },
+        {
+          "name": "138 - 137-more-automatic.zip",
+          "children": []
+        },
+        {
+          "name": "138 - More Automatic Context Creation English.srt",
+          "children": []
+        },
+        {
+          "name": "138 - More Automatic Context Creation.mp4",
+          "children": []
+        },
+        {
+          "name": "139 - 138-styling.zip",
+          "children": []
+        },
+        {
+          "name": "139 - A Bit of Styling English.srt",
+          "children": []
+        },
+        {
+          "name": "139 - A Bit of Styling.mp4",
+          "children": []
+        },
+        {
+          "name": "140 - Deleting Posts English.srt",
+          "children": []
+        },
+        {
+          "name": "140 - Deleting Posts.mp4",
+          "children": []
+        },
+        {
+          "name": "141 - 140-updating.zip",
+          "children": []
+        },
+        {
+          "name": "141 - Updating the Reducer English.srt",
+          "children": []
+        },
+        {
+          "name": "141 - Updating the Reducer.mp4",
+          "children": []
+        },
+        {
+          "name": "142 - 141-navigation.zip",
+          "children": []
+        },
+        {
+          "name": "142 - Navigation on Tap English.srt",
+          "children": []
+        },
+        {
+          "name": "142 - Navigation on Tap.mp4",
+          "children": []
+        },
+        {
+          "name": "143 - 142-retrieving.zip",
+          "children": []
+        },
+        {
+          "name": "143 - Retrieving Single Posts English.srt",
+          "children": []
+        },
+        {
+          "name": "143 - Retrieving Single Posts.mp4",
+          "children": []
+        },
+        {
+          "name": "144 - Adding a Creation Screen English.srt",
+          "children": []
+        },
+        {
+          "name": "144 - Adding a Creation Screen.mp4",
+          "children": []
+        },
+        {
+          "name": "145 - headerRight Deprecation in navigationOptions.html",
+          "children": []
+        },
+        {
+          "name": "146 - 145-header.zip",
+          "children": []
+        },
+        {
+          "name": "146 - Header Navigation English.srt",
+          "children": []
+        },
+        {
+          "name": "146 - Header Navigation.mp4",
+          "children": []
+        },
+        {
+          "name": "147 - 146-displaying.zip",
+          "children": []
+        },
+        {
+          "name": "147 - Displaying a Form English.srt",
+          "children": []
+        },
+        {
+          "name": "147 - Displaying a Form.mp4",
+          "children": []
+        },
+        {
+          "name": "148 - 147-saving.zip",
+          "children": []
+        },
+        {
+          "name": "148 - Saving a New Post English.srt",
+          "children": []
+        },
+        {
+          "name": "148 - Saving a New Post.mp4",
+          "children": []
+        },
+        {
+          "name": "149 - 148-navigation.zip",
+          "children": []
+        },
+        {
+          "name": "149 - Navigation on Save English.srt",
+          "children": []
+        },
+        {
+          "name": "149 - Navigation on Save.mp4",
+          "children": []
+        },
+        {
+          "name": "150 - headerRight Deprecation in navigationOptions.html",
+          "children": []
+        },
+        {
+          "name": "151 - 150-edit.zip",
+          "children": []
+        },
+        {
+          "name": "151 - The Edit Icon Link English.srt",
+          "children": []
+        },
+        {
+          "name": "151 - The Edit Icon Link.mp4",
+          "children": []
+        },
+        {
+          "name": "152 - 151-communicating.zip",
+          "children": []
+        },
+        {
+          "name": "152 - Communicating Info to Edit English.srt",
+          "children": []
+        },
+        {
+          "name": "152 - Communicating Info to Edit.mp4",
+          "children": []
+        },
+        {
+          "name": "153 - 152-initializing.zip",
+          "children": []
+        },
+        {
+          "name": "153 - Initializing State from Context English.srt",
+          "children": []
+        },
+        {
+          "name": "153 - Initializing State from Context.mp4",
+          "children": []
+        },
+        {
+          "name": "154 - Extracting Form Logic English.srt",
+          "children": []
+        },
+        {
+          "name": "154 - Extracting Form Logic.mp4",
+          "children": []
+        },
+        {
+          "name": "155 - 154-customizing.zip",
+          "children": []
+        },
+        {
+          "name": "155 - Customizing OnSubmit English.srt",
+          "children": []
+        },
+        {
+          "name": "155 - Customizing OnSubmit.mp4",
+          "children": []
+        },
+        {
+          "name": "156 - Initial Form Values English.srt",
+          "children": []
+        },
+        {
+          "name": "156 - Initial Form Values.mp4",
+          "children": []
+        },
+        {
+          "name": "157 - 156-default.zip",
+          "children": []
+        },
+        {
+          "name": "157 - Default Props English.srt",
+          "children": []
+        },
+        {
+          "name": "157 - Default Props.mp4",
+          "children": []
+        },
+        {
+          "name": "158 - Editing Action Function English.srt",
+          "children": []
+        },
+        {
+          "name": "158 - Editing Action Function.mp4",
+          "children": []
+        },
+        {
+          "name": "159 - 158-editing.zip",
+          "children": []
+        },
+        {
+          "name": "159 - Editing in a Reducer English.srt",
+          "children": []
+        },
+        {
+          "name": "159 - Editing in a Reducer.mp4",
+          "children": []
+        },
+        {
+          "name": "160 - 159-navigating.zip",
+          "children": []
+        },
+        {
+          "name": "160 - Navigating Backwards English.srt",
+          "children": []
+        },
+        {
+          "name": "160 - Navigating Backwards.mp4",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "13 - Data API Sync",
+      "children": [
+        {
+          "name": "161 - Outside Data API English.srt",
+          "children": []
+        },
+        {
+          "name": "161 - Outside Data API.mp4",
+          "children": []
+        },
+        {
+          "name": "162 - Issues with Servers React Native English.srt",
+          "children": []
+        },
+        {
+          "name": "162 - Issues with Servers React Native.mp4",
+          "children": []
+        },
+        {
+          "name": "163 - Important Required Ngrok Setup Steps.html",
+          "children": []
+        },
+        {
+          "name": "164 - 163-jsonserver.zip",
+          "children": []
+        },
+        {
+          "name": "164 - JSON Server and Ngrok Setup English.srt",
+          "children": []
+        },
+        {
+          "name": "164 - JSON Server and Ngrok Setup.mp4",
+          "children": []
+        },
+        {
+          "name": "165 - JSON Server REST Conventions English.srt",
+          "children": []
+        },
+        {
+          "name": "165 - JSON Server REST Conventions.mp4",
+          "children": []
+        },
+        {
+          "name": "166 - 165-making.zip",
+          "children": []
+        },
+        {
+          "name": "166 - Making a Request English.srt",
+          "children": []
+        },
+        {
+          "name": "166 - Making a Request.mp4",
+          "children": []
+        },
+        {
+          "name": "167 - 166-remote.zip",
+          "children": []
+        },
+        {
+          "name": "167 - Remote Fetch of Posts English.srt",
+          "children": []
+        },
+        {
+          "name": "167 - Remote Fetch of Posts.mp4",
+          "children": []
+        },
+        {
+          "name": "168 - 167-creating.zip",
+          "children": []
+        },
+        {
+          "name": "168 - Creating Posts with Post Requests English.srt",
+          "children": []
+        },
+        {
+          "name": "168 - Creating Posts with Post Requests.mp4",
+          "children": []
+        },
+        {
+          "name": "169 - 168-refetch.zip",
+          "children": []
+        },
+        {
+          "name": "169 - Refetching on Navigate English.srt",
+          "children": []
+        },
+        {
+          "name": "169 - Refetching on Navigate.mp4",
+          "children": []
+        },
+        {
+          "name": "170 - 169-deleting.zip",
+          "children": []
+        },
+        {
+          "name": "170 - Deleting a Post English.srt",
+          "children": []
+        },
+        {
+          "name": "170 - Deleting a Post.mp4",
+          "children": []
+        },
+        {
+          "name": "171 - 170-editing.zip",
+          "children": []
+        },
+        {
+          "name": "171 - Editing Posts English.srt",
+          "children": []
+        },
+        {
+          "name": "171 - Editing Posts.mp4",
+          "children": []
+        },
+        {
+          "name": "172 - App Wrapup English.srt",
+          "children": []
+        },
+        {
+          "name": "172 - App Wrapup.mp4",
+          "children": []
+        },
+        {
+          "name": "173 - Upgrading the Blog app to use React Navigation v6.html",
+          "children": []
+        },
+        {
+          "name": "173 - blog-rn6.zip",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "14 - Building a Custom Express API",
+      "children": [
+        {
+          "name": "174 - App Overview English.srt",
+          "children": []
+        },
+        {
+          "name": "174 - App Overview.mp4",
+          "children": []
+        },
+        {
+          "name": "175 - Dependencies Setup English.srt",
+          "children": []
+        },
+        {
+          "name": "175 - Dependencies Setup.mp4",
+          "children": []
+        },
+        {
+          "name": "176 - The Basics of Express English.srt",
+          "children": []
+        },
+        {
+          "name": "176 - The Basics of Express.mp4",
+          "children": []
+        },
+        {
+          "name": "177 - MongoDB Setup English.srt",
+          "children": []
+        },
+        {
+          "name": "177 - MongoDB Setup.mp4",
+          "children": []
+        },
+        {
+          "name": "178 - Connecting to MongoDB English.srt",
+          "children": []
+        },
+        {
+          "name": "178 - Connecting to MongoDB.mp4",
+          "children": []
+        },
+        {
+          "name": "179 - Nodemon for Automatic Restarts English.srt",
+          "children": []
+        },
+        {
+          "name": "179 - Nodemon for Automatic Restarts.mp4",
+          "children": []
+        },
+        {
+          "name": "180 - Understanding the Signup Process English.srt",
+          "children": []
+        },
+        {
+          "name": "180 - Understanding the Signup Process.mp4",
+          "children": []
+        },
+        {
+          "name": "181 - Using Postman English.srt",
+          "children": []
+        },
+        {
+          "name": "181 - Using Postman.mp4",
+          "children": []
+        },
+        {
+          "name": "182 - Handling JSON Data English.srt",
+          "children": []
+        },
+        {
+          "name": "182 - Handling JSON Data.mp4",
+          "children": []
+        },
+        {
+          "name": "183 - Defining a User Schema English.srt",
+          "children": []
+        },
+        {
+          "name": "183 - Defining a User Schema.mp4",
+          "children": []
+        },
+        {
+          "name": "184 - Creating and Saving a User English.srt",
+          "children": []
+        },
+        {
+          "name": "184 - Creating and Saving a User.mp4",
+          "children": []
+        },
+        {
+          "name": "185 - Error Handling English.srt",
+          "children": []
+        },
+        {
+          "name": "185 - Error Handling.mp4",
+          "children": []
+        },
+        {
+          "name": "186 - JSON Web Tokens English.srt",
+          "children": []
+        },
+        {
+          "name": "186 - JSON Web Tokens.mp4",
+          "children": []
+        },
+        {
+          "name": "187 - Creating a JWT English.srt",
+          "children": []
+        },
+        {
+          "name": "187 - Creating a JWT.mp4",
+          "children": []
+        },
+        {
+          "name": "188 - Wiring Up JSON Web Tokens English.srt",
+          "children": []
+        },
+        {
+          "name": "188 - Wiring Up JSON Web Tokens.mp4",
+          "children": []
+        },
+        {
+          "name": "189 - Understanding Password Hashing English.srt",
+          "children": []
+        },
+        {
+          "name": "189 - Understanding Password Hashing.mp4",
+          "children": []
+        },
+        {
+          "name": "190 - Salting and Hashing English.srt",
+          "children": []
+        },
+        {
+          "name": "190 - Salting and Hashing.mp4",
+          "children": []
+        },
+        {
+          "name": "191 - The Signin Route English.srt",
+          "children": []
+        },
+        {
+          "name": "191 - The Signin Route.mp4",
+          "children": []
+        },
+        {
+          "name": "192 - Testing Signup and Signin English.srt",
+          "children": []
+        },
+        {
+          "name": "192 - Testing Signup and Signin.mp4",
+          "children": []
+        },
+        {
+          "name": "193 - Defining Tracks English.srt",
+          "children": []
+        },
+        {
+          "name": "193 - Defining Tracks.mp4",
+          "children": []
+        },
+        {
+          "name": "194 - Listing Tracks English.srt",
+          "children": []
+        },
+        {
+          "name": "194 - Listing Tracks.mp4",
+          "children": []
+        },
+        {
+          "name": "195 - Creating Tracks English.srt",
+          "children": []
+        },
+        {
+          "name": "195 - Creating Tracks.mp4",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "15 - InApp Authentication",
+      "children": [
+        {
+          "name": "196 - Server Code.html",
+          "children": []
+        },
+        {
+          "name": "196 - track-server.zip",
+          "children": []
+        },
+        {
+          "name": "197 - Server Setup English.srt",
+          "children": []
+        },
+        {
+          "name": "197 - Server Setup.mp4",
+          "children": []
+        },
+        {
+          "name": "198 - Important Note About Project Generation.html",
+          "children": []
+        },
+        {
+          "name": "199 - Navigation Design English.srt",
+          "children": []
+        },
+        {
+          "name": "199 - Navigation Design.mp4",
+          "children": []
+        },
+        {
+          "name": "200 - Required React Navigation Installation Update.html",
+          "children": []
+        },
+        {
+          "name": "200 - tracks-boilerplate.zip",
+          "children": []
+        },
+        {
+          "name": "201 - A LOT of Boilerplate English.srt",
+          "children": []
+        },
+        {
+          "name": "201 - A LOT of Boilerplate.mp4",
+          "children": []
+        },
+        {
+          "name": "202 - 200-navigator.zip",
+          "children": []
+        },
+        {
+          "name": "202 - Navigator Hookup English.srt",
+          "children": []
+        },
+        {
+          "name": "202 - Navigator Hookup.mp4",
+          "children": []
+        },
+        {
+          "name": "203 - 201-testing.zip",
+          "children": []
+        },
+        {
+          "name": "203 - Testing the Navigation Flow English.srt",
+          "children": []
+        },
+        {
+          "name": "203 - Testing the Navigation Flow.mp4",
+          "children": []
+        },
+        {
+          "name": "204 - React Native Elements English.srt",
+          "children": []
+        },
+        {
+          "name": "204 - React Native Elements.mp4",
+          "children": []
+        },
+        {
+          "name": "205 - 203-helper.zip",
+          "children": []
+        },
+        {
+          "name": "205 - Helper Styling Components English.srt",
+          "children": []
+        },
+        {
+          "name": "205 - Helper Styling Components.mp4",
+          "children": []
+        },
+        {
+          "name": "206 - navigationOptions Deprecation Warning.html",
+          "children": []
+        },
+        {
+          "name": "207 - 205-styling.zip",
+          "children": []
+        },
+        {
+          "name": "207 - Styling Odds and Ends English.srt",
+          "children": []
+        },
+        {
+          "name": "207 - Styling Odds and Ends.mp4",
+          "children": []
+        },
+        {
+          "name": "208 - 206-input.zip",
+          "children": []
+        },
+        {
+          "name": "208 - Input Props English.srt",
+          "children": []
+        },
+        {
+          "name": "208 - Input Props.mp4",
+          "children": []
+        },
+        {
+          "name": "209 - 207-auth.zip",
+          "children": []
+        },
+        {
+          "name": "209 - The Auth Context English.srt",
+          "children": []
+        },
+        {
+          "name": "209 - The Auth Context.mp4",
+          "children": []
+        },
+        {
+          "name": "210 - Whats the Context Doing English.srt",
+          "children": []
+        },
+        {
+          "name": "210 - Whats the Context Doing.mp4",
+          "children": []
+        },
+        {
+          "name": "211 - 209-axios.zip",
+          "children": []
+        },
+        {
+          "name": "211 - Axios Setup English.srt",
+          "children": []
+        },
+        {
+          "name": "211 - Axios Setup.mp4",
+          "children": []
+        },
+        {
+          "name": "212 - 210-making.zip",
+          "children": []
+        },
+        {
+          "name": "212 - Making an API Request English.srt",
+          "children": []
+        },
+        {
+          "name": "212 - Making an API Request.mp4",
+          "children": []
+        },
+        {
+          "name": "213 - 211-handling.zip",
+          "children": []
+        },
+        {
+          "name": "213 - Handling Errored Requests English.srt",
+          "children": []
+        },
+        {
+          "name": "213 - Handling Errored Requests.mp4",
+          "children": []
+        },
+        {
+          "name": "214 - Async Storage English.srt",
+          "children": []
+        },
+        {
+          "name": "214 - Async Storage.mp4",
+          "children": []
+        },
+        {
+          "name": "215 - Async Storage Update.html",
+          "children": []
+        },
+        {
+          "name": "216 - Storing the Token English.srt",
+          "children": []
+        },
+        {
+          "name": "216 - Storing the Token.mp4",
+          "children": []
+        },
+        {
+          "name": "217 - Navigation From Outside of React English.srt",
+          "children": []
+        },
+        {
+          "name": "217 - Navigation From Outside of React.mp4",
+          "children": []
+        },
+        {
+          "name": "218 - 216-oops.zip",
+          "children": []
+        },
+        {
+          "name": "218 - Oops Typo English.srt",
+          "children": []
+        },
+        {
+          "name": "218 - Oops Typo.mp4",
+          "children": []
+        },
+        {
+          "name": "219 - Navigation to Signin English.srt",
+          "children": []
+        },
+        {
+          "name": "219 - Navigation to Signin.mp4",
+          "children": []
+        },
+        {
+          "name": "220 - Extracting Form Logic English.srt",
+          "children": []
+        },
+        {
+          "name": "220 - Extracting Form Logic.mp4",
+          "children": []
+        },
+        {
+          "name": "221 - 219-last.zip",
+          "children": []
+        },
+        {
+          "name": "221 - Last Bit of Extracting English.srt",
+          "children": []
+        },
+        {
+          "name": "221 - Last Bit of Extracting.mp4",
+          "children": []
+        },
+        {
+          "name": "222 - 220-creating.zip",
+          "children": []
+        },
+        {
+          "name": "222 - Creating a NavLink English.srt",
+          "children": []
+        },
+        {
+          "name": "222 - Creating a NavLink.mp4",
+          "children": []
+        },
+        {
+          "name": "223 - navigationOptions Deprecation.html",
+          "children": []
+        },
+        {
+          "name": "224 - Real Component Reuse English.srt",
+          "children": []
+        },
+        {
+          "name": "224 - Real Component Reuse.mp4",
+          "children": []
+        },
+        {
+          "name": "225 - 223-wiring.zip",
+          "children": []
+        },
+        {
+          "name": "225 - Wiring Up Signin English.srt",
+          "children": []
+        },
+        {
+          "name": "225 - Wiring Up Signin.mp4",
+          "children": []
+        },
+        {
+          "name": "226 - onWillFocus vs onWillBlur Update.html",
+          "children": []
+        },
+        {
+          "name": "227 - 225-clearing.zip",
+          "children": []
+        },
+        {
+          "name": "227 - Clearing Error Messages English.srt",
+          "children": []
+        },
+        {
+          "name": "227 - Clearing Error Messages.mp4",
+          "children": []
+        },
+        {
+          "name": "228 - 226-automatic.zip",
+          "children": []
+        },
+        {
+          "name": "228 - Automatic Signin English.srt",
+          "children": []
+        },
+        {
+          "name": "228 - Automatic Signin.mp4",
+          "children": []
+        },
+        {
+          "name": "229 - 227-empty.zip",
+          "children": []
+        },
+        {
+          "name": "229 - Empty Screens While Resolving Auth English.srt",
+          "children": []
+        },
+        {
+          "name": "229 - Empty Screens While Resolving Auth.mp4",
+          "children": []
+        },
+        {
+          "name": "230 - 228-signing-out.zip",
+          "children": []
+        },
+        {
+          "name": "230 - Signing Out a User English.srt",
+          "children": []
+        },
+        {
+          "name": "230 - Signing Out a User.mp4",
+          "children": []
+        },
+        {
+          "name": "231 - 229-safe.zip",
+          "children": []
+        },
+        {
+          "name": "231 - Safe Area Views English.srt",
+          "children": []
+        },
+        {
+          "name": "231 - Safe Area Views.mp4",
+          "children": []
+        },
+        {
+          "name": "232 - Working on Track Create English.srt",
+          "children": []
+        },
+        {
+          "name": "232 - Working on Track Create.mp4",
+          "children": []
+        },
+        {
+          "name": "233 - Installing React Native Maps.html",
+          "children": []
+        },
+        {
+          "name": "234 - 232-showing.zip",
+          "children": []
+        },
+        {
+          "name": "234 - Showing a Map English.srt",
+          "children": []
+        },
+        {
+          "name": "234 - Showing a Map.mp4",
+          "children": []
+        },
+        {
+          "name": "235 - 233-drawing.zip",
+          "children": []
+        },
+        {
+          "name": "235 - Drawing a Series of Points English.srt",
+          "children": []
+        },
+        {
+          "name": "235 - Drawing a Series of Points.mp4",
+          "children": []
+        },
+        {
+          "name": "236 - Notes on Location English.srt",
+          "children": []
+        },
+        {
+          "name": "236 - Notes on Location.mp4",
+          "children": []
+        },
+        {
+          "name": "237 - Fix for Missing Location Request Error.html",
+          "children": []
+        },
+        {
+          "name": "238 - requestPermissionsAsync is now deprecated in Expo SDK 41.html",
+          "children": []
+        },
+        {
+          "name": "239 - 237-requesting.zip",
+          "children": []
+        },
+        {
+          "name": "239 - Requesting Location Permissions English.srt",
+          "children": []
+        },
+        {
+          "name": "239 - Requesting Location Permissions.mp4",
+          "children": []
+        },
+        {
+          "name": "240 - Resetting Permissions English.srt",
+          "children": []
+        },
+        {
+          "name": "240 - Resetting Permissions.mp4",
+          "children": []
+        },
+        {
+          "name": "241 - How to Test Location English.srt",
+          "children": []
+        },
+        {
+          "name": "241 - How to Test Location.mp4",
+          "children": []
+        },
+        {
+          "name": "242 - 240-faking.zip",
+          "children": []
+        },
+        {
+          "name": "242 - Faking the Users Location English.srt",
+          "children": []
+        },
+        {
+          "name": "242 - Faking the Users Location.mp4",
+          "children": []
+        },
+        {
+          "name": "243 - 241-reading.zip",
+          "children": []
+        },
+        {
+          "name": "243 - Reading a Location English.srt",
+          "children": []
+        },
+        {
+          "name": "243 - Reading a Location.mp4",
+          "children": []
+        },
+        {
+          "name": "244 - Bugginess with Location English.srt",
+          "children": []
+        },
+        {
+          "name": "244 - Bugginess with Location.mp4",
+          "children": []
+        },
+        {
+          "name": "245 - Location Architecture English.srt",
+          "children": []
+        },
+        {
+          "name": "245 - Location Architecture.mp4",
+          "children": []
+        },
+        {
+          "name": "246 - 244-location.zip",
+          "children": []
+        },
+        {
+          "name": "246 - Location Context English.srt",
+          "children": []
+        },
+        {
+          "name": "246 - Location Context.mp4",
+          "children": []
+        },
+        {
+          "name": "247 - 245-live.zip",
+          "children": []
+        },
+        {
+          "name": "247 - Live Location Updates English.srt",
+          "children": []
+        },
+        {
+          "name": "247 - Live Location Updates.mp4",
+          "children": []
+        },
+        {
+          "name": "248 - Fix for Indicator not Tracking Map.html",
+          "children": []
+        },
+        {
+          "name": "249 - 247-drawing.zip",
+          "children": []
+        },
+        {
+          "name": "249 - Drawing a Position Indicator English.srt",
+          "children": []
+        },
+        {
+          "name": "249 - Drawing a Position Indicator.mp4",
+          "children": []
+        },
+        {
+          "name": "250 - 248-extracting.zip",
+          "children": []
+        },
+        {
+          "name": "250 - Extracting Logic to a Hook English.srt",
+          "children": []
+        },
+        {
+          "name": "250 - Extracting Logic to a Hook.mp4",
+          "children": []
+        },
+        {
+          "name": "251 - 249-disabling.zip",
+          "children": []
+        },
+        {
+          "name": "251 - Disabling Location Tracking English.srt",
+          "children": []
+        },
+        {
+          "name": "251 - Disabling Location Tracking.mp4",
+          "children": []
+        },
+        {
+          "name": "252 - 250-automatic.zip",
+          "children": []
+        },
+        {
+          "name": "252 - Automatic Disables English.srt",
+          "children": []
+        },
+        {
+          "name": "252 - Automatic Disables.mp4",
+          "children": []
+        },
+        {
+          "name": "253 - 251-building.zip",
+          "children": []
+        },
+        {
+          "name": "253 - Building a Track Form English.srt",
+          "children": []
+        },
+        {
+          "name": "253 - Building a Track Form.mp4",
+          "children": []
+        },
+        {
+          "name": "254 - 252-updates.zip",
+          "children": []
+        },
+        {
+          "name": "254 - Updates to Location Context English.srt",
+          "children": []
+        },
+        {
+          "name": "254 - Updates to Location Context.mp4",
+          "children": []
+        },
+        {
+          "name": "255 - 253-track-form.zip",
+          "children": []
+        },
+        {
+          "name": "255 - Track Form Wire Up English.srt",
+          "children": []
+        },
+        {
+          "name": "255 - Track Form Wire Up.mp4",
+          "children": []
+        },
+        {
+          "name": "256 - Buggy UseEffects English.srt",
+          "children": []
+        },
+        {
+          "name": "256 - Buggy UseEffects.mp4",
+          "children": []
+        },
+        {
+          "name": "257 - Understanding Stale References English.srt",
+          "children": []
+        },
+        {
+          "name": "257 - Understanding Stale References.mp4",
+          "children": []
+        },
+        {
+          "name": "258 - Some Errors You May See.html",
+          "children": []
+        },
+        {
+          "name": "259 - Kind of Fixed English.srt",
+          "children": []
+        },
+        {
+          "name": "259 - Kind of Fixed.mp4",
+          "children": []
+        },
+        {
+          "name": "260 - 258-usecallback.zip",
+          "children": []
+        },
+        {
+          "name": "260 - The UseCallback Hook English.srt",
+          "children": []
+        },
+        {
+          "name": "260 - The UseCallback Hook.mp4",
+          "children": []
+        },
+        {
+          "name": "261 - 259-cleaning.zip",
+          "children": []
+        },
+        {
+          "name": "261 - Cleaning Up After Ourselves English.srt",
+          "children": []
+        },
+        {
+          "name": "261 - Cleaning Up After Ourselves.mp4",
+          "children": []
+        },
+        {
+          "name": "262 - 260-avoiding.zip",
+          "children": []
+        },
+        {
+          "name": "262 - Avoiding Stale References English.srt",
+          "children": []
+        },
+        {
+          "name": "262 - Avoiding Stale References.mp4",
+          "children": []
+        },
+        {
+          "name": "263 - 261-tracking.zip",
+          "children": []
+        },
+        {
+          "name": "263 - Tracking While Recording English.srt",
+          "children": []
+        },
+        {
+          "name": "263 - Tracking While Recording.mp4",
+          "children": []
+        },
+        {
+          "name": "264 - 262-polyline.zip",
+          "children": []
+        },
+        {
+          "name": "264 - Bring Back the Polyline English.srt",
+          "children": []
+        },
+        {
+          "name": "264 - Bring Back the Polyline.mp4",
+          "children": []
+        },
+        {
+          "name": "265 - 263-what-manages.zip",
+          "children": []
+        },
+        {
+          "name": "265 - What Manages Tracks English.srt",
+          "children": []
+        },
+        {
+          "name": "265 - What Manages Tracks.mp4",
+          "children": []
+        },
+        {
+          "name": "266 - 264-coordination.zip",
+          "children": []
+        },
+        {
+          "name": "266 - Coordination Between Contexts English.srt",
+          "children": []
+        },
+        {
+          "name": "266 - Coordination Between Contexts.mp4",
+          "children": []
+        },
+        {
+          "name": "267 - Async Storage Update.html",
+          "children": []
+        },
+        {
+          "name": "268 - Automatic Authentication English.srt",
+          "children": []
+        },
+        {
+          "name": "268 - Automatic Authentication.mp4",
+          "children": []
+        },
+        {
+          "name": "269 - 267-form.zip",
+          "children": []
+        },
+        {
+          "name": "269 - Form Reset and Navigation English.srt",
+          "children": []
+        },
+        {
+          "name": "269 - Form Reset and Navigation.mp4",
+          "children": []
+        },
+        {
+          "name": "270 - 268-fetching.zip",
+          "children": []
+        },
+        {
+          "name": "270 - Fetching Created Tracks English.srt",
+          "children": []
+        },
+        {
+          "name": "270 - Fetching Created Tracks.mp4",
+          "children": []
+        },
+        {
+          "name": "271 - ListItem Update.html",
+          "children": []
+        },
+        {
+          "name": "272 - 270-listing.zip",
+          "children": []
+        },
+        {
+          "name": "272 - Listing All Tracks English.srt",
+          "children": []
+        },
+        {
+          "name": "272 - Listing All Tracks.mp4",
+          "children": []
+        },
+        {
+          "name": "273 - 271-navigating.zip",
+          "children": []
+        },
+        {
+          "name": "273 - Navigating to a Saved Track English.srt",
+          "children": []
+        },
+        {
+          "name": "273 - Navigating to a Saved Track.mp4",
+          "children": []
+        },
+        {
+          "name": "274 - 272-showing.zip",
+          "children": []
+        },
+        {
+          "name": "274 - Showing Track Details English.srt",
+          "children": []
+        },
+        {
+          "name": "274 - Showing Track Details.mp4",
+          "children": []
+        },
+        {
+          "name": "275 - 273-fixing.zip",
+          "children": []
+        },
+        {
+          "name": "275 - 273-withoutMockLocation.zip",
+          "children": []
+        },
+        {
+          "name": "275 - Fixing Odds and Ends English.srt",
+          "children": []
+        },
+        {
+          "name": "275 - Fixing Odds and Ends.mp4",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "16 - Important OLD VERSION OF COURSE Do Not Skip",
+      "children": [
+        {
+          "name": "276 - Note on the Following Section.html",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "17 - Working with Old Versions of React Native",
+      "children": [
+        {
+          "name": "277 - Important Do Not Skip.html",
+          "children": []
+        },
+        {
+          "name": "278 - Finished Code Repository.html",
+          "children": []
+        },
+        {
+          "name": "279 - OSX Installation English.srt",
+          "children": []
+        },
+        {
+          "name": "279 - OSX Installation.mp4",
+          "children": []
+        },
+        {
+          "name": "280 - More on OSX Installation English.srt",
+          "children": []
+        },
+        {
+          "name": "280 - More on OSX Installation.mp4",
+          "children": []
+        },
+        {
+          "name": "281 - Running in the Simulator English.srt",
+          "children": []
+        },
+        {
+          "name": "281 - Running in the Simulator.mp4",
+          "children": []
+        },
+        {
+          "name": "282 - Windows Setup of React Native English.srt",
+          "children": []
+        },
+        {
+          "name": "282 - Windows Setup of React Native.mp4",
+          "children": []
+        },
+        {
+          "name": "283 - Android Studio and React Native CLI Installation English.srt",
+          "children": []
+        },
+        {
+          "name": "283 - Android Studio and React Native CLI Installation.mp4",
+          "children": []
+        },
+        {
+          "name": "284 - Emulator Creation and System Variables English.srt",
+          "children": []
+        },
+        {
+          "name": "284 - Emulator Creation and System Variables.mp4",
+          "children": []
+        },
+        {
+          "name": "285 - ESLint Setup with VSCode English.srt",
+          "children": []
+        },
+        {
+          "name": "285 - ESLint Setup with VSCode.mp4",
+          "children": []
+        },
+        {
+          "name": "286 - Troubleshooting React Native Installs.html",
+          "children": []
+        },
+        {
+          "name": "287 - Project Directory Walkthrough English.srt",
+          "children": []
+        },
+        {
+          "name": "287 - Project Directory Walkthrough.mp4",
+          "children": []
+        },
+        {
+          "name": "288 - Getting Content on the Screen English.srt",
+          "children": []
+        },
+        {
+          "name": "288 - Getting Content on the Screen.mp4",
+          "children": []
+        },
+        {
+          "name": "289 - React vs React Native English.srt",
+          "children": []
+        },
+        {
+          "name": "289 - React vs React Native.mp4",
+          "children": []
+        },
+        {
+          "name": "290 - Creating a Component with JSX English.srt",
+          "children": []
+        },
+        {
+          "name": "290 - Creating a Component with JSX.mp4",
+          "children": []
+        },
+        {
+          "name": "291 - Registering a Component English.srt",
+          "children": []
+        },
+        {
+          "name": "291 - Registering a Component.mp4",
+          "children": []
+        },
+        {
+          "name": "292 - Destructuring Imports English.srt",
+          "children": []
+        },
+        {
+          "name": "292 - Destructuring Imports.mp4",
+          "children": []
+        },
+        {
+          "name": "293 - Application Outline English.srt",
+          "children": []
+        },
+        {
+          "name": "293 - Application Outline.mp4",
+          "children": []
+        },
+        {
+          "name": "294 - The Header Component English.srt",
+          "children": []
+        },
+        {
+          "name": "294 - The Header Component.mp4",
+          "children": []
+        },
+        {
+          "name": "295 - Consuming File Exports English.srt",
+          "children": []
+        },
+        {
+          "name": "295 - Consuming File Exports.mp4",
+          "children": []
+        },
+        {
+          "name": "296 - Styling with React Native English.srt",
+          "children": []
+        },
+        {
+          "name": "296 - Styling with React Native.mp4",
+          "children": []
+        },
+        {
+          "name": "297 - More on Styling Components English.srt",
+          "children": []
+        },
+        {
+          "name": "297 - More on Styling Components.mp4",
+          "children": []
+        },
+        {
+          "name": "298 - Introduction to Flexbox English.srt",
+          "children": []
+        },
+        {
+          "name": "298 - Introduction to Flexbox.mp4",
+          "children": []
+        },
+        {
+          "name": "299 - Header Styling English.srt",
+          "children": []
+        },
+        {
+          "name": "299 - Header Styling.mp4",
+          "children": []
+        },
+        {
+          "name": "300 - Making the Header Reusable English.srt",
+          "children": []
+        },
+        {
+          "name": "300 - Making the Header Reusable.mp4",
+          "children": []
+        },
+        {
+          "name": "301 - Sourcing Album Data English.srt",
+          "children": []
+        },
+        {
+          "name": "301 - Sourcing Album Data.mp4",
+          "children": []
+        },
+        {
+          "name": "302 - List Component Boilerplate English.srt",
+          "children": []
+        },
+        {
+          "name": "302 - List Component Boilerplate.mp4",
+          "children": []
+        },
+        {
+          "name": "303 - Class Based Components English.srt",
+          "children": []
+        },
+        {
+          "name": "303 - Class Based Components.mp4",
+          "children": []
+        },
+        {
+          "name": "304 - Lifecycle Methods English.srt",
+          "children": []
+        },
+        {
+          "name": "304 - Lifecycle Methods.mp4",
+          "children": []
+        },
+        {
+          "name": "305 - Quick Note On Axios.html",
+          "children": []
+        },
+        {
+          "name": "306 - Network Requests English.srt",
+          "children": []
+        },
+        {
+          "name": "306 - Network Requests.mp4",
+          "children": []
+        },
+        {
+          "name": "307 - Component Level State English.srt",
+          "children": []
+        },
+        {
+          "name": "307 - Component Level State.mp4",
+          "children": []
+        },
+        {
+          "name": "308 - More on Component Level State English.srt",
+          "children": []
+        },
+        {
+          "name": "308 - More on Component Level State.mp4",
+          "children": []
+        },
+        {
+          "name": "309 - Rendering a List of Components English.srt",
+          "children": []
+        },
+        {
+          "name": "309 - Rendering a List of Components.mp4",
+          "children": []
+        },
+        {
+          "name": "310 - Displaying Individual Albums English.srt",
+          "children": []
+        },
+        {
+          "name": "310 - Displaying Individual Albums.mp4",
+          "children": []
+        },
+        {
+          "name": "311 - Fantastic Reusable Components The Card English.srt",
+          "children": []
+        },
+        {
+          "name": "311 - Fantastic Reusable Components The Card.mp4",
+          "children": []
+        },
+        {
+          "name": "312 - Styling a Card English.srt",
+          "children": []
+        },
+        {
+          "name": "312 - Styling a Card.mp4",
+          "children": []
+        },
+        {
+          "name": "313 - Passing Components as Props English.srt",
+          "children": []
+        },
+        {
+          "name": "313 - Passing Components as Props.mp4",
+          "children": []
+        },
+        {
+          "name": "314 - Dividing Cards into Sections English.srt",
+          "children": []
+        },
+        {
+          "name": "314 - Dividing Cards into Sections.mp4",
+          "children": []
+        },
+        {
+          "name": "315 - Mastering Layout with Flexbox English.srt",
+          "children": []
+        },
+        {
+          "name": "315 - Mastering Layout with Flexbox.mp4",
+          "children": []
+        },
+        {
+          "name": "316 - Positioning of Elements on Mobile English.srt",
+          "children": []
+        },
+        {
+          "name": "316 - Positioning of Elements on Mobile.mp4",
+          "children": []
+        },
+        {
+          "name": "317 - More on Styling English.srt",
+          "children": []
+        },
+        {
+          "name": "317 - More on Styling.mp4",
+          "children": []
+        },
+        {
+          "name": "318 - Images with React Native English.srt",
+          "children": []
+        },
+        {
+          "name": "318 - Images with React Native.mp4",
+          "children": []
+        },
+        {
+          "name": "319 - Displaying Album Artwork English.srt",
+          "children": []
+        },
+        {
+          "name": "319 - Displaying Album Artwork.mp4",
+          "children": []
+        },
+        {
+          "name": "320 - Making Content Scrollable English.srt",
+          "children": []
+        },
+        {
+          "name": "320 - Making Content Scrollable.mp4",
+          "children": []
+        },
+        {
+          "name": "321 - Handling User Input with Buttons English.srt",
+          "children": []
+        },
+        {
+          "name": "321 - Handling User Input with Buttons.mp4",
+          "children": []
+        },
+        {
+          "name": "322 - Styling of Buttons with UX Considerations English.srt",
+          "children": []
+        },
+        {
+          "name": "322 - Styling of Buttons with UX Considerations.mp4",
+          "children": []
+        },
+        {
+          "name": "323 - Responding to User Input English.srt",
+          "children": []
+        },
+        {
+          "name": "323 - Responding to User Input.mp4",
+          "children": []
+        },
+        {
+          "name": "324 - Linking Between Mobile Apps English.srt",
+          "children": []
+        },
+        {
+          "name": "324 - Linking Between Mobile Apps.mp4",
+          "children": []
+        },
+        {
+          "name": "325 - Setting Button Text by Props English.srt",
+          "children": []
+        },
+        {
+          "name": "325 - Setting Button Text by Props.mp4",
+          "children": []
+        },
+        {
+          "name": "326 - App Wrapup English.srt",
+          "children": []
+        },
+        {
+          "name": "326 - App Wrapup.mp4",
+          "children": []
+        },
+        {
+          "name": "327 - Auth App Introduction English.srt",
+          "children": []
+        },
+        {
+          "name": "327 - Auth App Introduction.mp4",
+          "children": []
+        },
+        {
+          "name": "328 - A Common Root Component English.srt",
+          "children": []
+        },
+        {
+          "name": "328 - A Common Root Component.mp4",
+          "children": []
+        },
+        {
+          "name": "329 - Copying Reusable Components English.srt",
+          "children": []
+        },
+        {
+          "name": "329 - Copying Reusable Components.mp4",
+          "children": []
+        },
+        {
+          "name": "330 - What is Firebase English.srt",
+          "children": []
+        },
+        {
+          "name": "330 - What is Firebase.mp4",
+          "children": []
+        },
+        {
+          "name": "331 - Firebase Client Setup English.srt",
+          "children": []
+        },
+        {
+          "name": "331 - Firebase Client Setup.mp4",
+          "children": []
+        },
+        {
+          "name": "332 - Login Form Scaffolding English.srt",
+          "children": []
+        },
+        {
+          "name": "332 - Login Form Scaffolding.mp4",
+          "children": []
+        },
+        {
+          "name": "333 - Handling User Inputs English.srt",
+          "children": []
+        },
+        {
+          "name": "333 - Handling User Inputs.mp4",
+          "children": []
+        },
+        {
+          "name": "334 - More on Handling User Inputs English.srt",
+          "children": []
+        },
+        {
+          "name": "334 - More on Handling User Inputs.mp4",
+          "children": []
+        },
+        {
+          "name": "335 - How to Create Controlled Components English.srt",
+          "children": []
+        },
+        {
+          "name": "335 - How to Create Controlled Components.mp4",
+          "children": []
+        },
+        {
+          "name": "336 - Making Text Inputs From Scratch English.srt",
+          "children": []
+        },
+        {
+          "name": "336 - Making Text Inputs From Scratch.mp4",
+          "children": []
+        },
+        {
+          "name": "337 - A Focus on Passing Props English.srt",
+          "children": []
+        },
+        {
+          "name": "337 - A Focus on Passing Props.mp4",
+          "children": []
+        },
+        {
+          "name": "338 - Making the Input Pretty English.srt",
+          "children": []
+        },
+        {
+          "name": "338 - Making the Input Pretty.mp4",
+          "children": []
+        },
+        {
+          "name": "339 - Wrapping up Inputs English.srt",
+          "children": []
+        },
+        {
+          "name": "339 - Wrapping up Inputs.mp4",
+          "children": []
+        },
+        {
+          "name": "340 - Password Inputs English.srt",
+          "children": []
+        },
+        {
+          "name": "340 - Password Inputs.mp4",
+          "children": []
+        },
+        {
+          "name": "341 - Logging a User In English.srt",
+          "children": []
+        },
+        {
+          "name": "341 - Logging a User In.mp4",
+          "children": []
+        },
+        {
+          "name": "342 - Error Handling English.srt",
+          "children": []
+        },
+        {
+          "name": "342 - Error Handling.mp4",
+          "children": []
+        },
+        {
+          "name": "343 - More on Authentication Flow English.srt",
+          "children": []
+        },
+        {
+          "name": "343 - More on Authentication Flow.mp4",
+          "children": []
+        },
+        {
+          "name": "344 - Creating an Activity Spinner English.srt",
+          "children": []
+        },
+        {
+          "name": "344 - Creating an Activity Spinner.mp4",
+          "children": []
+        },
+        {
+          "name": "345 - Conditional Rendering of JSX English.srt",
+          "children": []
+        },
+        {
+          "name": "345 - Conditional Rendering of JSX.mp4",
+          "children": []
+        },
+        {
+          "name": "346 - Clearing the Form Spinner English.srt",
+          "children": []
+        },
+        {
+          "name": "346 - Clearing the Form Spinner.mp4",
+          "children": []
+        },
+        {
+          "name": "347 - Handling Authentication Events English.srt",
+          "children": []
+        },
+        {
+          "name": "347 - Handling Authentication Events.mp4",
+          "children": []
+        },
+        {
+          "name": "348 - More on Conditional Rendering English.srt",
+          "children": []
+        },
+        {
+          "name": "348 - More on Conditional Rendering.mp4",
+          "children": []
+        },
+        {
+          "name": "349 - Logging a User Out and Wrapup English.srt",
+          "children": []
+        },
+        {
+          "name": "349 - Logging a User Out and Wrapup.mp4",
+          "children": []
+        },
+        {
+          "name": "350 - App Mockup and Approach English.srt",
+          "children": []
+        },
+        {
+          "name": "350 - App Mockup and Approach.mp4",
+          "children": []
+        },
+        {
+          "name": "351 - The Basics of Redux English.srt",
+          "children": []
+        },
+        {
+          "name": "351 - The Basics of Redux.mp4",
+          "children": []
+        },
+        {
+          "name": "352 - More on Redux English.srt",
+          "children": []
+        },
+        {
+          "name": "352 - More on Redux.mp4",
+          "children": []
+        },
+        {
+          "name": "353 - Redux is Hard English.srt",
+          "children": []
+        },
+        {
+          "name": "353 - Redux is Hard.mp4",
+          "children": []
+        },
+        {
+          "name": "354 - Application Boilerplate English.srt",
+          "children": []
+        },
+        {
+          "name": "354 - Application Boilerplate.mp4",
+          "children": []
+        },
+        {
+          "name": "355 - More on Redux Boilerplate English.srt",
+          "children": []
+        },
+        {
+          "name": "355 - More on Redux Boilerplate.mp4",
+          "children": []
+        },
+        {
+          "name": "356 - Rendering the Header English.srt",
+          "children": []
+        },
+        {
+          "name": "356 - Rendering the Header.mp4",
+          "children": []
+        },
+        {
+          "name": "357 - Reducer and State Design English.srt",
+          "children": []
+        },
+        {
+          "name": "357 - Reducer and State Design.mp4",
+          "children": []
+        },
+        {
+          "name": "358 - Library List of Data English.srt",
+          "children": []
+        },
+        {
+          "name": "358 - Library List of Data.mp4",
+          "children": []
+        },
+        {
+          "name": "359 - JSON CopyPaste.html",
+          "children": []
+        },
+        {
+          "name": "360 - The Connect Function English.srt",
+          "children": []
+        },
+        {
+          "name": "360 - The Connect Function.mp4",
+          "children": []
+        },
+        {
+          "name": "361 - MapStateToProps with Connect English.srt",
+          "children": []
+        },
+        {
+          "name": "361 - MapStateToProps with Connect.mp4",
+          "children": []
+        },
+        {
+          "name": "362 - A Quick Review and Breather English.srt",
+          "children": []
+        },
+        {
+          "name": "362 - A Quick Review and Breather.mp4",
+          "children": []
+        },
+        {
+          "name": "363 - The Theory of ListView English.srt",
+          "children": []
+        },
+        {
+          "name": "363 - The Theory of ListView.mp4",
+          "children": []
+        },
+        {
+          "name": "364 - ListView in Practice English.srt",
+          "children": []
+        },
+        {
+          "name": "364 - ListView in Practice.mp4",
+          "children": []
+        },
+        {
+          "name": "365 - Rendering a Single Row English.srt",
+          "children": []
+        },
+        {
+          "name": "365 - Rendering a Single Row.mp4",
+          "children": []
+        },
+        {
+          "name": "366 - Styling the List English.srt",
+          "children": []
+        },
+        {
+          "name": "366 - Styling the List.mp4",
+          "children": []
+        },
+        {
+          "name": "367 - Creating the Selection Reducer English.srt",
+          "children": []
+        },
+        {
+          "name": "367 - Creating the Selection Reducer.mp4",
+          "children": []
+        },
+        {
+          "name": "368 - Introducing Action Creators English.srt",
+          "children": []
+        },
+        {
+          "name": "368 - Introducing Action Creators.mp4",
+          "children": []
+        },
+        {
+          "name": "369 - Calling Action Creators English.srt",
+          "children": []
+        },
+        {
+          "name": "369 - Calling Action Creators.mp4",
+          "children": []
+        },
+        {
+          "name": "370 - Adding a Touchable English.srt",
+          "children": []
+        },
+        {
+          "name": "370 - Adding a Touchable.mp4",
+          "children": []
+        },
+        {
+          "name": "371 - Rules of Reducers English.srt",
+          "children": []
+        },
+        {
+          "name": "371 - Rules of Reducers.mp4",
+          "children": []
+        },
+        {
+          "name": "372 - Expanding a Row English.srt",
+          "children": []
+        },
+        {
+          "name": "372 - Expanding a Row.mp4",
+          "children": []
+        },
+        {
+          "name": "373 - Moving Logic Out of Components English.srt",
+          "children": []
+        },
+        {
+          "name": "373 - Moving Logic Out of Components.mp4",
+          "children": []
+        },
+        {
+          "name": "374 - Animations English.srt",
+          "children": []
+        },
+        {
+          "name": "374 - Animations.mp4",
+          "children": []
+        },
+        {
+          "name": "375 - Wrapup English.srt",
+          "children": []
+        },
+        {
+          "name": "375 - Wrapup.mp4",
+          "children": []
+        },
+        {
+          "name": "376 - Overview of Our Next App English.srt",
+          "children": []
+        },
+        {
+          "name": "376 - Overview of Our Next App.mp4",
+          "children": []
+        },
+        {
+          "name": "377 - App Challenges English.srt",
+          "children": []
+        },
+        {
+          "name": "377 - App Challenges.mp4",
+          "children": []
+        },
+        {
+          "name": "378 - Quick Note.html",
+          "children": []
+        },
+        {
+          "name": "379 - Just a Touch More Setup English.srt",
+          "children": []
+        },
+        {
+          "name": "379 - Just a Touch More Setup.mp4",
+          "children": []
+        },
+        {
+          "name": "380 - More on Boilerplate Setup English.srt",
+          "children": []
+        },
+        {
+          "name": "380 - More on Boilerplate Setup.mp4",
+          "children": []
+        },
+        {
+          "name": "381 - Login Form in a Redux World English.srt",
+          "children": []
+        },
+        {
+          "name": "381 - Login Form in a Redux World.mp4",
+          "children": []
+        },
+        {
+          "name": "382 - Rebuilding the Login Form English.srt",
+          "children": []
+        },
+        {
+          "name": "382 - Rebuilding the Login Form.mp4",
+          "children": []
+        },
+        {
+          "name": "383 - Handling Form Updates with Action Creators English.srt",
+          "children": []
+        },
+        {
+          "name": "383 - Handling Form Updates with Action Creators.mp4",
+          "children": []
+        },
+        {
+          "name": "384 - Wiring up Action Creators English.srt",
+          "children": []
+        },
+        {
+          "name": "384 - Wiring up Action Creators.mp4",
+          "children": []
+        },
+        {
+          "name": "385 - Typed Actions English.srt",
+          "children": []
+        },
+        {
+          "name": "385 - Typed Actions.mp4",
+          "children": []
+        },
+        {
+          "name": "386 - Immutable State English.srt",
+          "children": []
+        },
+        {
+          "name": "386 - Immutable State.mp4",
+          "children": []
+        },
+        {
+          "name": "387 - Creating Immutable State English.srt",
+          "children": []
+        },
+        {
+          "name": "387 - Creating Immutable State.mp4",
+          "children": []
+        },
+        {
+          "name": "388 - More on Creating Immutable State English.srt",
+          "children": []
+        },
+        {
+          "name": "388 - More on Creating Immutable State.mp4",
+          "children": []
+        },
+        {
+          "name": "389 - Synchronous vs Asynchronous Action Creators English.srt",
+          "children": []
+        },
+        {
+          "name": "389 - Synchronous vs Asynchronous Action Creators.mp4",
+          "children": []
+        },
+        {
+          "name": "390 - Introduction to Redux Thunk English.srt",
+          "children": []
+        },
+        {
+          "name": "390 - Introduction to Redux Thunk.mp4",
+          "children": []
+        },
+        {
+          "name": "391 - Redux Thunk in Practice English.srt",
+          "children": []
+        },
+        {
+          "name": "391 - Redux Thunk in Practice.mp4",
+          "children": []
+        },
+        {
+          "name": "392 - Redux Thunk in Practice Continued English.srt",
+          "children": []
+        },
+        {
+          "name": "392 - Redux Thunk in Practice Continued.mp4",
+          "children": []
+        },
+        {
+          "name": "393 - Making LoginUser More Robust English.srt",
+          "children": []
+        },
+        {
+          "name": "393 - Making LoginUser More Robust.mp4",
+          "children": []
+        },
+        {
+          "name": "394 - Creating User Accounts English.srt",
+          "children": []
+        },
+        {
+          "name": "394 - Creating User Accounts.mp4",
+          "children": []
+        },
+        {
+          "name": "395 - Showing Error Messages English.srt",
+          "children": []
+        },
+        {
+          "name": "395 - Showing Error Messages.mp4",
+          "children": []
+        },
+        {
+          "name": "396 - A Firebase Gotcha English.srt",
+          "children": []
+        },
+        {
+          "name": "396 - A Firebase Gotcha.mp4",
+          "children": []
+        },
+        {
+          "name": "397 - Showing a Spinner on Loading English.srt",
+          "children": []
+        },
+        {
+          "name": "397 - Showing a Spinner on Loading.mp4",
+          "children": []
+        },
+        {
+          "name": "398 - Dealing with Navigation English.srt",
+          "children": []
+        },
+        {
+          "name": "398 - Dealing with Navigation.mp4",
+          "children": []
+        },
+        {
+          "name": "399 - Navigation in the Router English.srt",
+          "children": []
+        },
+        {
+          "name": "399 - Navigation in the Router.mp4",
+          "children": []
+        },
+        {
+          "name": "400 - Addressing Styling Issues English.srt",
+          "children": []
+        },
+        {
+          "name": "400 - Addressing Styling Issues.mp4",
+          "children": []
+        },
+        {
+          "name": "401 - Displaying Multiple Scenes English.srt",
+          "children": []
+        },
+        {
+          "name": "401 - Displaying Multiple Scenes.mp4",
+          "children": []
+        },
+        {
+          "name": "402 - Navigating Between Routes English.srt",
+          "children": []
+        },
+        {
+          "name": "402 - Navigating Between Routes.mp4",
+          "children": []
+        },
+        {
+          "name": "403 - Grouping Scenes with Buckets English.srt",
+          "children": []
+        },
+        {
+          "name": "403 - Grouping Scenes with Buckets.mp4",
+          "children": []
+        },
+        {
+          "name": "404 - Navigation Bar Buttons English.srt",
+          "children": []
+        },
+        {
+          "name": "404 - Navigation Bar Buttons.mp4",
+          "children": []
+        },
+        {
+          "name": "405 - Navigating to the Employee Creation Form English.srt",
+          "children": []
+        },
+        {
+          "name": "405 - Navigating to the Employee Creation Form.mp4",
+          "children": []
+        },
+        {
+          "name": "406 - Building the Employee Creation Form English.srt",
+          "children": []
+        },
+        {
+          "name": "406 - Building the Employee Creation Form.mp4",
+          "children": []
+        },
+        {
+          "name": "407 - Employee Form Actions English.srt",
+          "children": []
+        },
+        {
+          "name": "407 - Employee Form Actions.mp4",
+          "children": []
+        },
+        {
+          "name": "408 - Handling Form Updates at the Reducer Level English.srt",
+          "children": []
+        },
+        {
+          "name": "408 - Handling Form Updates at the Reducer Level.mp4",
+          "children": []
+        },
+        {
+          "name": "409 - Dynamic Property Updates English.srt",
+          "children": []
+        },
+        {
+          "name": "409 - Dynamic Property Updates.mp4",
+          "children": []
+        },
+        {
+          "name": "410 - The Picker Component English.srt",
+          "children": []
+        },
+        {
+          "name": "410 - The Picker Component.mp4",
+          "children": []
+        },
+        {
+          "name": "411 - Pickers and Style Overrides English.srt",
+          "children": []
+        },
+        {
+          "name": "411 - Pickers and Style Overrides.mp4",
+          "children": []
+        },
+        {
+          "name": "412 - Firebase JSON Schema English.srt",
+          "children": []
+        },
+        {
+          "name": "412 - Firebase JSON Schema.mp4",
+          "children": []
+        },
+        {
+          "name": "413 - Data Security in Firebase English.srt",
+          "children": []
+        },
+        {
+          "name": "413 - Data Security in Firebase.mp4",
+          "children": []
+        },
+        {
+          "name": "414 - Creating Records with Firebase English.srt",
+          "children": []
+        },
+        {
+          "name": "414 - Creating Records with Firebase.mp4",
+          "children": []
+        },
+        {
+          "name": "415 - Default Form Values English.srt",
+          "children": []
+        },
+        {
+          "name": "415 - Default Form Values.mp4",
+          "children": []
+        },
+        {
+          "name": "416 - Successful Data Save to Firebase English.srt",
+          "children": []
+        },
+        {
+          "name": "416 - Successful Data Save to Firebase.mp4",
+          "children": []
+        },
+        {
+          "name": "417 - Resetting Form Properties English.srt",
+          "children": []
+        },
+        {
+          "name": "417 - Resetting Form Properties.mp4",
+          "children": []
+        },
+        {
+          "name": "418 - Fetching Data from Firebase English.srt",
+          "children": []
+        },
+        {
+          "name": "418 - Fetching Data from Firebase.mp4",
+          "children": []
+        },
+        {
+          "name": "419 - Storing Data by ID English.srt",
+          "children": []
+        },
+        {
+          "name": "419 - Storing Data by ID.mp4",
+          "children": []
+        },
+        {
+          "name": "420 - Dynamic DataSource Building English.srt",
+          "children": []
+        },
+        {
+          "name": "420 - Dynamic DataSource Building.mp4",
+          "children": []
+        },
+        {
+          "name": "421 - Transforming Objects to Arrays English.srt",
+          "children": []
+        },
+        {
+          "name": "421 - Transforming Objects to Arrays.mp4",
+          "children": []
+        },
+        {
+          "name": "422 - List Building in Employee List English.srt",
+          "children": []
+        },
+        {
+          "name": "422 - List Building in Employee List.mp4",
+          "children": []
+        },
+        {
+          "name": "423 - Reusing the Employee Form English.srt",
+          "children": []
+        },
+        {
+          "name": "423 - Reusing the Employee Form.mp4",
+          "children": []
+        },
+        {
+          "name": "424 - Create vs Edit Forms English.srt",
+          "children": []
+        },
+        {
+          "name": "424 - Create vs Edit Forms.mp4",
+          "children": []
+        },
+        {
+          "name": "425 - Reusable Forms English.srt",
+          "children": []
+        },
+        {
+          "name": "425 - Reusable Forms.mp4",
+          "children": []
+        },
+        {
+          "name": "426 - A Standalone Employee Edit Form English.srt",
+          "children": []
+        },
+        {
+          "name": "426 - A Standalone Employee Edit Form.mp4",
+          "children": []
+        },
+        {
+          "name": "427 - Initializing Forms from State English.srt",
+          "children": []
+        },
+        {
+          "name": "427 - Initializing Forms from State.mp4",
+          "children": []
+        },
+        {
+          "name": "428 - Updating Firebase Records English.srt",
+          "children": []
+        },
+        {
+          "name": "428 - Updating Firebase Records.mp4",
+          "children": []
+        },
+        {
+          "name": "429 - Clearing Form Attributes English.srt",
+          "children": []
+        },
+        {
+          "name": "429 - Clearing Form Attributes.mp4",
+          "children": []
+        },
+        {
+          "name": "430 - Texting Employees English.srt",
+          "children": []
+        },
+        {
+          "name": "430 - Texting Employees.mp4",
+          "children": []
+        },
+        {
+          "name": "431 - Modals as a Reusable Component English.srt",
+          "children": []
+        },
+        {
+          "name": "431 - Modals as a Reusable Component.mp4",
+          "children": []
+        },
+        {
+          "name": "432 - The Modal Component Continued English.srt",
+          "children": []
+        },
+        {
+          "name": "432 - The Modal Component Continued.mp4",
+          "children": []
+        },
+        {
+          "name": "433 - Styling the Modal English.srt",
+          "children": []
+        },
+        {
+          "name": "433 - Styling the Modal.mp4",
+          "children": []
+        },
+        {
+          "name": "434 - Employee Delete Action Creator English.srt",
+          "children": []
+        },
+        {
+          "name": "434 - Employee Delete Action Creator.mp4",
+          "children": []
+        },
+        {
+          "name": "435 - Wiring up Employee Delete English.srt",
+          "children": []
+        },
+        {
+          "name": "435 - Wiring up Employee Delete.mp4",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "18 - Extras",
+      "children": [
+        {
+          "name": "187 - Creating a JWT English.srt",
+          "children": []
+        },
+        {
+          "name": "187 - Creating a JWT.mp4",
+          "children": []
+        },
+        {
+          "name": "188 - Wiring Up JSON Web Tokens English.srt",
+          "children": []
+        },
+        {
+          "name": "188 - Wiring Up JSON Web Tokens.mp4",
+          "children": []
+        },
+        {
+          "name": "189 - Understanding Password Hashing English.srt",
+          "children": []
+        },
+        {
+          "name": "189 - Understanding Password Hashing.mp4",
+          "children": []
+        },
+        {
+          "name": "190 - Salting and Hashing English.srt",
+          "children": []
+        },
+        {
+          "name": "190 - Salting and Hashing.mp4",
+          "children": []
+        },
+        {
+          "name": "191 - The Signin Route English.srt",
+          "children": []
+        },
+        {
+          "name": "191 - The Signin Route.mp4",
+          "children": []
+        },
+        {
+          "name": "192 - Testing Signup and Signin English.srt",
+          "children": []
+        },
+        {
+          "name": "192 - Testing Signup and Signin.mp4",
+          "children": []
+        },
+        {
+          "name": "193 - Defining Tracks English.srt",
+          "children": []
+        },
+        {
+          "name": "193 - Defining Tracks.mp4",
+          "children": []
+        },
+        {
+          "name": "194 - Listing Tracks English.srt",
+          "children": []
+        },
+        {
+          "name": "194 - Listing Tracks.mp4",
+          "children": []
+        },
+        {
+          "name": "195 - Creating Tracks English.srt",
+          "children": []
+        },
+        {
+          "name": "195 - Creating Tracks.mp4",
+          "children": []
+        },
+        {
+          "name": "436 - Bonus.html",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "2 - Working with Content",
+      "children": [
+        {
+          "name": "11 - Overview of React Components English.srt",
+          "children": []
+        },
+        {
+          "name": "11 - Overview of React Components.mp4",
+          "children": []
+        },
+        {
+          "name": "12 - 12-showing.zip",
+          "children": []
+        },
+        {
+          "name": "12 - Showing a Custom Component English.srt",
+          "children": []
+        },
+        {
+          "name": "12 - Showing a Custom Component.mp4",
+          "children": []
+        },
+        {
+          "name": "13 - Common Questions and Answers English.srt",
+          "children": []
+        },
+        {
+          "name": "13 - Common Questions and Answers.mp4",
+          "children": []
+        },
+        {
+          "name": "14 - Rules of JSX English.srt",
+          "children": []
+        },
+        {
+          "name": "14 - Rules of JSX.mp4",
+          "children": []
+        },
+        {
+          "name": "15 - One Common Error English.srt",
+          "children": []
+        },
+        {
+          "name": "15 - One Common Error.mp4",
+          "children": []
+        },
+        {
+          "name": "16 - JSX Exercise Overview English.srt",
+          "children": []
+        },
+        {
+          "name": "16 - JSX Exercise Overview.mp4",
+          "children": []
+        },
+        {
+          "name": "17 - 17-jsx.zip",
+          "children": []
+        },
+        {
+          "name": "17 - JSX Solution English.srt",
+          "children": []
+        },
+        {
+          "name": "17 - JSX Solution.mp4",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "3 - List Building With Style",
+      "children": [
+        {
+          "name": "18 - Building Lists English.srt",
+          "children": []
+        },
+        {
+          "name": "18 - Building Lists.mp4",
+          "children": []
+        },
+        {
+          "name": "19 - The FlatList Element English.srt",
+          "children": []
+        },
+        {
+          "name": "19 - The FlatList Element.mp4",
+          "children": []
+        },
+        {
+          "name": "20 - Rendering a FlatList English.srt",
+          "children": []
+        },
+        {
+          "name": "20 - Rendering a FlatList.mp4",
+          "children": []
+        },
+        {
+          "name": "21 - Why a Key Property English.srt",
+          "children": []
+        },
+        {
+          "name": "21 - Why a Key Property.mp4",
+          "children": []
+        },
+        {
+          "name": "22 - Solving the Key Issue English.srt",
+          "children": []
+        },
+        {
+          "name": "22 - Solving the Key Issue.mp4",
+          "children": []
+        },
+        {
+          "name": "23 - A Few Props Around FlatList English.srt",
+          "children": []
+        },
+        {
+          "name": "23 - A Few Props Around FlatList.mp4",
+          "children": []
+        },
+        {
+          "name": "24 - Exercise Overview English.srt",
+          "children": []
+        },
+        {
+          "name": "24 - Exercise Overview.mp4",
+          "children": []
+        },
+        {
+          "name": "25 - 25-exercise.zip",
+          "children": []
+        },
+        {
+          "name": "25 - Exercise Solution English.srt",
+          "children": []
+        },
+        {
+          "name": "25 - Exercise Solution.mp4",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "4 - Navigating Users Between Screens",
+      "children": [
+        {
+          "name": "26 - Button Types English.srt",
+          "children": []
+        },
+        {
+          "name": "26 - Button Types.mp4",
+          "children": []
+        },
+        {
+          "name": "27 - Buttons in Action English.srt",
+          "children": []
+        },
+        {
+          "name": "27 - Buttons in Action.mp4",
+          "children": []
+        },
+        {
+          "name": "28 - Touchable Opacity in Action English.srt",
+          "children": []
+        },
+        {
+          "name": "28 - Touchable Opacity in Action.mp4",
+          "children": []
+        },
+        {
+          "name": "29 - Navigating with React Navigation English.srt",
+          "children": []
+        },
+        {
+          "name": "29 - Navigating with React Navigation.mp4",
+          "children": []
+        },
+        {
+          "name": "30 - 30-destructuring.zip",
+          "children": []
+        },
+        {
+          "name": "30 - Destructuring Props English.srt",
+          "children": []
+        },
+        {
+          "name": "30 - Destructuring Props.mp4",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "5 - Building Reusable Components",
+      "children": [
+        {
+          "name": "31 - Component Reuse with Props English.srt",
+          "children": []
+        },
+        {
+          "name": "31 - Component Reuse with Props.mp4",
+          "children": []
+        },
+        {
+          "name": "32 - Exercise Solution English.srt",
+          "children": []
+        },
+        {
+          "name": "32 - Exercise Solution.mp4",
+          "children": []
+        },
+        {
+          "name": "33 - ParentChild Relationships English.srt",
+          "children": []
+        },
+        {
+          "name": "33 - ParentChild Relationships.mp4",
+          "children": []
+        },
+        {
+          "name": "34 - Communicating from Parent to Child English.srt",
+          "children": []
+        },
+        {
+          "name": "34 - Communicating from Parent to Child.mp4",
+          "children": []
+        },
+        {
+          "name": "35 - Images Download.html",
+          "children": []
+        },
+        {
+          "name": "35 - images.zip",
+          "children": []
+        },
+        {
+          "name": "36 - Showing Images English.srt",
+          "children": []
+        },
+        {
+          "name": "36 - Showing Images.mp4",
+          "children": []
+        },
+        {
+          "name": "37 - Passing Images as Props English.srt",
+          "children": []
+        },
+        {
+          "name": "37 - Passing Images as Props.mp4",
+          "children": []
+        },
+        {
+          "name": "38 - Exercise Outline English.srt",
+          "children": []
+        },
+        {
+          "name": "38 - Exercise Outline.mp4",
+          "children": []
+        },
+        {
+          "name": "39 - 39-exercise.zip",
+          "children": []
+        },
+        {
+          "name": "39 - Exercise Solution English.srt",
+          "children": []
+        },
+        {
+          "name": "39 - Exercise Solution.mp4",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "6 - State Management in React Components",
+      "children": [
+        {
+          "name": "40 - State in Components English.srt",
+          "children": []
+        },
+        {
+          "name": "40 - State in Components.mp4",
+          "children": []
+        },
+        {
+          "name": "41 - Screen Boilerplate English.srt",
+          "children": []
+        },
+        {
+          "name": "41 - Screen Boilerplate.mp4",
+          "children": []
+        },
+        {
+          "name": "42 - State in Action English.srt",
+          "children": []
+        },
+        {
+          "name": "42 - State in Action.mp4",
+          "children": []
+        },
+        {
+          "name": "43 - Notes on State English.srt",
+          "children": []
+        },
+        {
+          "name": "43 - Notes on State.mp4",
+          "children": []
+        },
+        {
+          "name": "44 - App Overview English.srt",
+          "children": []
+        },
+        {
+          "name": "44 - App Overview.mp4",
+          "children": []
+        },
+        {
+          "name": "45 - Generating Random Colors English.srt",
+          "children": []
+        },
+        {
+          "name": "45 - Generating Random Colors.mp4",
+          "children": []
+        },
+        {
+          "name": "46 - Adding Random Colors English.srt",
+          "children": []
+        },
+        {
+          "name": "46 - Adding Random Colors.mp4",
+          "children": []
+        },
+        {
+          "name": "47 - 47-showing.zip",
+          "children": []
+        },
+        {
+          "name": "47 - Showing Colors with a FlatList English.srt",
+          "children": []
+        },
+        {
+          "name": "47 - Showing Colors with a FlatList.mp4",
+          "children": []
+        },
+        {
+          "name": "48 - App Overview English.srt",
+          "children": []
+        },
+        {
+          "name": "48 - App Overview.mp4",
+          "children": []
+        },
+        {
+          "name": "49 - 49-reusable.zip",
+          "children": []
+        },
+        {
+          "name": "49 - Reusable Color Adjusters English.srt",
+          "children": []
+        },
+        {
+          "name": "49 - Reusable Color Adjusters.mp4",
+          "children": []
+        },
+        {
+          "name": "50 - Coordinating State English.srt",
+          "children": []
+        },
+        {
+          "name": "50 - Coordinating State.mp4",
+          "children": []
+        },
+        {
+          "name": "51 - 51-passing.zip",
+          "children": []
+        },
+        {
+          "name": "51 - Passing Callbacks to Children English.srt",
+          "children": []
+        },
+        {
+          "name": "51 - Passing Callbacks to Children.mp4",
+          "children": []
+        },
+        {
+          "name": "52 - 52-tying.zip",
+          "children": []
+        },
+        {
+          "name": "52 - Tying State Values Together English.srt",
+          "children": []
+        },
+        {
+          "name": "52 - Tying State Values Together.mp4",
+          "children": []
+        },
+        {
+          "name": "53 - 53-validating.zip",
+          "children": []
+        },
+        {
+          "name": "53 - Validating State Changes English.srt",
+          "children": []
+        },
+        {
+          "name": "53 - Validating State Changes.mp4",
+          "children": []
+        },
+        {
+          "name": "54 - 54-reusable.zip",
+          "children": []
+        },
+        {
+          "name": "54 - Reusable State Updates English.srt",
+          "children": []
+        },
+        {
+          "name": "54 - Reusable State Updates.mp4",
+          "children": []
+        },
+        {
+          "name": "55 - Introduction to Reducers English.srt",
+          "children": []
+        },
+        {
+          "name": "55 - Introduction to Reducers.mp4",
+          "children": []
+        },
+        {
+          "name": "56 - Creating a Reducer English.srt",
+          "children": []
+        },
+        {
+          "name": "56 - Creating a Reducer.mp4",
+          "children": []
+        },
+        {
+          "name": "57 - 57-applying.zip",
+          "children": []
+        },
+        {
+          "name": "57 - Applying State with a Reducer English.srt",
+          "children": []
+        },
+        {
+          "name": "57 - Applying State with a Reducer.mp4",
+          "children": []
+        },
+        {
+          "name": "58 - 58-restoring.zip",
+          "children": []
+        },
+        {
+          "name": "58 - Restoring Validation English.srt",
+          "children": []
+        },
+        {
+          "name": "58 - Restoring Validation.mp4",
+          "children": []
+        },
+        {
+          "name": "59 - Community Convention in Reducers English.srt",
+          "children": []
+        },
+        {
+          "name": "59 - Community Convention in Reducers.mp4",
+          "children": []
+        },
+        {
+          "name": "60 - Exercise Outline English.srt",
+          "children": []
+        },
+        {
+          "name": "60 - Exercise Outline.mp4",
+          "children": []
+        },
+        {
+          "name": "61 - 61-exercise.zip",
+          "children": []
+        },
+        {
+          "name": "61 - Exercise Solution English.srt",
+          "children": []
+        },
+        {
+          "name": "61 - Exercise Solution.mp4",
+          "children": []
+        },
+        {
+          "name": "62 - Handling Text Input English.srt",
+          "children": []
+        },
+        {
+          "name": "62 - Handling Text Input.mp4",
+          "children": []
+        },
+        {
+          "name": "63 - Showing a Text Input English.srt",
+          "children": []
+        },
+        {
+          "name": "63 - Showing a Text Input.mp4",
+          "children": []
+        },
+        {
+          "name": "64 - Two Important Props English.srt",
+          "children": []
+        },
+        {
+          "name": "64 - Two Important Props.mp4",
+          "children": []
+        },
+        {
+          "name": "65 - Weird Things with Text and State English.srt",
+          "children": []
+        },
+        {
+          "name": "65 - Weird Things with Text and State.mp4",
+          "children": []
+        },
+        {
+          "name": "66 - Updating State English.srt",
+          "children": []
+        },
+        {
+          "name": "66 - Updating State.mp4",
+          "children": []
+        },
+        {
+          "name": "67 - Exercise Outline English.srt",
+          "children": []
+        },
+        {
+          "name": "67 - Exercise Outline.mp4",
+          "children": []
+        },
+        {
+          "name": "68 - 68-exercise.zip",
+          "children": []
+        },
+        {
+          "name": "68 - Exercise Solution English.srt",
+          "children": []
+        },
+        {
+          "name": "68 - Exercise Solution.mp4",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "7 - How to Handle Screen Layout",
+      "children": [
+        {
+          "name": "69 - Layout with React Native English.srt",
+          "children": []
+        },
+        {
+          "name": "69 - Layout with React Native.mp4",
+          "children": []
+        },
+        {
+          "name": "70 - Basics of Box Object Model English.srt",
+          "children": []
+        },
+        {
+          "name": "70 - Basics of Box Object Model.mp4",
+          "children": []
+        },
+        {
+          "name": "71 - AlignItems with Flex English.srt",
+          "children": []
+        },
+        {
+          "name": "71 - AlignItems with Flex.mp4",
+          "children": []
+        },
+        {
+          "name": "72 - Flex Direction English.srt",
+          "children": []
+        },
+        {
+          "name": "72 - Flex Direction.mp4",
+          "children": []
+        },
+        {
+          "name": "73 - Justify Content English.srt",
+          "children": []
+        },
+        {
+          "name": "73 - Justify Content.mp4",
+          "children": []
+        },
+        {
+          "name": "74 - Flex Values English.srt",
+          "children": []
+        },
+        {
+          "name": "74 - Flex Values.mp4",
+          "children": []
+        },
+        {
+          "name": "75 - Align Self on Children English.srt",
+          "children": []
+        },
+        {
+          "name": "75 - Align Self on Children.mp4",
+          "children": []
+        },
+        {
+          "name": "76 - The Position Property English.srt",
+          "children": []
+        },
+        {
+          "name": "76 - The Position Property.mp4",
+          "children": []
+        },
+        {
+          "name": "77 - Top Bottom Left Right English.srt",
+          "children": []
+        },
+        {
+          "name": "77 - Top Bottom Left Right.mp4",
+          "children": []
+        },
+        {
+          "name": "78 - Absolute Fill Objects English.srt",
+          "children": []
+        },
+        {
+          "name": "78 - Absolute Fill Objects.mp4",
+          "children": []
+        },
+        {
+          "name": "79 - Applying Layout Systems English.srt",
+          "children": []
+        },
+        {
+          "name": "79 - Applying Layout Systems.mp4",
+          "children": []
+        },
+        {
+          "name": "80 - Exercise Overview English.srt",
+          "children": []
+        },
+        {
+          "name": "80 - Exercise Overview.mp4",
+          "children": []
+        },
+        {
+          "name": "81 - 81-exercise.zip",
+          "children": []
+        },
+        {
+          "name": "81 - Exercise Solution English.srt",
+          "children": []
+        },
+        {
+          "name": "81 - Exercise Solution.mp4",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "8 - Putting It All Together Restaurant Search App",
+      "children": [
+        {
+          "name": "82 - App Overview English.srt",
+          "children": []
+        },
+        {
+          "name": "82 - App Overview.mp4",
+          "children": []
+        },
+        {
+          "name": "83 - Important Note About Project Generation.html",
+          "children": []
+        },
+        {
+          "name": "84 - 84-project.zip",
+          "children": []
+        },
+        {
+          "name": "84 - Project Generation English.srt",
+          "children": []
+        },
+        {
+          "name": "84 - Project Generation.mp4",
+          "children": []
+        },
+        {
+          "name": "85 - Yelp API Workarounds.html",
+          "children": []
+        },
+        {
+          "name": "86 - Yelp Signup English.srt",
+          "children": []
+        },
+        {
+          "name": "86 - Yelp Signup.mp4",
+          "children": []
+        },
+        {
+          "name": "87 - Yelp Walkthrough English.srt",
+          "children": []
+        },
+        {
+          "name": "87 - Yelp Walkthrough.mp4",
+          "children": []
+        },
+        {
+          "name": "88 - React Navigation English.srt",
+          "children": []
+        },
+        {
+          "name": "88 - React Navigation.mp4",
+          "children": []
+        },
+        {
+          "name": "89 - Required React Navigation Installation Update.html",
+          "children": []
+        },
+        {
+          "name": "89 - food-boilerplate.zip",
+          "children": []
+        },
+        {
+          "name": "90 - 90-assembling.zip",
+          "children": []
+        },
+        {
+          "name": "90 - Assembling a Navigator English.srt",
+          "children": []
+        },
+        {
+          "name": "90 - Assembling a Navigator.mp4",
+          "children": []
+        },
+        {
+          "name": "91 - Architecture Approach English.srt",
+          "children": []
+        },
+        {
+          "name": "91 - Architecture Approach.mp4",
+          "children": []
+        },
+        {
+          "name": "92 - Starting the SearchBar English.srt",
+          "children": []
+        },
+        {
+          "name": "92 - Starting the SearchBar.mp4",
+          "children": []
+        },
+        {
+          "name": "93 - Displaying Icons English.srt",
+          "children": []
+        },
+        {
+          "name": "93 - Displaying Icons.mp4",
+          "children": []
+        },
+        {
+          "name": "94 - Search Bar Styling English.srt",
+          "children": []
+        },
+        {
+          "name": "94 - Search Bar Styling.mp4",
+          "children": []
+        },
+        {
+          "name": "95 - A Touch More Styling English.srt",
+          "children": []
+        },
+        {
+          "name": "95 - A Touch More Styling.mp4",
+          "children": []
+        },
+        {
+          "name": "96 - 96-managing.zip",
+          "children": []
+        },
+        {
+          "name": "96 - Managing State English.srt",
+          "children": []
+        },
+        {
+          "name": "96 - Managing State.mp4",
+          "children": []
+        },
+        {
+          "name": "97 - 97-detecting.zip",
+          "children": []
+        },
+        {
+          "name": "97 - Detecting Editing Completion English.srt",
+          "children": []
+        },
+        {
+          "name": "97 - Detecting Editing Completion.mp4",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "9 - Using Outside APIs",
+      "children": [
+        {
+          "name": "100 - 100-error.zip",
+          "children": []
+        },
+        {
+          "name": "100 - Error Handling English.srt",
+          "children": []
+        },
+        {
+          "name": "100 - Error Handling.mp4",
+          "children": []
+        },
+        {
+          "name": "101 - Running an Initial Search English.srt",
+          "children": []
+        },
+        {
+          "name": "101 - Running an Initial Search.mp4",
+          "children": []
+        },
+        {
+          "name": "98 - Configuring Axios English.srt",
+          "children": []
+        },
+        {
+          "name": "98 - Configuring Axios.mp4",
+          "children": []
+        },
+        {
+          "name": "99 - 99-making.zip",
+          "children": []
+        },
+        {
+          "name": "99 - Making the Request English.srt",
+          "children": []
+        },
+        {
+          "name": "99 - Making the Request.mp4",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
