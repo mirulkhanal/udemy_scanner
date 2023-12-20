@@ -68,13 +68,15 @@ function extractCoursePageDetails(course$) {
   const rating = course$('.star-rating-module--rating-number--2xeHu')
     .text()
     .trim();
-  const numRatings = extractNumRatings(
-    course$('.clp-lead__element-item:contains("ratings") span').text().trim()
-  );
+  // const numRatings = extractNumRatings(
+  //   course$('.clp-lead__element-item:contains("ratings") span').text().trim()
+  // );
   const enrollment = extractEnrollment(
     course$('.clp-lead__element-item:contains("students")').text().trim()
   );
-  const instructor = course$('.ud-instructor-links').text().trim();
+  const instructors = extractLecturerInfo(
+    course$('.ud-instructor-links').text().trim()
+  );
   const lastUpdate = course$('.last-update-date span').text().trim();
   const courseLanguage = course$('.clp-lead__locale span').text().trim();
   const captionsLanguages = course$('.caption--captions--joQAG span')
@@ -93,9 +95,9 @@ function extractCoursePageDetails(course$) {
     courseHeadline,
     badges,
     rating,
-    numRatings,
+    // numRatings,
     enrollment,
-    instructor,
+    instructors,
     lastUpdate,
     courseLanguage,
     captionsLanguages,
@@ -110,11 +112,61 @@ function extractImageArray(srcset) {
   return imgArray;
 }
 
-// Function to extract the formatted numRatings
-function extractNumRatings(numRatingsText) {
-  const matches = numRatingsText.match(/([\d.]+).*\((\d+) ratings\)/);
-  return matches ? `${matches[1]} (${matches[2]} ratings)` : null;
+function extractLecturerInfo(sentence) {
+  function findMatchingLetterInWord(word) {
+    const match = word.match(/(?:[a-z]+)([A-Z][a-z]*)/);
+    return match ? match[1][0] : null;
+  }
+
+  function findIndexOfMatchingLetterInSentence(text) {
+    const matchingLetter = findMatchingLetterInWord(text);
+
+    if (matchingLetter === null) {
+      return null;
+    }
+
+    const index = text.indexOf(matchingLetter);
+    return index !== -1 ? index : null;
+  }
+
+  function splitSentenceAtMatchingLetter(text) {
+    const index = findIndexOfMatchingLetterInSentence(text);
+
+    if (index === null) {
+      return [text];
+    }
+
+    const beforeMatchingLetter = text.substring(0, index).trim();
+    const afterMatchingLetter = text.substring(index).trim();
+
+    return [beforeMatchingLetter, afterMatchingLetter];
+  }
+
+  function recursiveSplit(text) {
+    const result = splitSentenceAtMatchingLetter(text);
+
+    if (result.length === 2) {
+      const secondPart = result[1];
+      const matchingLetterIndex =
+        findIndexOfMatchingLetterInSentence(secondPart);
+
+      if (matchingLetterIndex !== null) {
+        const recursiveResult = recursiveSplit(secondPart);
+        return [result[0], ...recursiveResult];
+      }
+    }
+
+    return result;
+  }
+
+  return recursiveSplit(sentence);
 }
+
+// // Function to extract the formatted numRatings
+// function extractNumRatings(numRatingsText) {
+//   const matches = numRatingsText.match(/([\d.]+).*\((\d+) ratings\)/);
+//   return matches ? `${matches[1]} (${matches[2]} ratings)` : null;
+// }
 
 // Function to extract the formatted enrollment
 function extractEnrollment(enrollmentText) {
