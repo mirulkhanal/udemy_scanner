@@ -4,3 +4,5 @@
 jsdoc.conf.js
 node_modules/
 src/.config
+src/all_course_structure.json
+src/metadata.json
