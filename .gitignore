@@ -3,3 +3,4 @@
 .vscode/*
 jsdoc.conf.js
 node_modules/
+src/.config
