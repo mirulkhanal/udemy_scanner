@@ -6,7 +6,7 @@ const dotenv = require('dotenv');
 dotenv.config();
 
 function courseTitlesArray(jsonArray) {
-  const titlesArray = jsonArray.map(entry => entry.title);
+  const titlesArray = jsonArray.map((entry) => entry.title);
   return titlesArray;
 }
 
